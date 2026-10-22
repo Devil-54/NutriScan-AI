@@ -1,0 +1,2074 @@
+[
+  {
+    "ins_code": "INS 100",
+    "name": "Curcumin",
+    "category": "Food Color",
+    "purpose": "Yellow color",
+    "risk_level": "Low",
+    "description": "Natural pigment from turmeric; considered safe."
+  },
+  {
+    "ins_code": "INS 101",
+    "name": "Riboflavin",
+    "category": "Food Color",
+    "purpose": "Yellow-orange color",
+    "risk_level": "Low",
+    "description": "Vitamin B2; naturally occurring, safe."
+  },
+  {
+    "ins_code": "INS 102",
+    "name": "Tartrazine",
+    "category": "Food Color",
+    "purpose": "Yellow color",
+    "risk_level": "Moderate",
+    "description": "Synthetic azo dye; linked to hyperactivity in children and allergic reactions in sensitive individuals."
+  },
+  {
+    "ins_code": "INS 104",
+    "name": "Quinoline Yellow",
+    "category": "Food Color",
+    "purpose": "Yellow color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; may cause allergic reactions in sensitive individuals."
+  },
+  {
+    "ins_code": "INS 110",
+    "name": "Sunset Yellow FCF",
+    "category": "Food Color",
+    "purpose": "Orange color",
+    "risk_level": "Moderate",
+    "description": "Synthetic azo dye; linked to hyperactivity and allergic reactions."
+  },
+  {
+    "ins_code": "INS 120",
+    "name": "Carmine (Cochineal)",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "Moderate",
+    "description": "Insect-derived natural dye; can cause allergic reactions."
+  },
+  {
+    "ins_code": "INS 122",
+    "name": "Azorubine (Carmoisine)",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "Moderate",
+    "description": "Synthetic azo dye; linked to hyperactivity in children."
+  },
+  {
+    "ins_code": "INS 123",
+    "name": "Amaranth",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "High",
+    "description": "Synthetic azo dye; banned in some countries over safety concerns."
+  },
+  {
+    "ins_code": "INS 124",
+    "name": "Ponceau 4R",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "Moderate",
+    "description": "Synthetic azo dye; associated with hyperactivity and allergic reactions."
+  },
+  {
+    "ins_code": "INS 127",
+    "name": "Erythrosine",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; thyroid effects noted in animal studies at high doses."
+  },
+  {
+    "ins_code": "INS 129",
+    "name": "Allura Red AC",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "Moderate",
+    "description": "Synthetic azo dye; linked to hyperactivity in children."
+  },
+  {
+    "ins_code": "INS 131",
+    "name": "Patent Blue V",
+    "category": "Food Color",
+    "purpose": "Blue color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; can cause allergic reactions."
+  },
+  {
+    "ins_code": "INS 132",
+    "name": "Indigotine (Indigo Carmine)",
+    "category": "Food Color",
+    "purpose": "Blue color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; generally recognized as safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 133",
+    "name": "Brilliant Blue FCF",
+    "category": "Food Color",
+    "purpose": "Blue color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; some reports of allergic reactions."
+  },
+  {
+    "ins_code": "INS 140",
+    "name": "Chlorophyll",
+    "category": "Food Color",
+    "purpose": "Green color",
+    "risk_level": "Low",
+    "description": "Natural plant pigment; considered safe."
+  },
+  {
+    "ins_code": "INS 141",
+    "name": "Copper Complexes of Chlorophyll",
+    "category": "Food Color",
+    "purpose": "Green color",
+    "risk_level": "Low",
+    "description": "Semi-synthetic stabilized chlorophyll; generally safe."
+  },
+  {
+    "ins_code": "INS 142",
+    "name": "Green S",
+    "category": "Food Color",
+    "purpose": "Green color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; banned in some countries."
+  },
+  {
+    "ins_code": "INS 143",
+    "name": "Fast Green FCF",
+    "category": "Food Color",
+    "purpose": "Green color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; restricted use in several countries."
+  },
+  {
+    "ins_code": "INS 150a",
+    "name": "Plain Caramel",
+    "category": "Food Color",
+    "purpose": "Brown color",
+    "risk_level": "Low",
+    "description": "Caramelized sugar; considered safe."
+  },
+  {
+    "ins_code": "INS 150b",
+    "name": "Caustic Sulphite Caramel",
+    "category": "Food Color",
+    "purpose": "Brown color",
+    "risk_level": "Low",
+    "description": "Caramel color variant; generally safe."
+  },
+  {
+    "ins_code": "INS 150c",
+    "name": "Ammonia Caramel",
+    "category": "Food Color",
+    "purpose": "Brown color",
+    "risk_level": "Moderate",
+    "description": "May contain 4-MEI, a compound of some regulatory concern at high levels."
+  },
+  {
+    "ins_code": "INS 150d",
+    "name": "Sulphite Ammonia Caramel",
+    "category": "Food Color",
+    "purpose": "Brown color",
+    "risk_level": "Moderate",
+    "description": "May contain 4-MEI; used in colas, subject to regulatory limits."
+  },
+  {
+    "ins_code": "INS 151",
+    "name": "Brilliant Black BN",
+    "category": "Food Color",
+    "purpose": "Black color",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye; banned in some countries, linked to hyperactivity."
+  },
+  {
+    "ins_code": "INS 153",
+    "name": "Vegetable Carbon",
+    "category": "Food Color",
+    "purpose": "Black color",
+    "risk_level": "Low",
+    "description": "Natural charcoal-based color; considered safe."
+  },
+  {
+    "ins_code": "INS 155",
+    "name": "Brown HT",
+    "category": "Food Color",
+    "purpose": "Brown color",
+    "risk_level": "Moderate",
+    "description": "Synthetic azo dye; linked to hyperactivity in children."
+  },
+  {
+    "ins_code": "INS 160a",
+    "name": "Beta-Carotene",
+    "category": "Food Color",
+    "purpose": "Orange color",
+    "risk_level": "Low",
+    "description": "Natural provitamin A pigment; considered safe."
+  },
+  {
+    "ins_code": "INS 160b",
+    "name": "Annatto",
+    "category": "Food Color",
+    "purpose": "Orange-yellow color",
+    "risk_level": "Moderate",
+    "description": "Natural extract; rare allergic reactions reported."
+  },
+  {
+    "ins_code": "INS 160c",
+    "name": "Paprika Extract",
+    "category": "Food Color",
+    "purpose": "Orange-red color",
+    "risk_level": "Low",
+    "description": "Natural extract from peppers; considered safe."
+  },
+  {
+    "ins_code": "INS 160e",
+    "name": "Beta-Apo-8'-Carotenal",
+    "category": "Food Color",
+    "purpose": "Orange color",
+    "risk_level": "Low",
+    "description": "Carotenoid-derived colorant; considered safe."
+  },
+  {
+    "ins_code": "INS 161b",
+    "name": "Lutein",
+    "category": "Food Color",
+    "purpose": "Yellow color",
+    "risk_level": "Low",
+    "description": "Natural carotenoid; considered safe."
+  },
+  {
+    "ins_code": "INS 162",
+    "name": "Beetroot Red (Betanin)",
+    "category": "Food Color",
+    "purpose": "Red color",
+    "risk_level": "Low",
+    "description": "Natural pigment from beets; considered safe."
+  },
+  {
+    "ins_code": "INS 163",
+    "name": "Anthocyanins",
+    "category": "Food Color",
+    "purpose": "Purple-red color",
+    "risk_level": "Low",
+    "description": "Natural plant pigments; considered safe."
+  },
+  {
+    "ins_code": "INS 170",
+    "name": "Calcium Carbonate",
+    "category": "Food Color / Anti-caking Agent",
+    "purpose": "White color, acidity regulator",
+    "risk_level": "Low",
+    "description": "Naturally occurring mineral; considered safe."
+  },
+  {
+    "ins_code": "INS 171",
+    "name": "Titanium Dioxide",
+    "category": "Food Color",
+    "purpose": "White color",
+    "risk_level": "Moderate",
+    "description": "Whitening agent; banned as a food additive in the EU since 2022 over genotoxicity concerns."
+  },
+  {
+    "ins_code": "INS 172",
+    "name": "Iron Oxides",
+    "category": "Food Color",
+    "purpose": "Black, red, yellow color",
+    "risk_level": "Low",
+    "description": "Mineral-derived colorants; considered safe."
+  },
+  {
+    "ins_code": "INS 173",
+    "name": "Aluminium",
+    "category": "Food Color",
+    "purpose": "Metallic decoration",
+    "risk_level": "Moderate",
+    "description": "Used for surface decoration; intake limits recommended."
+  },
+  {
+    "ins_code": "INS 174",
+    "name": "Silver",
+    "category": "Food Color",
+    "purpose": "Metallic decoration",
+    "risk_level": "Low",
+    "description": "Used for surface decoration in small amounts."
+  },
+  {
+    "ins_code": "INS 175",
+    "name": "Gold",
+    "category": "Food Color",
+    "purpose": "Metallic decoration",
+    "risk_level": "Low",
+    "description": "Used for surface decoration in small amounts."
+  },
+  {
+    "ins_code": "INS 180",
+    "name": "Litholrubine BK",
+    "category": "Food Color",
+    "purpose": "Red color (rind coloring)",
+    "risk_level": "Moderate",
+    "description": "Synthetic dye used mainly for cheese rind coloring."
+  },
+  {
+    "ins_code": "INS 200",
+    "name": "Sorbic Acid",
+    "category": "Preservative",
+    "purpose": "Inhibits mold and yeast",
+    "risk_level": "Low",
+    "description": "Widely used preservative; considered safe."
+  },
+  {
+    "ins_code": "INS 201",
+    "name": "Sodium Sorbate",
+    "category": "Preservative",
+    "purpose": "Inhibits mold and yeast",
+    "risk_level": "Low",
+    "description": "Sodium salt of sorbic acid; considered safe."
+  },
+  {
+    "ins_code": "INS 202",
+    "name": "Potassium Sorbate",
+    "category": "Preservative",
+    "purpose": "Inhibits mold and yeast",
+    "risk_level": "Low",
+    "description": "Common preservative; considered safe."
+  },
+  {
+    "ins_code": "INS 203",
+    "name": "Calcium Sorbate",
+    "category": "Preservative",
+    "purpose": "Inhibits mold and yeast",
+    "risk_level": "Low",
+    "description": "Calcium salt of sorbic acid; considered safe."
+  },
+  {
+    "ins_code": "INS 210",
+    "name": "Benzoic Acid",
+    "category": "Preservative",
+    "purpose": "Inhibits bacteria and fungi",
+    "risk_level": "Moderate",
+    "description": "Can trigger reactions in asthma/allergy-sensitive individuals."
+  },
+  {
+    "ins_code": "INS 211",
+    "name": "Sodium Benzoate",
+    "category": "Preservative",
+    "purpose": "Inhibits bacteria and fungi",
+    "risk_level": "Moderate",
+    "description": "May form benzene with vitamin C under certain conditions; linked to hyperactivity in some studies."
+  },
+  {
+    "ins_code": "INS 212",
+    "name": "Potassium Benzoate",
+    "category": "Preservative",
+    "purpose": "Inhibits bacteria and fungi",
+    "risk_level": "Moderate",
+    "description": "Similar concerns to sodium benzoate."
+  },
+  {
+    "ins_code": "INS 213",
+    "name": "Calcium Benzoate",
+    "category": "Preservative",
+    "purpose": "Inhibits bacteria and fungi",
+    "risk_level": "Moderate",
+    "description": "Similar concerns to other benzoates."
+  },
+  {
+    "ins_code": "INS 214",
+    "name": "Ethyl Para-hydroxybenzoate",
+    "category": "Preservative",
+    "purpose": "Antimicrobial",
+    "risk_level": "Moderate",
+    "description": "Paraben-type preservative; potential allergen and endocrine concerns."
+  },
+  {
+    "ins_code": "INS 218",
+    "name": "Methyl Para-hydroxybenzoate",
+    "category": "Preservative",
+    "purpose": "Antimicrobial",
+    "risk_level": "Moderate",
+    "description": "Paraben-type preservative; potential allergen and endocrine concerns."
+  },
+  {
+    "ins_code": "INS 220",
+    "name": "Sulphur Dioxide",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, antioxidant",
+    "risk_level": "Moderate",
+    "description": "Can trigger asthma attacks in sensitive individuals."
+  },
+  {
+    "ins_code": "INS 221",
+    "name": "Sodium Sulphite",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, antioxidant",
+    "risk_level": "Moderate",
+    "description": "Sulphite class; can trigger allergic/asthmatic reactions."
+  },
+  {
+    "ins_code": "INS 222",
+    "name": "Sodium Bisulphite",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, antioxidant",
+    "risk_level": "Moderate",
+    "description": "Sulphite class; asthma-triggering potential."
+  },
+  {
+    "ins_code": "INS 223",
+    "name": "Sodium Metabisulphite",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, antioxidant",
+    "risk_level": "Moderate",
+    "description": "Sulphite class; asthma-triggering potential."
+  },
+  {
+    "ins_code": "INS 224",
+    "name": "Potassium Metabisulphite",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, antioxidant",
+    "risk_level": "Moderate",
+    "description": "Sulphite class; asthma-triggering potential."
+  },
+  {
+    "ins_code": "INS 228",
+    "name": "Potassium Bisulphite",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, antioxidant",
+    "risk_level": "Moderate",
+    "description": "Sulphite class; asthma-triggering potential."
+  },
+  {
+    "ins_code": "INS 230",
+    "name": "Biphenyl",
+    "category": "Preservative",
+    "purpose": "Fungicide for citrus",
+    "risk_level": "Moderate",
+    "description": "Surface treatment for citrus fruit; not for direct consumption."
+  },
+  {
+    "ins_code": "INS 231",
+    "name": "Orthophenyl Phenol",
+    "category": "Preservative",
+    "purpose": "Fungicide for citrus",
+    "risk_level": "Moderate",
+    "description": "Surface treatment for citrus; regulatory limits apply."
+  },
+  {
+    "ins_code": "INS 232",
+    "name": "Sodium Orthophenyl Phenol",
+    "category": "Preservative",
+    "purpose": "Fungicide for citrus",
+    "risk_level": "Moderate",
+    "description": "Surface treatment for citrus; regulatory limits apply."
+  },
+  {
+    "ins_code": "INS 234",
+    "name": "Nisin",
+    "category": "Preservative",
+    "purpose": "Antibacterial",
+    "risk_level": "Low",
+    "description": "Naturally derived antimicrobial peptide; considered safe."
+  },
+  {
+    "ins_code": "INS 235",
+    "name": "Natamycin",
+    "category": "Preservative",
+    "purpose": "Antifungal",
+    "risk_level": "Low",
+    "description": "Natural antifungal used for surface treatment of cheese/meats."
+  },
+  {
+    "ins_code": "INS 239",
+    "name": "Hexamethylene Tetramine",
+    "category": "Preservative",
+    "purpose": "Antimicrobial",
+    "risk_level": "Moderate",
+    "description": "Used in some cheeses; releases formaldehyde in small amounts."
+  },
+  {
+    "ins_code": "INS 242",
+    "name": "Dimethyl Dicarbonate",
+    "category": "Preservative",
+    "purpose": "Antimicrobial in beverages",
+    "risk_level": "Low",
+    "description": "Breaks down quickly to carbon dioxide and methanol; considered safe."
+  },
+  {
+    "ins_code": "INS 249",
+    "name": "Potassium Nitrite",
+    "category": "Preservative",
+    "purpose": "Curing agent for meats",
+    "risk_level": "High",
+    "description": "Can form nitrosamines, associated with increased cancer risk."
+  },
+  {
+    "ins_code": "INS 250",
+    "name": "Sodium Nitrite",
+    "category": "Preservative",
+    "purpose": "Curing agent for meats",
+    "risk_level": "High",
+    "description": "Can form nitrosamines, associated with increased cancer risk."
+  },
+  {
+    "ins_code": "INS 251",
+    "name": "Sodium Nitrate",
+    "category": "Preservative",
+    "purpose": "Curing agent for meats",
+    "risk_level": "High",
+    "description": "Converts to nitrite; associated with nitrosamine formation concerns."
+  },
+  {
+    "ins_code": "INS 252",
+    "name": "Potassium Nitrate",
+    "category": "Preservative",
+    "purpose": "Curing agent for meats",
+    "risk_level": "High",
+    "description": "Converts to nitrite; associated with nitrosamine formation concerns."
+  },
+  {
+    "ins_code": "INS 260",
+    "name": "Acetic Acid",
+    "category": "Preservative / Acidity Regulator",
+    "purpose": "Antimicrobial, flavoring",
+    "risk_level": "Low",
+    "description": "Main component of vinegar; considered safe."
+  },
+  {
+    "ins_code": "INS 261",
+    "name": "Potassium Acetate",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, acidity regulator",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 262",
+    "name": "Sodium Acetate",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, flavoring",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 263",
+    "name": "Calcium Acetate",
+    "category": "Preservative",
+    "purpose": "Antimicrobial, firming agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 270",
+    "name": "Lactic Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Acidifier, preservative",
+    "risk_level": "Low",
+    "description": "Naturally occurring; considered safe."
+  },
+  {
+    "ins_code": "INS 280",
+    "name": "Propionic Acid",
+    "category": "Preservative",
+    "purpose": "Inhibits mold in baked goods",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 281",
+    "name": "Sodium Propionate",
+    "category": "Preservative",
+    "purpose": "Inhibits mold",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 282",
+    "name": "Calcium Propionate",
+    "category": "Preservative",
+    "purpose": "Inhibits mold in bread",
+    "risk_level": "Low",
+    "description": "Considered safe; occasional reports of behavioral sensitivity in children."
+  },
+  {
+    "ins_code": "INS 283",
+    "name": "Potassium Propionate",
+    "category": "Preservative",
+    "purpose": "Inhibits mold",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 290",
+    "name": "Carbon Dioxide",
+    "category": "Preservative / Carbonating Agent",
+    "purpose": "Carbonation, preservation",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 296",
+    "name": "Malic Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Sour flavoring",
+    "risk_level": "Low",
+    "description": "Naturally occurring; considered safe."
+  },
+  {
+    "ins_code": "INS 297",
+    "name": "Fumaric Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Sour flavoring, acidifier",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 300",
+    "name": "Ascorbic Acid",
+    "category": "Antioxidant",
+    "purpose": "Prevents oxidation, vitamin C source",
+    "risk_level": "Low",
+    "description": "Considered safe; essential nutrient."
+  },
+  {
+    "ins_code": "INS 301",
+    "name": "Sodium Ascorbate",
+    "category": "Antioxidant",
+    "purpose": "Prevents oxidation",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 302",
+    "name": "Calcium Ascorbate",
+    "category": "Antioxidant",
+    "purpose": "Prevents oxidation",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 304",
+    "name": "Ascorbyl Palmitate",
+    "category": "Antioxidant",
+    "purpose": "Fat-soluble antioxidant",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 306",
+    "name": "Tocopherols (Mixed)",
+    "category": "Antioxidant",
+    "purpose": "Prevents fat oxidation",
+    "risk_level": "Low",
+    "description": "Natural vitamin E source; considered safe."
+  },
+  {
+    "ins_code": "INS 307",
+    "name": "Alpha-Tocopherol",
+    "category": "Antioxidant",
+    "purpose": "Prevents fat oxidation, vitamin E",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 310",
+    "name": "Propyl Gallate",
+    "category": "Antioxidant",
+    "purpose": "Prevents fat oxidation",
+    "risk_level": "Moderate",
+    "description": "Some studies link to endocrine disruption at high doses."
+  },
+  {
+    "ins_code": "INS 319",
+    "name": "TBHQ (Tertiary Butylhydroquinone)",
+    "category": "Antioxidant",
+    "purpose": "Prevents fat oxidation",
+    "risk_level": "Moderate",
+    "description": "Synthetic antioxidant; high-dose animal studies show adverse effects."
+  },
+  {
+    "ins_code": "INS 320",
+    "name": "BHA (Butylated Hydroxyanisole)",
+    "category": "Antioxidant",
+    "purpose": "Prevents fat oxidation",
+    "risk_level": "High",
+    "description": "Classified as possibly carcinogenic to humans by some agencies."
+  },
+  {
+    "ins_code": "INS 321",
+    "name": "BHT (Butylated Hydroxytoluene)",
+    "category": "Antioxidant",
+    "purpose": "Prevents fat oxidation",
+    "risk_level": "Moderate",
+    "description": "Synthetic antioxidant; some studies raise long-term safety concerns."
+  },
+  {
+    "ins_code": "INS 322",
+    "name": "Lecithin",
+    "category": "Emulsifier",
+    "purpose": "Improves texture",
+    "risk_level": "Low",
+    "description": "Generally considered safe; naturally derived from soy or sunflower."
+  },
+  {
+    "ins_code": "INS 325",
+    "name": "Sodium Lactate",
+    "category": "Acidity Regulator",
+    "purpose": "pH control, moisture retention",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 326",
+    "name": "Potassium Lactate",
+    "category": "Acidity Regulator",
+    "purpose": "pH control",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 327",
+    "name": "Calcium Lactate",
+    "category": "Acidity Regulator / Firming Agent",
+    "purpose": "pH control, firming",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 330",
+    "name": "Citric Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Sour flavoring, preservative",
+    "risk_level": "Low",
+    "description": "Naturally occurring; considered safe."
+  },
+  {
+    "ins_code": "INS 331",
+    "name": "Sodium Citrates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 332",
+    "name": "Potassium Citrates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 333",
+    "name": "Calcium Citrates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering, firming agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 334",
+    "name": "Tartaric Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Sour flavoring",
+    "risk_level": "Low",
+    "description": "Naturally occurring; considered safe."
+  },
+  {
+    "ins_code": "INS 335",
+    "name": "Sodium Tartrates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 336",
+    "name": "Potassium Tartrates (Cream of Tartar)",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 338",
+    "name": "Phosphoric Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Acidifier in soft drinks",
+    "risk_level": "Moderate",
+    "description": "High intake linked to reduced bone mineral density."
+  },
+  {
+    "ins_code": "INS 339",
+    "name": "Sodium Phosphates",
+    "category": "Stabilizer",
+    "purpose": "Emulsifying, buffering",
+    "risk_level": "Moderate",
+    "description": "Excess phosphate intake linked to cardiovascular risk."
+  },
+  {
+    "ins_code": "INS 340",
+    "name": "Potassium Phosphates",
+    "category": "Stabilizer",
+    "purpose": "Emulsifying, buffering",
+    "risk_level": "Moderate",
+    "description": "Excess phosphate intake linked to cardiovascular risk."
+  },
+  {
+    "ins_code": "INS 341",
+    "name": "Calcium Phosphates",
+    "category": "Anti-caking Agent",
+    "purpose": "Firming, anti-caking",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 343",
+    "name": "Magnesium Phosphates",
+    "category": "Anti-caking Agent",
+    "purpose": "Anti-caking, buffering",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 350",
+    "name": "Sodium Malates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 351",
+    "name": "Potassium Malates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 352",
+    "name": "Calcium Malates",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 353",
+    "name": "Metatartaric Acid",
+    "category": "Stabilizer",
+    "purpose": "Prevents crystallization in wine",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 355",
+    "name": "Adipic Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Sour flavoring",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 363",
+    "name": "Succinic Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Flavoring, acidifier",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 365",
+    "name": "Sodium Fumarate",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 375",
+    "name": "Niacin",
+    "category": "Color Retention Agent",
+    "purpose": "Vitamin, color retention",
+    "risk_level": "Low",
+    "description": "Essential nutrient; considered safe."
+  },
+  {
+    "ins_code": "INS 380",
+    "name": "Triammonium Citrate",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 381",
+    "name": "Ammonium Ferric Citrate",
+    "category": "Acidity Regulator",
+    "purpose": "Buffering, iron source",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 385",
+    "name": "Calcium Disodium EDTA",
+    "category": "Preservative",
+    "purpose": "Chelating agent",
+    "risk_level": "Moderate",
+    "description": "May interfere with mineral absorption at high intake."
+  },
+  {
+    "ins_code": "INS 400",
+    "name": "Alginic Acid",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Low",
+    "description": "Derived from seaweed; considered safe."
+  },
+  {
+    "ins_code": "INS 401",
+    "name": "Sodium Alginate",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 402",
+    "name": "Potassium Alginate",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 403",
+    "name": "Ammonium Alginate",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 404",
+    "name": "Calcium Alginate",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 405",
+    "name": "Propylene Glycol Alginate",
+    "category": "Thickener",
+    "purpose": "Stabilizing, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 406",
+    "name": "Agar",
+    "category": "Thickener",
+    "purpose": "Gelling agent",
+    "risk_level": "Low",
+    "description": "Derived from seaweed; considered safe."
+  },
+  {
+    "ins_code": "INS 407",
+    "name": "Carrageenan",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening, stabilizing",
+    "risk_level": "Moderate",
+    "description": "Some studies link degraded forms to intestinal inflammation."
+  },
+  {
+    "ins_code": "INS 407a",
+    "name": "Processed Eucheuma Seaweed",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Moderate",
+    "description": "Similar profile to carrageenan."
+  },
+  {
+    "ins_code": "INS 410",
+    "name": "Locust Bean Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 412",
+    "name": "Guar Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe; high doses may cause digestive discomfort."
+  },
+  {
+    "ins_code": "INS 413",
+    "name": "Tragacanth Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe; rare allergic reactions reported."
+  },
+  {
+    "ins_code": "INS 414",
+    "name": "Acacia Gum (Gum Arabic)",
+    "category": "Thickener",
+    "purpose": "Stabilizing, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 415",
+    "name": "Xanthan Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 416",
+    "name": "Karaya Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe; rare allergic reactions reported."
+  },
+  {
+    "ins_code": "INS 417",
+    "name": "Tara Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 418",
+    "name": "Gellan Gum",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 420",
+    "name": "Sorbitol",
+    "category": "Sweetener",
+    "purpose": "Sugar substitute, humectant",
+    "risk_level": "Low",
+    "description": "May cause digestive discomfort in large amounts."
+  },
+  {
+    "ins_code": "INS 421",
+    "name": "Mannitol",
+    "category": "Sweetener",
+    "purpose": "Sugar substitute",
+    "risk_level": "Low",
+    "description": "May cause laxative effect in large amounts."
+  },
+  {
+    "ins_code": "INS 422",
+    "name": "Glycerol",
+    "category": "Humectant",
+    "purpose": "Moisture retention, sweetener",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 425",
+    "name": "Konjac",
+    "category": "Thickener",
+    "purpose": "Gelling, thickening",
+    "risk_level": "Moderate",
+    "description": "Choking hazard reported in certain jelly products due to gel firmness."
+  },
+  {
+    "ins_code": "INS 426",
+    "name": "Soybean Hemicellulose",
+    "category": "Stabilizer",
+    "purpose": "Emulsifying, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe; potential soy allergen."
+  },
+  {
+    "ins_code": "INS 427",
+    "name": "Cassia Gum",
+    "category": "Thickener",
+    "purpose": "Thickening, gelling",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 431",
+    "name": "Polyoxyethylene Stearate",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Moderate",
+    "description": "Synthetic emulsifier; limited long-term data."
+  },
+  {
+    "ins_code": "INS 432",
+    "name": "Polysorbate 20",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying, dispersing",
+    "risk_level": "Moderate",
+    "description": "Some animal studies suggest effects on gut microbiota."
+  },
+  {
+    "ins_code": "INS 433",
+    "name": "Polysorbate 80",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying, dispersing",
+    "risk_level": "Moderate",
+    "description": "Some studies link to gut inflammation in animal models."
+  },
+  {
+    "ins_code": "INS 434",
+    "name": "Polysorbate 40",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying, dispersing",
+    "risk_level": "Moderate",
+    "description": "Synthetic emulsifier; limited long-term data."
+  },
+  {
+    "ins_code": "INS 435",
+    "name": "Polysorbate 60",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying, dispersing",
+    "risk_level": "Moderate",
+    "description": "Synthetic emulsifier; limited long-term data."
+  },
+  {
+    "ins_code": "INS 436",
+    "name": "Polysorbate 65",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying, dispersing",
+    "risk_level": "Moderate",
+    "description": "Synthetic emulsifier; limited long-term data."
+  },
+  {
+    "ins_code": "INS 440",
+    "name": "Pectin",
+    "category": "Thickener",
+    "purpose": "Gelling agent",
+    "risk_level": "Low",
+    "description": "Naturally derived from fruit; considered safe."
+  },
+  {
+    "ins_code": "INS 442",
+    "name": "Ammonium Phosphatides",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent in chocolate",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 444",
+    "name": "Sucrose Acetate Isobutyrate",
+    "category": "Emulsifier",
+    "purpose": "Stabilizer in beverages",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 445",
+    "name": "Glycerol Esters of Wood Rosin",
+    "category": "Stabilizer",
+    "purpose": "Emulsifying, weighting agent in beverages",
+    "risk_level": "Moderate",
+    "description": "Limited long-term safety data."
+  },
+  {
+    "ins_code": "INS 450",
+    "name": "Diphosphates",
+    "category": "Stabilizer",
+    "purpose": "Emulsifying, leavening",
+    "risk_level": "Moderate",
+    "description": "Excess phosphate intake linked to cardiovascular risk."
+  },
+  {
+    "ins_code": "INS 451",
+    "name": "Triphosphates",
+    "category": "Stabilizer",
+    "purpose": "Water retention in meat/seafood",
+    "risk_level": "Moderate",
+    "description": "Excess phosphate intake linked to cardiovascular risk."
+  },
+  {
+    "ins_code": "INS 452",
+    "name": "Polyphosphates",
+    "category": "Stabilizer",
+    "purpose": "Water retention, texturizing",
+    "risk_level": "Moderate",
+    "description": "Excess phosphate intake linked to cardiovascular risk."
+  },
+  {
+    "ins_code": "INS 459",
+    "name": "Beta-Cyclodextrin",
+    "category": "Stabilizer",
+    "purpose": "Flavor encapsulation, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 460",
+    "name": "Cellulose",
+    "category": "Anti-caking Agent",
+    "purpose": "Bulking, anti-caking",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 461",
+    "name": "Methyl Cellulose",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 463",
+    "name": "Hydroxypropyl Cellulose",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 464",
+    "name": "Hydroxypropyl Methyl Cellulose",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 465",
+    "name": "Methyl Ethyl Cellulose",
+    "category": "Thickener",
+    "purpose": "Foaming, stabilizing",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 466",
+    "name": "Carboxymethyl Cellulose",
+    "category": "Thickener",
+    "purpose": "Thickening, stabilizing",
+    "risk_level": "Low",
+    "description": "Some animal studies suggest gut microbiota effects at high doses."
+  },
+  {
+    "ins_code": "INS 470",
+    "name": "Salts of Fatty Acids",
+    "category": "Emulsifier",
+    "purpose": "Anti-caking, emulsifying",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 471",
+    "name": "Mono- and Diglycerides of Fatty Acids",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 472a",
+    "name": "Acetic Acid Esters of Mono/Diglycerides",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 472b",
+    "name": "Lactic Acid Esters of Mono/Diglycerides",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 472c",
+    "name": "Citric Acid Esters of Mono/Diglycerides",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 472e",
+    "name": "DATEM (Diacetyl Tartaric Acid Esters)",
+    "category": "Emulsifier",
+    "purpose": "Dough conditioner",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 473",
+    "name": "Sucrose Esters of Fatty Acids",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 475",
+    "name": "Polyglycerol Esters of Fatty Acids",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 477",
+    "name": "Propylene Glycol Esters of Fatty Acids",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 479",
+    "name": "Thermally Oxidized Soya Bean Oil",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Moderate",
+    "description": "Limited long-term safety data."
+  },
+  {
+    "ins_code": "INS 481",
+    "name": "Sodium Stearoyl Lactylate",
+    "category": "Emulsifier",
+    "purpose": "Dough conditioner, emulsifier",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 482",
+    "name": "Calcium Stearoyl Lactylate",
+    "category": "Emulsifier",
+    "purpose": "Dough conditioner, emulsifier",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 491",
+    "name": "Sorbitan Monostearate",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 492",
+    "name": "Sorbitan Tristearate",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 493",
+    "name": "Sorbitan Monolaurate",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 494",
+    "name": "Sorbitan Monooleate",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 495",
+    "name": "Sorbitan Monopalmitate",
+    "category": "Emulsifier",
+    "purpose": "Emulsifying agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 500",
+    "name": "Sodium Carbonates",
+    "category": "Acidity Regulator",
+    "purpose": "Raising agent, acidity control",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 501",
+    "name": "Potassium Carbonates",
+    "category": "Acidity Regulator",
+    "purpose": "Acidity control",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 503",
+    "name": "Ammonium Carbonates",
+    "category": "Acidity Regulator",
+    "purpose": "Raising agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 504",
+    "name": "Magnesium Carbonate",
+    "category": "Anti-caking Agent",
+    "purpose": "Anti-caking, acidity regulator",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 507",
+    "name": "Hydrochloric Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Acidifier, processing aid",
+    "risk_level": "Moderate",
+    "description": "Used in small regulated amounts; corrosive in concentrated form."
+  },
+  {
+    "ins_code": "INS 508",
+    "name": "Potassium Chloride",
+    "category": "Salt Substitute",
+    "purpose": "Gelling agent, salt substitute",
+    "risk_level": "Low",
+    "description": "Considered safe; caution for individuals with kidney conditions."
+  },
+  {
+    "ins_code": "INS 509",
+    "name": "Calcium Chloride",
+    "category": "Firming Agent",
+    "purpose": "Firming, electrolyte balance",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 510",
+    "name": "Ammonium Chloride",
+    "category": "Flour Treatment Agent",
+    "purpose": "Yeast nutrient, flour treatment",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 511",
+    "name": "Magnesium Chloride",
+    "category": "Firming Agent",
+    "purpose": "Coagulant, firming agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 512",
+    "name": "Stannous Chloride",
+    "category": "Antioxidant",
+    "purpose": "Color retention in canned foods",
+    "risk_level": "Moderate",
+    "description": "Regulatory limits apply due to tin content."
+  },
+  {
+    "ins_code": "INS 516",
+    "name": "Calcium Sulphate",
+    "category": "Firming Agent",
+    "purpose": "Firming, dough conditioner",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 518",
+    "name": "Magnesium Sulphate",
+    "category": "Firming Agent",
+    "purpose": "Firming, mineral supplement",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 524",
+    "name": "Sodium Hydroxide",
+    "category": "Acidity Regulator",
+    "purpose": "pH control, processing aid",
+    "risk_level": "Moderate",
+    "description": "Corrosive in concentrated form; safe in regulated food-processing use."
+  },
+  {
+    "ins_code": "INS 525",
+    "name": "Potassium Hydroxide",
+    "category": "Acidity Regulator",
+    "purpose": "pH control, processing aid",
+    "risk_level": "Moderate",
+    "description": "Corrosive in concentrated form; safe in regulated use."
+  },
+  {
+    "ins_code": "INS 526",
+    "name": "Calcium Hydroxide",
+    "category": "Acidity Regulator",
+    "purpose": "pH control, firming agent",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 529",
+    "name": "Calcium Oxide",
+    "category": "Acidity Regulator",
+    "purpose": "pH control, processing aid",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 530",
+    "name": "Magnesium Oxide",
+    "category": "Anti-caking Agent",
+    "purpose": "Anti-caking, acidity regulator",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 535",
+    "name": "Sodium Ferrocyanide",
+    "category": "Anti-caking Agent",
+    "purpose": "Anti-caking agent for salt",
+    "risk_level": "Moderate",
+    "description": "Safe at approved levels; releases cyanide only under extreme conditions."
+  },
+  {
+    "ins_code": "INS 536",
+    "name": "Potassium Ferrocyanide",
+    "category": "Anti-caking Agent",
+    "purpose": "Anti-caking agent for salt",
+    "risk_level": "Moderate",
+    "description": "Safe at approved levels."
+  },
+  {
+    "ins_code": "INS 541",
+    "name": "Sodium Aluminium Phosphate",
+    "category": "Raising Agent",
+    "purpose": "Leavening agent",
+    "risk_level": "Moderate",
+    "description": "Aluminum exposure concerns with frequent high intake."
+  },
+  {
+    "ins_code": "INS 551",
+    "name": "Silicon Dioxide",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 552",
+    "name": "Calcium Silicate",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 553",
+    "name": "Magnesium Silicate",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 554",
+    "name": "Sodium Aluminosilicate",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 556",
+    "name": "Calcium Aluminium Silicate",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 558",
+    "name": "Bentonite",
+    "category": "Anti-caking Agent",
+    "purpose": "Clarifying, anti-caking",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 559",
+    "name": "Aluminium Silicate",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 560",
+    "name": "Potassium Silicate",
+    "category": "Anti-caking Agent",
+    "purpose": "Prevents clumping",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 570",
+    "name": "Fatty Acids",
+    "category": "Anti-caking Agent",
+    "purpose": "Glazing, anti-caking",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 574",
+    "name": "Gluconic Acid",
+    "category": "Acidity Regulator",
+    "purpose": "Acidifier, sequestrant",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 575",
+    "name": "Glucono Delta-Lactone",
+    "category": "Acidity Regulator",
+    "purpose": "Slow-acting acidifier",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 576",
+    "name": "Sodium Gluconate",
+    "category": "Acidity Regulator",
+    "purpose": "Sequestrant, acidity regulator",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 577",
+    "name": "Potassium Gluconate",
+    "category": "Acidity Regulator",
+    "purpose": "Sequestrant, mineral source",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 578",
+    "name": "Calcium Gluconate",
+    "category": "Acidity Regulator",
+    "purpose": "Firming, mineral source",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 579",
+    "name": "Ferrous Gluconate",
+    "category": "Color Retention Agent",
+    "purpose": "Color fixative, iron source",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 580",
+    "name": "Ferrous Lactate",
+    "category": "Color Retention Agent",
+    "purpose": "Color fixative, iron source",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 620",
+    "name": "Glutamic Acid",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances savory flavor",
+    "risk_level": "Low",
+    "description": "Naturally occurring amino acid; considered safe."
+  },
+  {
+    "ins_code": "INS 621",
+    "name": "Monosodium Glutamate (MSG)",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances savory flavor",
+    "risk_level": "Moderate",
+    "description": "Some individuals report sensitivity reactions, though large studies show no consistent causal link."
+  },
+  {
+    "ins_code": "INS 622",
+    "name": "Monopotassium Glutamate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances savory flavor",
+    "risk_level": "Moderate",
+    "description": "Similar profile to MSG."
+  },
+  {
+    "ins_code": "INS 623",
+    "name": "Calcium Diglutamate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances savory flavor",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 624",
+    "name": "Monoammonium Glutamate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances savory flavor",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 625",
+    "name": "Magnesium Diglutamate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances savory flavor",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 626",
+    "name": "Guanylic Acid",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Low",
+    "description": "Naturally occurring; considered safe."
+  },
+  {
+    "ins_code": "INS 627",
+    "name": "Disodium Guanylate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Moderate",
+    "description": "Not recommended for individuals with gout due to purine content."
+  },
+  {
+    "ins_code": "INS 628",
+    "name": "Dipotassium Guanylate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Moderate",
+    "description": "Not recommended for individuals with gout."
+  },
+  {
+    "ins_code": "INS 629",
+    "name": "Calcium Guanylate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 630",
+    "name": "Inosinic Acid",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Low",
+    "description": "Naturally occurring; considered safe."
+  },
+  {
+    "ins_code": "INS 631",
+    "name": "Disodium Inosinate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Moderate",
+    "description": "Not recommended for individuals with gout due to purine content."
+  },
+  {
+    "ins_code": "INS 632",
+    "name": "Calcium Inosinate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 633",
+    "name": "Dipotassium Inosinate",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Low",
+    "description": "Considered safe; caution for gout-prone individuals."
+  },
+  {
+    "ins_code": "INS 634",
+    "name": "Calcium 5'-Ribonucleotides",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 635",
+    "name": "Disodium 5'-Ribonucleotides",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances umami flavor",
+    "risk_level": "Moderate",
+    "description": "Not recommended for individuals with gout."
+  },
+  {
+    "ins_code": "INS 636",
+    "name": "Maltol",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances sweetness perception",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 637",
+    "name": "Ethyl Maltol",
+    "category": "Flavor Enhancer",
+    "purpose": "Enhances sweetness perception",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 640",
+    "name": "Glycine and its Sodium Salt",
+    "category": "Flavor Enhancer",
+    "purpose": "Flavoring, preservative aid",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 641",
+    "name": "L-Leucine",
+    "category": "Flavor Enhancer",
+    "purpose": "Flavoring agent",
+    "risk_level": "Low",
+    "description": "Naturally occurring amino acid; considered safe."
+  },
+  {
+    "ins_code": "INS 950",
+    "name": "Acesulfame Potassium",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Moderate",
+    "description": "Some studies raise questions on metabolic effects at high intake."
+  },
+  {
+    "ins_code": "INS 951",
+    "name": "Aspartame",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Moderate",
+    "description": "Must be avoided by individuals with phenylketonuria (PKU); classified as possibly carcinogenic by some agencies at high doses."
+  },
+  {
+    "ins_code": "INS 952",
+    "name": "Cyclamic Acid and its Salts",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "High",
+    "description": "Banned in the United States due to cancer concerns in animal studies."
+  },
+  {
+    "ins_code": "INS 953",
+    "name": "Isomalt",
+    "category": "Sweetener",
+    "purpose": "Bulk sweetener, sugar substitute",
+    "risk_level": "Low",
+    "description": "May cause digestive discomfort in large amounts."
+  },
+  {
+    "ins_code": "INS 954",
+    "name": "Saccharin",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Moderate",
+    "description": "Early animal studies raised cancer concerns, later not confirmed in humans; still monitored."
+  },
+  {
+    "ins_code": "INS 955",
+    "name": "Sucralose",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Moderate",
+    "description": "Generally considered safe; some studies suggest gut microbiota effects."
+  },
+  {
+    "ins_code": "INS 956",
+    "name": "Alitame",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Low",
+    "description": "Considered safe in approved amounts."
+  },
+  {
+    "ins_code": "INS 957",
+    "name": "Thaumatin",
+    "category": "Sweetener",
+    "purpose": "Natural sweetener, flavor enhancer",
+    "risk_level": "Low",
+    "description": "Naturally derived protein; considered safe."
+  },
+  {
+    "ins_code": "INS 959",
+    "name": "Neohesperidine DC",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Low",
+    "description": "Considered safe."
+  },
+  {
+    "ins_code": "INS 960",
+    "name": "Steviol Glycosides (Stevia)",
+    "category": "Sweetener",
+    "purpose": "Natural non-nutritive sweetener",
+    "risk_level": "Low",
+    "description": "Plant-derived; considered safe."
+  },
+  {
+    "ins_code": "INS 961",
+    "name": "Neotame",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Low",
+    "description": "Considered safe in approved amounts."
+  },
+  {
+    "ins_code": "INS 962",
+    "name": "Aspartame-Acesulfame Salt",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Moderate",
+    "description": "Combines profiles of aspartame and acesulfame potassium."
+  },
+  {
+    "ins_code": "INS 965",
+    "name": "Maltitol",
+    "category": "Sweetener",
+    "purpose": "Bulk sweetener, sugar substitute",
+    "risk_level": "Low",
+    "description": "May cause digestive discomfort in large amounts."
+  },
+  {
+    "ins_code": "INS 966",
+    "name": "Lactitol",
+    "category": "Sweetener",
+    "purpose": "Bulk sweetener, sugar substitute",
+    "risk_level": "Low",
+    "description": "May cause laxative effect in large amounts."
+  },
+  {
+    "ins_code": "INS 967",
+    "name": "Xylitol",
+    "category": "Sweetener",
+    "purpose": "Bulk sweetener, sugar substitute",
+    "risk_level": "Low",
+    "description": "Considered safe for humans; toxic to dogs."
+  },
+  {
+    "ins_code": "INS 968",
+    "name": "Erythritol",
+    "category": "Sweetener",
+    "purpose": "Bulk sweetener, sugar substitute",
+    "risk_level": "Low",
+    "description": "Generally well tolerated; some recent studies examine cardiovascular associations."
+  },
+  {
+    "ins_code": "INS 969",
+    "name": "Advantame",
+    "category": "Sweetener",
+    "purpose": "Non-nutritive sweetener",
+    "risk_level": "Low",
+    "description": "Considered safe in approved amounts."
+  },
+  {
+    "ins_code": "INS 900a",
+    "name": "Dimethyl Polysiloxane",
+    "category": "Antifoaming Agent",
+    "purpose": "Prevents foaming",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 901",
+    "name": "Beeswax",
+    "category": "Glazing Agent",
+    "purpose": "Surface coating",
+    "risk_level": "Low",
+    "description": "Natural wax; considered safe."
+  },
+  {
+    "ins_code": "INS 902",
+    "name": "Candelilla Wax",
+    "category": "Glazing Agent",
+    "purpose": "Surface coating",
+    "risk_level": "Low",
+    "description": "Natural plant wax; considered safe."
+  },
+  {
+    "ins_code": "INS 903",
+    "name": "Carnauba Wax",
+    "category": "Glazing Agent",
+    "purpose": "Surface coating",
+    "risk_level": "Low",
+    "description": "Natural plant wax; considered safe."
+  },
+  {
+    "ins_code": "INS 904",
+    "name": "Shellac",
+    "category": "Glazing Agent",
+    "purpose": "Surface coating for confectionery/fruit",
+    "risk_level": "Low",
+    "description": "Insect-derived resin; considered safe."
+  },
+  {
+    "ins_code": "INS 905",
+    "name": "Mineral Oil",
+    "category": "Glazing Agent",
+    "purpose": "Surface coating, anti-dust agent",
+    "risk_level": "Moderate",
+    "description": "Regulatory limits due to potential accumulation with chronic high exposure."
+  },
+  {
+    "ins_code": "INS 907",
+    "name": "Refined Microcrystalline Wax",
+    "category": "Glazing Agent",
+    "purpose": "Surface coating",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 920",
+    "name": "L-Cysteine",
+    "category": "Flour Treatment Agent",
+    "purpose": "Dough conditioner",
+    "risk_level": "Low",
+    "description": "Considered safe; often produced from feathers or synthetically."
+  },
+  {
+    "ins_code": "INS 924",
+    "name": "Potassium Bromate",
+    "category": "Flour Treatment Agent",
+    "purpose": "Dough strengthener",
+    "risk_level": "High",
+    "description": "Classified as possibly carcinogenic; banned in many countries including the EU and Canada."
+  },
+  {
+    "ins_code": "INS 927b",
+    "name": "Carbamide (Urea)",
+    "category": "Flour Treatment Agent",
+    "purpose": "Dough conditioner",
+    "risk_level": "Low",
+    "description": "Considered safe in regulated amounts."
+  },
+  {
+    "ins_code": "INS 928",
+    "name": "Benzoyl Peroxide",
+    "category": "Flour Treatment Agent",
+    "purpose": "Flour bleaching agent",
+    "risk_level": "Moderate",
+    "description": "Bleaching agent; regulatory limits apply."
+  }
+]

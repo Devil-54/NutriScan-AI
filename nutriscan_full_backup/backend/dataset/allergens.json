@@ -1,0 +1,4619 @@
+[
+  {
+    "ingredient": "Milk",
+    "aliases": [
+      "Whole Milk",
+      "Skim Milk",
+      "Skim Milk Powder",
+      "Full Cream Milk",
+      "Milk Powder",
+      "Nonfat Dry Milk",
+      "Dry Milk Solids"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Milk is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Casein",
+    "aliases": [
+      "Caseinate",
+      "Sodium Caseinate",
+      "Calcium Caseinate",
+      "Potassium Caseinate",
+      "Rennet Casein",
+      "Hydrolyzed Casein"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Casein is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Whey",
+    "aliases": [
+      "Whey Powder",
+      "Whey Protein",
+      "Whey Protein Isolate",
+      "Whey Protein Concentrate",
+      "Sweet Whey",
+      "Acid Whey"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Whey is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Lactose",
+    "aliases": [
+      "Milk Sugar",
+      "Lactose Monohydrate"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Lactose is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Lactalbumin",
+    "aliases": [
+      "Lactalbumin Phosphate"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Lactalbumin is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Lactoglobulin",
+    "aliases": [
+      "Beta-Lactoglobulin"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Lactoglobulin is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Butter",
+    "aliases": [
+      "Butter Fat",
+      "Butter Oil",
+      "Clarified Butter"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Butter is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Ghee",
+    "aliases": [
+      "Clarified Milk Fat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ghee is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Cream",
+    "aliases": [
+      "Heavy Cream",
+      "Light Cream",
+      "Sour Cream",
+      "Whipping Cream",
+      "Half and Half"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cream is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Cheese",
+    "aliases": [
+      "Cheese Powder",
+      "Cheese Curds",
+      "Processed Cheese"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cheese is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Buttermilk",
+    "aliases": [
+      "Cultured Buttermilk",
+      "Buttermilk Powder"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Buttermilk is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Condensed Milk",
+    "aliases": [
+      "Sweetened Condensed Milk"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Condensed Milk is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Evaporated Milk",
+    "aliases": [
+      "Unsweetened Evaporated Milk"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Evaporated Milk is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Curds",
+    "aliases": [
+      "Milk Curds",
+      "Paneer"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Curds is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Khoa",
+    "aliases": [
+      "Milk Solids Concentrate"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Khoa is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Milk Protein Concentrate",
+    "aliases": [
+      "MPC"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Milk Protein Concentrate is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Milk Protein Isolate",
+    "aliases": [
+      "MPI"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Milk Protein Isolate is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Yogurt",
+    "aliases": [
+      "Yoghurt",
+      "Curd",
+      "Greek Yogurt"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Yogurt is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Kefir",
+    "aliases": [
+      "Milk Kefir"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Kefir is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Ice Cream",
+    "aliases": [
+      "Dairy Ice Cream",
+      "Frozen Custard"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ice Cream is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Custard",
+    "aliases": [
+      "Milk Custard"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Custard is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Ranch Dressing",
+    "aliases": [
+      "Buttermilk Ranch"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ranch Dressing is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Malted Milk",
+    "aliases": [
+      "Malted Milk Powder"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Malted Milk is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Ovaltine",
+    "aliases": [
+      "Malt Milk Drink Mix"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ovaltine is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Milk Chocolate Coating",
+    "aliases": [
+      "Milk Chocolate Compound"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Milk Chocolate Coating is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Recaldent",
+    "aliases": [
+      "Milk Derived Calcium Complex"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Recaldent is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Tagatose",
+    "aliases": [
+      "Milk Derived Sweetener"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Tagatose is a dairy-derived ingredient and is unsafe for people with milk allergy or severe lactose intolerance."
+  },
+  {
+    "ingredient": "Egg",
+    "aliases": [
+      "Whole Egg",
+      "Egg Product",
+      "Dried Egg",
+      "Egg Powder"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Egg is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Egg White",
+    "aliases": [
+      "Albumen",
+      "Egg Albumin",
+      "Ovalbumin"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Egg White is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Egg Yolk",
+    "aliases": [
+      "Dried Egg Yolk"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Egg Yolk is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Lysozyme",
+    "aliases": [
+      "Egg White Lysozyme"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Lysozyme is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Ovomucoid",
+    "aliases": [
+      "Egg Ovomucoid Protein"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ovomucoid is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Ovotransferrin",
+    "aliases": [
+      "Conalbumin"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ovotransferrin is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Globulin",
+    "aliases": [
+      "Egg Globulin"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Globulin is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Livetin",
+    "aliases": [
+      "Egg Livetin Protein"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Livetin is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Mayonnaise",
+    "aliases": [
+      "Egg Mayonnaise"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Mayonnaise is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Meringue",
+    "aliases": [
+      "Meringue Powder"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Meringue is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Egg Wash",
+    "aliases": [
+      "Egg Glaze"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Egg Wash is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Egg Lecithin",
+    "aliases": [
+      "E322 (Egg Source)"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Egg Lecithin is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Egg Substitute",
+    "aliases": [
+      "Egg Replacer (Egg-Based)"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Egg Substitute is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Simplesse",
+    "aliases": [
+      "Egg-Derived Fat Replacer"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Simplesse is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Vitellin",
+    "aliases": [
+      "Egg Yolk Protein"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Vitellin is derived from egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Fish",
+    "aliases": [
+      "Fish Protein",
+      "Fish Extract",
+      "Fish Stock"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Anchovy",
+    "aliases": [
+      "Anchovy Paste",
+      "Anchovy Extract"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Anchovy is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Cod",
+    "aliases": [
+      "Cod Liver",
+      "Cod Fillet"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cod is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Salmon",
+    "aliases": [
+      "Smoked Salmon",
+      "Salmon Roe"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Salmon is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Tuna",
+    "aliases": [
+      "Canned Tuna",
+      "Tuna Flakes"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Tuna is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Tilapia",
+    "aliases": [
+      "Tilapia Fillet"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Tilapia is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Mackerel",
+    "aliases": [
+      "Mackerel Fillet"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Mackerel is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Sardine",
+    "aliases": [
+      "Sardine Fillet",
+      "Sardine Oil"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sardine is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Herring",
+    "aliases": [
+      "Pickled Herring"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Herring is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Trout",
+    "aliases": [
+      "Rainbow Trout"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Trout is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Haddock",
+    "aliases": [
+      "Smoked Haddock"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Haddock is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Halibut",
+    "aliases": [
+      "Halibut Fillet"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Halibut is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Snapper",
+    "aliases": [
+      "Red Snapper"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Snapper is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Catfish",
+    "aliases": [
+      "Catfish Fillet"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Catfish is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Bass",
+    "aliases": [
+      "Sea Bass"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Bass is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Sauce",
+    "aliases": [
+      "Nam Pla",
+      "Nuoc Mam"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Sauce is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Oil",
+    "aliases": [
+      "Omega-3 Fish Oil"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Oil is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Worcestershire Sauce",
+    "aliases": [
+      "Worcester Sauce (Anchovy Based)"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Worcestershire Sauce is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Surimi",
+    "aliases": [
+      "Imitation Crab",
+      "Fish Paste"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Surimi is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Gelatin",
+    "aliases": [
+      "Marine Gelatin"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Gelatin is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Caviar",
+    "aliases": [
+      "Fish Roe",
+      "Sturgeon Roe"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Caviar is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Roe",
+    "aliases": [
+      "Fish Eggs"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Roe is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Bonito Flakes",
+    "aliases": [
+      "Katsuobushi"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Bonito Flakes is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Cake",
+    "aliases": [
+      "Kamaboko"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Cake is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Stick",
+    "aliases": [
+      "Fish Finger"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Stick is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Shrimp",
+    "aliases": [
+      "Prawn",
+      "Shrimp Paste",
+      "Shrimp Powder"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Shrimp is a crustacean shellfish and is unsafe for people with shellfish allergy."
+  },
+  {
+    "ingredient": "Crab",
+    "aliases": [
+      "Crab Meat",
+      "Crab Stick",
+      "Crab Extract"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Crab is a crustacean shellfish and is unsafe for people with shellfish allergy."
+  },
+  {
+    "ingredient": "Lobster",
+    "aliases": [
+      "Lobster Meat",
+      "Lobster Bisque"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Lobster is a crustacean shellfish and is unsafe for people with shellfish allergy."
+  },
+  {
+    "ingredient": "Crayfish",
+    "aliases": [
+      "Crawfish",
+      "Langoustine"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Crayfish is a crustacean shellfish and is unsafe for people with shellfish allergy."
+  },
+  {
+    "ingredient": "Krill",
+    "aliases": [
+      "Krill Oil",
+      "Krill Meal"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Krill is a crustacean shellfish and is unsafe for people with shellfish allergy."
+  },
+  {
+    "ingredient": "Barnacle",
+    "aliases": [
+      "Barnacle Meat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Barnacle is a crustacean shellfish and is unsafe for people with shellfish allergy."
+  },
+  {
+    "ingredient": "Oyster",
+    "aliases": [
+      "Oyster Sauce",
+      "Oyster Extract"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Oyster is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Mussel",
+    "aliases": [
+      "Mussel Meat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Mussel is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Clam",
+    "aliases": [
+      "Clam Juice",
+      "Clam Extract"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Clam is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Scallop",
+    "aliases": [
+      "Scallop Meat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Scallop is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Squid",
+    "aliases": [
+      "Calamari"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Squid is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Octopus",
+    "aliases": [
+      "Octopus Meat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Octopus is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Snail",
+    "aliases": [
+      "Escargot"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Snail is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Abalone",
+    "aliases": [
+      "Abalone Meat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Abalone is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Cuttlefish",
+    "aliases": [
+      "Cuttlefish Ink"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cuttlefish is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Whelk",
+    "aliases": [
+      "Sea Snail"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Whelk is a mollusc and is unsafe for people with mollusc/shellfish allergy."
+  },
+  {
+    "ingredient": "Soy",
+    "aliases": [
+      "Soya",
+      "Soybean"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soy Protein",
+    "aliases": [
+      "Soy Protein Isolate",
+      "Soy Protein Concentrate",
+      "Hydrolyzed Soy Protein"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Protein is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soy Lecithin",
+    "aliases": [
+      "E322 (Soy Source)"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Lecithin is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soy Sauce",
+    "aliases": [
+      "Shoyu",
+      "Tamari"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Sauce is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Tofu",
+    "aliases": [
+      "Bean Curd"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Tofu is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Tempeh",
+    "aliases": [
+      "Fermented Soybean Cake"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Tempeh is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Miso",
+    "aliases": [
+      "Miso Paste"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Miso is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Edamame",
+    "aliases": [
+      "Green Soybean"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Edamame is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Textured Vegetable Protein",
+    "aliases": [
+      "TVP",
+      "Soy Chunks"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Textured Vegetable Protein is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soy Flour",
+    "aliases": [
+      "Defatted Soy Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Flour is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soy Milk",
+    "aliases": [
+      "Soya Milk"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Milk is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soybean Oil",
+    "aliases": [
+      "Soy Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soybean Oil is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Natto",
+    "aliases": [
+      "Fermented Soybeans"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Natto is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Soy Nuts",
+    "aliases": [
+      "Roasted Soybeans"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Nuts is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Vegetable Broth (Soy Based)",
+    "aliases": [
+      "Soy Broth"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Vegetable Broth (Soy Based) is derived from soybean and is unsafe for people with soy allergy."
+  },
+  {
+    "ingredient": "Peanut",
+    "aliases": [
+      "Groundnut",
+      "Monkey Nut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Peanut Butter",
+    "aliases": [
+      "Groundnut Butter"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut Butter is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Peanut Oil",
+    "aliases": [
+      "Arachis Oil",
+      "Groundnut Oil"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut Oil is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Peanut Flour",
+    "aliases": [
+      "Ground Peanut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut Flour is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Peanut Protein",
+    "aliases": [
+      "Hydrolyzed Peanut Protein"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut Protein is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Peanut Flavoring",
+    "aliases": [
+      "Artificial Peanut Flavor"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut Flavoring is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Mixed Nuts (Peanut Containing)",
+    "aliases": [
+      "Nut Mix with Peanuts"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Mixed Nuts (Peanut Containing) is a peanut-derived ingredient and is unsafe for people with peanut allergy."
+  },
+  {
+    "ingredient": "Tree Nuts",
+    "aliases": [
+      "Mixed Tree Nuts",
+      "Nut Blend"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Tree Nuts is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Almond",
+    "aliases": [
+      "Almond Milk",
+      "Almond Flour",
+      "Almond Oil",
+      "Almond Butter",
+      "Almond Extract",
+      "Marzipan"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Almond is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Cashew",
+    "aliases": [
+      "Cashew Butter",
+      "Cashew Milk",
+      "Cashew Nut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cashew is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Walnut",
+    "aliases": [
+      "Walnut Oil",
+      "English Walnut",
+      "Black Walnut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Walnut is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Hazelnut",
+    "aliases": [
+      "Hazelnut Spread",
+      "Filbert",
+      "Hazelnut Oil"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Hazelnut is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Pistachio",
+    "aliases": [
+      "Pistachio Nut",
+      "Pistachio Paste"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pistachio is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Pecan",
+    "aliases": [
+      "Pecan Nut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pecan is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Brazil Nut",
+    "aliases": [
+      "Para Nut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Brazil Nut is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Macadamia Nut",
+    "aliases": [
+      "Macadamia"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Macadamia Nut is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Pine Nut",
+    "aliases": [
+      "Pignoli",
+      "Pinoli"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pine Nut is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Chestnut",
+    "aliases": [
+      "Sweet Chestnut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Chestnut is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Nut Butter",
+    "aliases": [
+      "Mixed Nut Butter"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Nut Butter is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Nut Oil",
+    "aliases": [
+      "Mixed Tree Nut Oil"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Nut Oil is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Praline",
+    "aliases": [
+      "Nut Praline"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Praline is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Gianduja",
+    "aliases": [
+      "Hazelnut Chocolate Paste"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Gianduja is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Nutella (Hazelnut Spread)",
+    "aliases": [
+      "Chocolate Hazelnut Spread"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Nutella (Hazelnut Spread) is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Nougat",
+    "aliases": [
+      "Nut Nougat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Nougat is a tree nut and is unsafe for people with tree nut allergy."
+  },
+  {
+    "ingredient": "Sesame",
+    "aliases": [
+      "Sesame Seed",
+      "Benne Seed"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sesame contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Sesame Oil",
+    "aliases": [
+      "Gingelly Oil",
+      "Til Oil"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sesame Oil contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Tahini",
+    "aliases": [
+      "Sesame Paste"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Tahini contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Sesame Flour",
+    "aliases": [
+      "Ground Sesame"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sesame Flour contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Gomasio",
+    "aliases": [
+      "Sesame Salt"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Gomasio contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Halva",
+    "aliases": [
+      "Sesame Halva"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Halva contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Za'atar (Sesame Blend)",
+    "aliases": [
+      "Zaatar Spice Mix"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Za'atar (Sesame Blend) contains sesame and is unsafe for people with sesame allergy."
+  },
+  {
+    "ingredient": "Mustard",
+    "aliases": [
+      "Mustard Seed",
+      "Mustard Powder"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Mustard contains mustard and is unsafe for people with mustard allergy."
+  },
+  {
+    "ingredient": "Mustard Oil",
+    "aliases": [
+      "Sarson Ka Tel"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Mustard Oil contains mustard and is unsafe for people with mustard allergy."
+  },
+  {
+    "ingredient": "Dijon Mustard",
+    "aliases": [
+      "French Mustard"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Dijon Mustard contains mustard and is unsafe for people with mustard allergy."
+  },
+  {
+    "ingredient": "Mustard Greens",
+    "aliases": [
+      "Mustard Leaf"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Mustard Greens contains mustard and is unsafe for people with mustard allergy."
+  },
+  {
+    "ingredient": "Wholegrain Mustard",
+    "aliases": [
+      "Coarse Mustard"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Wholegrain Mustard contains mustard and is unsafe for people with mustard allergy."
+  },
+  {
+    "ingredient": "Celery",
+    "aliases": [
+      "Celery Stalk"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Celery contains celery and is unsafe for people with celery allergy."
+  },
+  {
+    "ingredient": "Celery Seed",
+    "aliases": [
+      "Celery Seed Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Celery Seed contains celery and is unsafe for people with celery allergy."
+  },
+  {
+    "ingredient": "Celery Salt",
+    "aliases": [
+      "Celery Salt Seasoning"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Celery Salt contains celery and is unsafe for people with celery allergy."
+  },
+  {
+    "ingredient": "Celeriac",
+    "aliases": [
+      "Celery Root"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Celeriac contains celery and is unsafe for people with celery allergy."
+  },
+  {
+    "ingredient": "Celery Powder",
+    "aliases": [
+      "Dried Celery"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Celery Powder contains celery and is unsafe for people with celery allergy."
+  },
+  {
+    "ingredient": "Gluten",
+    "aliases": [
+      "Vital Wheat Gluten",
+      "Gluten Protein"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Gluten contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Wheat",
+    "aliases": [
+      "Wheat Flour",
+      "Whole Wheat",
+      "Wheat Bran",
+      "Wheat Germ"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Wheat contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Wheat Starch",
+    "aliases": [
+      "Modified Wheat Starch"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Wheat Starch contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Durum Wheat",
+    "aliases": [
+      "Durum Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Durum Wheat contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Semolina",
+    "aliases": [
+      "Semolina Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Semolina contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Spelt",
+    "aliases": [
+      "Spelt Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Spelt contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Kamut",
+    "aliases": [
+      "Khorasan Wheat"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Kamut contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Triticale",
+    "aliases": [
+      "Triticale Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Triticale contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Barley",
+    "aliases": [
+      "Barley Flour",
+      "Pearl Barley"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Barley contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Barley Malt",
+    "aliases": [
+      "Malted Barley"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Barley Malt contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Malt Extract",
+    "aliases": [
+      "Malt Syrup"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Malt Extract contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Malt Vinegar",
+    "aliases": [
+      "Barley Malt Vinegar"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Malt Vinegar contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Rye",
+    "aliases": [
+      "Rye Flour",
+      "Rye Bread"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Rye contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Oats",
+    "aliases": [
+      "Oat Flour",
+      "Oat Bran",
+      "Rolled Oats",
+      "Oatmeal"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Oats contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Bulgur",
+    "aliases": [
+      "Cracked Wheat"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Bulgur contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Couscous",
+    "aliases": [
+      "Wheat Couscous"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Couscous contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Farina",
+    "aliases": [
+      "Wheat Farina"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Farina contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Seitan",
+    "aliases": [
+      "Wheat Meat",
+      "Wheat Gluten Meat"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Seitan contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Hydrolyzed Wheat Protein",
+    "aliases": [
+      "HWP"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Hydrolyzed Wheat Protein contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Bread",
+    "aliases": [
+      "Wheat Bread",
+      "White Bread"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Bread contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Pasta",
+    "aliases": [
+      "Wheat Pasta",
+      "Macaroni"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pasta contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Cracker",
+    "aliases": [
+      "Wheat Cracker"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Cracker contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Cookies (Wheat Based)",
+    "aliases": [
+      "Wheat Biscuit"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Cookies (Wheat Based) contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Cereal (Wheat Based)",
+    "aliases": [
+      "Wheat Cereal"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Cereal (Wheat Based) contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Beer (Barley/Wheat Based)",
+    "aliases": [
+      "Wheat Beer",
+      "Malt Beer"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Beer (Barley/Wheat Based) contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Soy Sauce (Wheat Based)",
+    "aliases": [
+      "Wheat Soy Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Sauce (Wheat Based) contains gluten and is unsafe for people with celiac disease or gluten intolerance."
+  },
+  {
+    "ingredient": "Sulphites",
+    "aliases": [
+      "Sulfites",
+      "Sulfur Dioxide"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Sulphites contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Sulphite",
+    "aliases": [
+      "E221"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Sodium Sulphite contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Bisulphite",
+    "aliases": [
+      "E222"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Sodium Bisulphite contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Metabisulphite",
+    "aliases": [
+      "E223"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Sodium Metabisulphite contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Potassium Bisulphite",
+    "aliases": [
+      "E228"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Potassium Bisulphite contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Potassium Metabisulphite",
+    "aliases": [
+      "E224"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Potassium Metabisulphite contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Calcium Sulphite",
+    "aliases": [
+      "E226"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Calcium Sulphite contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Dried Fruit (Sulphite Treated)",
+    "aliases": [
+      "Sulphured Dried Fruit"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Dried Fruit (Sulphite Treated) contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Wine (Sulphite Containing)",
+    "aliases": [
+      "Sulphite Preserved Wine"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Wine (Sulphite Containing) contains or releases sulphites and may trigger reactions in sulphite-sensitive individuals."
+  },
+  {
+    "ingredient": "Lupin",
+    "aliases": [
+      "Lupini Bean",
+      "Lupin Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Lupin is derived from lupin and is unsafe for people with lupin allergy."
+  },
+  {
+    "ingredient": "Lupin Flour",
+    "aliases": [
+      "Lupin Seed Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Lupin Flour is derived from lupin and is unsafe for people with lupin allergy."
+  },
+  {
+    "ingredient": "Lupin Protein",
+    "aliases": [
+      "Lupin Protein Isolate"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Lupin Protein is derived from lupin and is unsafe for people with lupin allergy."
+  },
+  {
+    "ingredient": "Corn",
+    "aliases": [
+      "Maize",
+      "Sweet Corn"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Starch",
+    "aliases": [
+      "Maize Starch"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Starch is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Syrup",
+    "aliases": [
+      "Glucose Syrup (Corn)"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Syrup is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Flour",
+    "aliases": [
+      "Maize Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Flour is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Cornmeal",
+    "aliases": [
+      "Maize Meal"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cornmeal is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "High Fructose Corn Syrup",
+    "aliases": [
+      "HFCS"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "High Fructose Corn Syrup is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Oil",
+    "aliases": [
+      "Maize Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Oil is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Gluten",
+    "aliases": [
+      "Zein"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Gluten is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Popcorn",
+    "aliases": [
+      "Popped Corn"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Popcorn is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Dextrose",
+    "aliases": [
+      "Corn Dextrose",
+      "Glucose"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Dextrose is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Maltodextrin",
+    "aliases": [
+      "Corn Maltodextrin"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Maltodextrin is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Tortilla",
+    "aliases": [
+      "Maize Tortilla"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Tortilla is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Corn Flakes",
+    "aliases": [
+      "Maize Flakes"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Corn Flakes is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Xanthan Gum (Corn Derived)",
+    "aliases": [
+      "Corn Fermented Xanthan Gum"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Xanthan Gum (Corn Derived) is corn-derived and may cause reactions in individuals with corn sensitivity."
+  },
+  {
+    "ingredient": "Yeast",
+    "aliases": [
+      "Baker's Yeast",
+      "Brewer's Yeast"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Yeast contains yeast and may cause reactions in yeast-sensitive individuals."
+  },
+  {
+    "ingredient": "Nutritional Yeast",
+    "aliases": [
+      "Yeast Flakes"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Nutritional Yeast contains yeast and may cause reactions in yeast-sensitive individuals."
+  },
+  {
+    "ingredient": "Yeast Extract",
+    "aliases": [
+      "Autolyzed Yeast Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Yeast Extract contains yeast and may cause reactions in yeast-sensitive individuals."
+  },
+  {
+    "ingredient": "Beer (Yeast Fermented)",
+    "aliases": [
+      "Yeast Fermented Beer"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Beer (Yeast Fermented) contains yeast and may cause reactions in yeast-sensitive individuals."
+  },
+  {
+    "ingredient": "Bread (Yeast Leavened)",
+    "aliases": [
+      "Yeast Bread"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Bread (Yeast Leavened) contains yeast and may cause reactions in yeast-sensitive individuals."
+  },
+  {
+    "ingredient": "Vinegar (Yeast Fermented)",
+    "aliases": [
+      "Yeast Derived Vinegar"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Vinegar (Yeast Fermented) contains yeast and may cause reactions in yeast-sensitive individuals."
+  },
+  {
+    "ingredient": "Chocolate",
+    "aliases": [
+      "Cocoa",
+      "Cacao"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Chocolate contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Cocoa Powder",
+    "aliases": [
+      "Unsweetened Cocoa"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cocoa Powder contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Cocoa Butter",
+    "aliases": [
+      "Theobroma Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cocoa Butter contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Dark Chocolate",
+    "aliases": [
+      "Bittersweet Chocolate"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Dark Chocolate contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Milk Chocolate",
+    "aliases": [
+      "Sweet Milk Chocolate"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Milk Chocolate contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "White Chocolate",
+    "aliases": [
+      "Cocoa Butter Chocolate"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "White Chocolate contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Cocoa Nibs",
+    "aliases": [
+      "Cacao Nibs"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cocoa Nibs contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Chocolate Syrup",
+    "aliases": [
+      "Cocoa Syrup"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Chocolate Syrup contains cocoa/chocolate and may trigger reactions in chocolate-sensitive individuals."
+  },
+  {
+    "ingredient": "Coconut",
+    "aliases": [
+      "Coconut Meat",
+      "Coconut Flesh"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Coconut Milk",
+    "aliases": [
+      "Canned Coconut Milk"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut Milk is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Coconut Oil",
+    "aliases": [
+      "Copra Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut Oil is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Coconut Flour",
+    "aliases": [
+      "Ground Coconut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut Flour is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Coconut Water",
+    "aliases": [
+      "Coconut Juice"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut Water is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Desiccated Coconut",
+    "aliases": [
+      "Shredded Coconut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Desiccated Coconut is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Coconut Cream",
+    "aliases": [
+      "Thick Coconut Cream"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut Cream is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Coconut Sugar",
+    "aliases": [
+      "Coconut Palm Sugar"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Coconut Sugar is coconut-derived; classified botanically as a tree nut and may be unsafe for some tree nut allergy sufferers."
+  },
+  {
+    "ingredient": "Chickpea",
+    "aliases": [
+      "Garbanzo Bean",
+      "Chana"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Chickpea is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Lentil",
+    "aliases": [
+      "Dal",
+      "Split Lentil"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Lentil is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Green Pea",
+    "aliases": [
+      "Garden Pea"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Green Pea is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Kidney Bean",
+    "aliases": [
+      "Rajma"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Kidney Bean is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Black Bean",
+    "aliases": [
+      "Turtle Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Black Bean is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Pinto Bean",
+    "aliases": [
+      "Pinto Beans"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pinto Bean is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Pea Protein",
+    "aliases": [
+      "Pea Protein Isolate"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pea Protein is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Fava Bean",
+    "aliases": [
+      "Broad Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Fava Bean is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Green Bean",
+    "aliases": [
+      "String Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Green Bean is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Buckwheat",
+    "aliases": [
+      "Buckwheat Flour",
+      "Kasha"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Buckwheat is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Quinoa",
+    "aliases": [
+      "Quinoa Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Quinoa is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sunflower Seed",
+    "aliases": [
+      "Sunflower Seed Butter"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Sunflower Seed is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Poppy Seed",
+    "aliases": [
+      "Poppy Seed Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Poppy Seed is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Flaxseed",
+    "aliases": [
+      "Linseed"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Flaxseed is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Pumpkin Seed",
+    "aliases": [
+      "Pepita"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pumpkin Seed is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Chia Seed",
+    "aliases": [
+      "Chia"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Chia Seed is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Hemp Seed",
+    "aliases": [
+      "Hemp Protein"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Hemp Seed is a legume/seed ingredient that can trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Kiwi",
+    "aliases": [
+      "Kiwifruit"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Kiwi is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Banana",
+    "aliases": [
+      "Banana Puree"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Banana is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Avocado",
+    "aliases": [
+      "Avocado Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Avocado is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Papaya",
+    "aliases": [
+      "Papaya Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Papaya is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Mango",
+    "aliases": [
+      "Mango Pulp"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Mango is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Strawberry",
+    "aliases": [
+      "Strawberry Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Strawberry is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Tomato",
+    "aliases": [
+      "Tomato Paste",
+      "Tomato Puree"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Tomato is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Pineapple",
+    "aliases": [
+      "Pineapple Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Pineapple is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Passionfruit",
+    "aliases": [
+      "Passion Fruit Pulp"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Passionfruit is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Peach",
+    "aliases": [
+      "Peach Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Peach is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Apple",
+    "aliases": [
+      "Apple Puree"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Apple is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Melon",
+    "aliases": [
+      "Cantaloupe"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Melon is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Citrus (Orange/Lemon)",
+    "aliases": [
+      "Citrus Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Citrus (Orange/Lemon) is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Grape",
+    "aliases": [
+      "Grape Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Grape is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Fig",
+    "aliases": [
+      "Dried Fig"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Fig is a fruit ingredient associated with oral allergy syndrome in sensitive individuals, often linked to pollen cross-reactivity."
+  },
+  {
+    "ingredient": "Potato",
+    "aliases": [
+      "Potato Starch"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Potato is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Eggplant",
+    "aliases": [
+      "Aubergine"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Eggplant is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Bell Pepper",
+    "aliases": [
+      "Capsicum"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Bell Pepper is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Chili Pepper",
+    "aliases": [
+      "Red Chili"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Chili Pepper is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Paprika",
+    "aliases": [
+      "Paprika Powder"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Paprika is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Garlic",
+    "aliases": [
+      "Garlic Powder",
+      "Garlic Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Garlic is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Onion",
+    "aliases": [
+      "Onion Powder",
+      "Onion Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Onion is a nightshade/allium ingredient that can cause sensitivity reactions in some individuals."
+  },
+  {
+    "ingredient": "Chicken",
+    "aliases": [
+      "Chicken Meat",
+      "Chicken Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Chicken is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Beef",
+    "aliases": [
+      "Beef Extract",
+      "Beef Meat"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Beef is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Pork",
+    "aliases": [
+      "Pork Meat",
+      "Pork Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pork is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Lamb",
+    "aliases": [
+      "Mutton"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Lamb is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Red Meat (Alpha-Gal)",
+    "aliases": [
+      "Mammalian Meat"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Red Meat (Alpha-Gal) is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Gelatin",
+    "aliases": [
+      "Bovine Gelatin",
+      "Porcine Gelatin"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Gelatin is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Honey",
+    "aliases": [
+      "Raw Honey"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Honey is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Royal Jelly",
+    "aliases": [
+      "Bee Royal Jelly"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Royal Jelly is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Bee Pollen",
+    "aliases": [
+      "Bee Pollen Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Bee Pollen is an animal-derived ingredient that may trigger allergic reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Monosodium Glutamate",
+    "aliases": [
+      "MSG",
+      "E621"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Monosodium Glutamate is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Carmine",
+    "aliases": [
+      "Cochineal Extract",
+      "E120"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Carmine is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Tartrazine",
+    "aliases": [
+      "Yellow 5",
+      "E102"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Tartrazine is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sunset Yellow",
+    "aliases": [
+      "E110"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sunset Yellow is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Allura Red",
+    "aliases": [
+      "Red 40",
+      "E129"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Allura Red is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Benzoate",
+    "aliases": [
+      "E211"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sodium Benzoate is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Aspartame",
+    "aliases": [
+      "NutraSweet",
+      "E951"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Aspartame is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Annatto",
+    "aliases": [
+      "E160b"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Annatto is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Caffeine",
+    "aliases": [
+      "Guarana Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Caffeine is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Histamine (Fermented Foods)",
+    "aliases": [
+      "Aged Cheese Histamine"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Histamine (Fermented Foods) is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "BHA/BHT Preservatives",
+    "aliases": [
+      "Butylated Hydroxyanisole"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "BHA/BHT Preservatives is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Carrageenan",
+    "aliases": [
+      "Irish Moss Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Carrageenan is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Guar Gum",
+    "aliases": [
+      "Guar Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Guar Gum is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Xanthan Gum",
+    "aliases": [
+      "Corn/Wheat Fermented Gum"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Xanthan Gum is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Locust Bean Gum",
+    "aliases": [
+      "Carob Gum"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Locust Bean Gum is a food additive that may cause intolerance or allergic-type reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Vanilla",
+    "aliases": [
+      "Vanilla Extract",
+      "Vanillin"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Vanilla is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Cinnamon",
+    "aliases": [
+      "Cinnamon Powder"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cinnamon is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Cardamom",
+    "aliases": [
+      "Cardamom Powder"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cardamom is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Nutmeg",
+    "aliases": [
+      "Ground Nutmeg"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Nutmeg is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Black Pepper",
+    "aliases": [
+      "Ground Black Pepper"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Black Pepper is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Saffron",
+    "aliases": [
+      "Saffron Threads"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Saffron is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Clove",
+    "aliases": [
+      "Ground Clove"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Clove is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Ginger",
+    "aliases": [
+      "Ground Ginger"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Ginger is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Turmeric",
+    "aliases": [
+      "Turmeric Powder"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Turmeric is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Cumin",
+    "aliases": [
+      "Ground Cumin"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cumin is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Coriander",
+    "aliases": [
+      "Coriander Seed"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Coriander is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Fennel",
+    "aliases": [
+      "Fennel Seed"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Fennel is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Fenugreek",
+    "aliases": [
+      "Methi Seed"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Fenugreek is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Anise",
+    "aliases": [
+      "Star Anise"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Anise is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Basil",
+    "aliases": [
+      "Dried Basil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Basil is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Oregano",
+    "aliases": [
+      "Dried Oregano"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Oregano is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Thyme",
+    "aliases": [
+      "Dried Thyme"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Thyme is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Rosemary",
+    "aliases": [
+      "Dried Rosemary"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Rosemary is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Bay Leaf",
+    "aliases": [
+      "Dried Bay Leaf"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Bay Leaf is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Paprika Extract",
+    "aliases": [
+      "Oleoresin Paprika"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Paprika Extract is a spice ingredient that may trigger allergic or sensitivity reactions in rare cases."
+  },
+  {
+    "ingredient": "Alcohol (Wheat/Barley Derived)",
+    "aliases": [
+      "Grain Alcohol"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Alcohol (Wheat/Barley Derived) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Wine",
+    "aliases": [
+      "Red Wine",
+      "White Wine"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Wine may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Vinegar",
+    "aliases": [
+      "Malt Vinegar",
+      "Wine Vinegar"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Vinegar may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Soy Isolate Beverage",
+    "aliases": [
+      "Soy Protein Drink"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Isolate Beverage may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Non-Dairy Creamer (Soy/Milk Based)",
+    "aliases": [
+      "Coffee Creamer"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Non-Dairy Creamer (Soy/Milk Based) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Margarine (Dairy/Soy Based)",
+    "aliases": [
+      "Vegetable Spread"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Margarine (Dairy/Soy Based) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Salad Dressing (Egg/Milk Based)",
+    "aliases": [
+      "Creamy Dressing"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Salad Dressing (Egg/Milk Based) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Baking Powder (Corn Starch Based)",
+    "aliases": [
+      "Leavening Agent"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Baking Powder (Corn Starch Based) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Instant Noodles (Wheat/MSG Based)",
+    "aliases": [
+      "Ramen"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Instant Noodles (Wheat/MSG Based) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Protein Bar (Whey/Soy/Nut Based)",
+    "aliases": [
+      "Energy Bar"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Protein Bar (Whey/Soy/Nut Based) may contain one or more common allergens depending on formulation and should be checked carefully by allergic individuals."
+  },
+  {
+    "ingredient": "Cheddar Cheese",
+    "aliases": [
+      "Cheddar"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cheddar Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Mozzarella Cheese",
+    "aliases": [
+      "Mozzarella"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Mozzarella Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Parmesan Cheese",
+    "aliases": [
+      "Parmesan"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Parmesan Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Cream Cheese",
+    "aliases": [
+      "Soft Cheese"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cream Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Cottage Cheese",
+    "aliases": [
+      "Farmer Cheese"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cottage Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Ricotta Cheese",
+    "aliases": [
+      "Ricotta"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ricotta Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Feta Cheese",
+    "aliases": [
+      "Feta"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Feta Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Blue Cheese",
+    "aliases": [
+      "Roquefort"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Blue Cheese is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Goat Milk",
+    "aliases": [
+      "Goat's Milk"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Goat Milk is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Sheep Milk",
+    "aliases": [
+      "Ewe's Milk"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sheep Milk is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "A2 Milk",
+    "aliases": [
+      "A2 Beta Casein Milk"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "A2 Milk is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Milk Fat",
+    "aliases": [
+      "Anhydrous Milk Fat"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Milk Fat is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Half & Half Creamer",
+    "aliases": [
+      "Dairy Creamer"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Half & Half Creamer is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Whipped Cream",
+    "aliases": [
+      "Whipped Topping (Dairy)"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Whipped Cream is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Panna Cotta",
+    "aliases": [
+      "Cream Dessert"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Panna Cotta is a dairy product and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Quiche",
+    "aliases": [
+      "Egg Custard Pie"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Quiche contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Frittata",
+    "aliases": [
+      "Egg Omelette Dish"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Frittata contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Souffle",
+    "aliases": [
+      "Egg Souffle"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Souffle contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Hollandaise Sauce",
+    "aliases": [
+      "Egg Yolk Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Hollandaise Sauce contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Caesar Dressing",
+    "aliases": [
+      "Egg Based Dressing"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Caesar Dressing contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Angel Food Cake",
+    "aliases": [
+      "Egg White Cake"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Angel Food Cake contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Pasta (Egg Based)",
+    "aliases": [
+      "Egg Noodles"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pasta (Egg Based) contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Marshmallow (Egg White Based)",
+    "aliases": [
+      "Egg White Marshmallow"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Marshmallow (Egg White Based) contains egg and is unsafe for people with egg allergy."
+  },
+  {
+    "ingredient": "Pollock",
+    "aliases": [
+      "Alaska Pollock"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pollock is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Swordfish",
+    "aliases": [
+      "Swordfish Steak"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Swordfish is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Eel",
+    "aliases": [
+      "Unagi"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Eel is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Mahi Mahi",
+    "aliases": [
+      "Dolphinfish"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Mahi Mahi is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Grouper",
+    "aliases": [
+      "Grouper Fillet"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Grouper is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Perch",
+    "aliases": [
+      "Ocean Perch"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Perch is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Flounder",
+    "aliases": [
+      "Flatfish"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Flounder is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Sole",
+    "aliases": [
+      "Dover Sole"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sole is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Carp",
+    "aliases": [
+      "Common Carp"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Carp is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Barramundi",
+    "aliases": [
+      "Asian Sea Bass"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Barramundi is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Broth",
+    "aliases": [
+      "Dashi (Fish Based)"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Broth is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Fish Paste",
+    "aliases": [
+      "Fish Ball Paste"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Paste is a fish-derived ingredient and is unsafe for people with fish allergy."
+  },
+  {
+    "ingredient": "Mung Bean",
+    "aliases": [
+      "Green Gram"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Mung Bean is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Black-Eyed Pea",
+    "aliases": [
+      "Cowpea"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Black-Eyed Pea is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Adzuki Bean",
+    "aliases": [
+      "Red Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Adzuki Bean is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Navy Bean",
+    "aliases": [
+      "Haricot Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Navy Bean is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Lima Bean",
+    "aliases": [
+      "Butter Bean"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Lima Bean is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Millet",
+    "aliases": [
+      "Pearl Millet"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Millet is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Sorghum",
+    "aliases": [
+      "Jowar"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sorghum is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Amaranth",
+    "aliases": [
+      "Amaranth Grain"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Amaranth is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Teff",
+    "aliases": [
+      "Teff Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Teff is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Rice",
+    "aliases": [
+      "White Rice",
+      "Brown Rice"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Rice is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Rice Flour",
+    "aliases": [
+      "Ground Rice"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Rice Flour is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Rice Bran",
+    "aliases": [
+      "Bran of Rice"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Rice Bran is a grain/legume ingredient that may trigger sensitivity or allergic reactions in rare cases."
+  },
+  {
+    "ingredient": "Cherry",
+    "aliases": [
+      "Cherry Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cherry is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Plum",
+    "aliases": [
+      "Dried Plum"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Plum is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Apricot",
+    "aliases": [
+      "Dried Apricot"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Apricot is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Pear",
+    "aliases": [
+      "Pear Puree"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Pear is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Watermelon",
+    "aliases": [
+      "Watermelon Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Watermelon is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Blueberry",
+    "aliases": [
+      "Blueberry Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Blueberry is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Raspberry",
+    "aliases": [
+      "Raspberry Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Raspberry is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Blackberry",
+    "aliases": [
+      "Blackberry Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Blackberry is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Cranberry",
+    "aliases": [
+      "Dried Cranberry"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cranberry is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Pomegranate",
+    "aliases": [
+      "Pomegranate Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Pomegranate is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Cucumber",
+    "aliases": [
+      "Cucumber Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cucumber is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Zucchini",
+    "aliases": [
+      "Courgette"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Zucchini is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Carrot",
+    "aliases": [
+      "Carrot Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Carrot is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Spinach",
+    "aliases": [
+      "Spinach Powder"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Spinach is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Broccoli",
+    "aliases": [
+      "Broccoli Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Broccoli is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Cauliflower",
+    "aliases": [
+      "Cauliflower Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cauliflower is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Cabbage",
+    "aliases": [
+      "Cabbage Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cabbage is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Beetroot",
+    "aliases": [
+      "Beet"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Beetroot is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Radish",
+    "aliases": [
+      "Radish Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Radish is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Asparagus",
+    "aliases": [
+      "Asparagus Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Asparagus is a fruit/vegetable ingredient that may occasionally trigger sensitivity reactions in susceptible individuals."
+  },
+  {
+    "ingredient": "Quinoline Yellow",
+    "aliases": [
+      "E104"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Quinoline Yellow is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Carmoisine",
+    "aliases": [
+      "E122"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Carmoisine is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Ponceau 4R",
+    "aliases": [
+      "E124"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Ponceau 4R is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Brilliant Blue",
+    "aliases": [
+      "E133"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Brilliant Blue is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Potassium Sulphite",
+    "aliases": [
+      "E225"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Potassium Sulphite is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Calcium Bisulphite",
+    "aliases": [
+      "E227"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Calcium Bisulphite is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Nitrite",
+    "aliases": [
+      "E250"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sodium Nitrite is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Nitrate",
+    "aliases": [
+      "E251"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sodium Nitrate is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Potassium Nitrate",
+    "aliases": [
+      "E252"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Potassium Nitrate is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sorbic Acid",
+    "aliases": [
+      "E200"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sorbic Acid is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Potassium Sorbate",
+    "aliases": [
+      "E202"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Potassium Sorbate is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Calcium Propionate",
+    "aliases": [
+      "E282"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Calcium Propionate is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sodium Metabisulfite (Wine)",
+    "aliases": [
+      "E223 Wine Preservative"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sodium Metabisulfite (Wine) is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Polysorbate 80",
+    "aliases": [
+      "E433"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Polysorbate 80 is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Lecithin (Unspecified Source)",
+    "aliases": [
+      "E322"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Lecithin (Unspecified Source) is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Stevia",
+    "aliases": [
+      "Steviol Glycosides"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Stevia is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Sucralose",
+    "aliases": [
+      "E955"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sucralose is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Acesulfame K",
+    "aliases": [
+      "E950"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Acesulfame K is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Saccharin",
+    "aliases": [
+      "E954"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Saccharin is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Titanium Dioxide",
+    "aliases": [
+      "E171"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Titanium Dioxide is a food additive/preservative that may cause intolerance reactions in sensitive individuals."
+  },
+  {
+    "ingredient": "Pizza Dough (Wheat Based)",
+    "aliases": [
+      "Pizza Base"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pizza Dough (Wheat Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Pancake Mix (Wheat/Egg/Milk Based)",
+    "aliases": [
+      "Pancake Batter"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pancake Mix (Wheat/Egg/Milk Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Waffle Mix (Wheat/Egg/Milk Based)",
+    "aliases": [
+      "Waffle Batter"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Waffle Mix (Wheat/Egg/Milk Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Muffin (Wheat/Egg/Milk Based)",
+    "aliases": [
+      "Muffin Mix"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Muffin (Wheat/Egg/Milk Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Donut (Wheat/Egg/Milk Based)",
+    "aliases": [
+      "Doughnut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Donut (Wheat/Egg/Milk Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Cake Mix (Wheat/Egg/Milk Based)",
+    "aliases": [
+      "Cake Batter"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Cake Mix (Wheat/Egg/Milk Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Pie Crust (Wheat/Butter Based)",
+    "aliases": [
+      "Pastry Crust"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pie Crust (Wheat/Butter Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Croissant (Wheat/Butter Based)",
+    "aliases": [
+      "Butter Croissant"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Croissant (Wheat/Butter Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Bagel (Wheat Based)",
+    "aliases": [
+      "Wheat Bagel"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Bagel (Wheat Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Pretzel (Wheat Based)",
+    "aliases": [
+      "Wheat Pretzel"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pretzel (Wheat Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Granola Bar (Oat/Nut Based)",
+    "aliases": [
+      "Muesli Bar"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Granola Bar (Oat/Nut Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Trail Mix (Nut/Seed Based)",
+    "aliases": [
+      "Nut and Seed Mix"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Trail Mix (Nut/Seed Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Chocolate Chip Cookie",
+    "aliases": [
+      "Choc Chip Biscuit"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Chocolate Chip Cookie is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Brownie (Egg/Wheat/Chocolate Based)",
+    "aliases": [
+      "Chocolate Brownie"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Brownie (Egg/Wheat/Chocolate Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Tempura Batter (Wheat/Egg Based)",
+    "aliases": [
+      "Tempura Coating"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Tempura Batter (Wheat/Egg Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Breaded Chicken (Wheat/Egg Based)",
+    "aliases": [
+      "Chicken Nugget"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Breaded Chicken (Wheat/Egg Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Ice Cream Cone (Wheat Based)",
+    "aliases": [
+      "Waffle Cone"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Ice Cream Cone (Wheat Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Energy Drink (Caffeine/Taurine Based)",
+    "aliases": [
+      "Sports Drink"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Energy Drink (Caffeine/Taurine Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Protein Shake (Whey/Soy Based)",
+    "aliases": [
+      "Meal Replacement Shake"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Protein Shake (Whey/Soy Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Salad Cream (Egg/Milk Based)",
+    "aliases": [
+      "Creamy Salad Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Salad Cream (Egg/Milk Based) is a composite food product that commonly contains multiple major allergens and should be checked carefully."
+  },
+  {
+    "ingredient": "Pili Nut",
+    "aliases": [
+      "Pili"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Pili Nut is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Ginkgo Nut",
+    "aliases": [
+      "Gingko Seed"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Ginkgo Nut is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Beechnut",
+    "aliases": [
+      "Beech Nut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Beechnut is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Candlenut",
+    "aliases": [
+      "Kukui Nut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Candlenut is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Colanut",
+    "aliases": [
+      "Kola Nut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Colanut is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Tigernut",
+    "aliases": [
+      "Chufa"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Tigernut is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Sacha Inchi Seed",
+    "aliases": [
+      "Inca Peanut"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Sacha Inchi Seed is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Watermelon Seed",
+    "aliases": [
+      "Roasted Watermelon Seed"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Watermelon Seed is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Safflower Seed",
+    "aliases": [
+      "Safflower"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Safflower Seed is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Nigella Seed",
+    "aliases": [
+      "Black Cumin"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Nigella Seed is a nut/seed ingredient that may trigger allergic reactions in individuals with nut or seed allergy."
+  },
+  {
+    "ingredient": "Shrimp Chips",
+    "aliases": [
+      "Prawn Crackers"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Shrimp Chips is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Crab Roe",
+    "aliases": [
+      "Crab Egg"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Crab Roe is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Lobster Roe",
+    "aliases": [
+      "Lobster Egg"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Lobster Roe is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Fish Roe Spread",
+    "aliases": [
+      "Tarama"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Roe Spread is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Shellfish Stock",
+    "aliases": [
+      "Seafood Stock"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Shellfish Stock is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Prawn Crackers",
+    "aliases": [
+      "Keropok"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Prawn Crackers is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Squid Ink",
+    "aliases": [
+      "Cuttlefish Ink Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Squid Ink is a shellfish/seafood derived product and is unsafe for people with shellfish or fish allergy."
+  },
+  {
+    "ingredient": "Soy Yogurt",
+    "aliases": [
+      "Soya Yogurt"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Yogurt is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Soy Cheese",
+    "aliases": [
+      "Soya Cheese"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Cheese is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Soy Ice Cream",
+    "aliases": [
+      "Soya Ice Cream"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Ice Cream is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Hydrolyzed Vegetable Protein (Soy/Wheat)",
+    "aliases": [
+      "HVP"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Hydrolyzed Vegetable Protein (Soy/Wheat) is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Vegetable Gum (Soy Derived)",
+    "aliases": [
+      "Soy Gum"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Vegetable Gum (Soy Derived) is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Gluten-Free Oats (Cross-Contact Risk)",
+    "aliases": [
+      "Pure Oats"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Gluten-Free Oats (Cross-Contact Risk) is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Wheat Bran Cereal",
+    "aliases": [
+      "Bran Flakes"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Wheat Bran Cereal is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Graham Flour",
+    "aliases": [
+      "Whole Wheat Graham Flour"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Graham Flour is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Einkorn Wheat",
+    "aliases": [
+      "Ancient Wheat"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Einkorn Wheat is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Emmer Wheat",
+    "aliases": [
+      "Farro"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Emmer Wheat is derived from soy or gluten-containing grains and may be unsafe for allergic or sensitive individuals."
+  },
+  {
+    "ingredient": "Sunflower Oil",
+    "aliases": [
+      "Sunflower Seed Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sunflower Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Safflower Oil",
+    "aliases": [
+      "Safflower Seed Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Safflower Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Rapeseed Oil",
+    "aliases": [
+      "Canola Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Rapeseed Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Palm Oil",
+    "aliases": [
+      "Palm Kernel Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Palm Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Olive Oil",
+    "aliases": [
+      "Extra Virgin Olive Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Olive Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Grapeseed Oil",
+    "aliases": [
+      "Grape Seed Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Grapeseed Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Cottonseed Oil",
+    "aliases": [
+      "Cotton Seed Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Cottonseed Oil is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Sesame Seed Oil (Cold Pressed)",
+    "aliases": [
+      "Cold Pressed Sesame Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Sesame Seed Oil (Cold Pressed) is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Vegetable Shortening",
+    "aliases": [
+      "Hydrogenated Vegetable Oil"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Vegetable Shortening is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Margarine",
+    "aliases": [
+      "Vegetable Margarine"
+    ],
+    "allergen": true,
+    "risk_level": "Low",
+    "description": "Margarine is a plant-derived oil/fat that may carry allergen cross-contact risk depending on sourcing."
+  },
+  {
+    "ingredient": "Yeast Dough Conditioner",
+    "aliases": [
+      "Dough Improver"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Yeast Dough Conditioner is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Emulsifier (Soy/Egg Based)",
+    "aliases": [
+      "Mono and Diglycerides"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Emulsifier (Soy/Egg Based) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Stabilizer (Milk/Soy Based)",
+    "aliases": [
+      "Food Stabilizer"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Stabilizer (Milk/Soy Based) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Thickener (Wheat/Corn Based)",
+    "aliases": [
+      "Modified Starch Thickener"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Thickener (Wheat/Corn Based) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Flavor Enhancer (MSG Based)",
+    "aliases": [
+      "Umami Enhancer"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Flavor Enhancer (MSG Based) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Artificial Sweetener Blend",
+    "aliases": [
+      "Sugar Substitute Blend"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Artificial Sweetener Blend is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Natural Flavoring (Allergen Source Unspecified)",
+    "aliases": [
+      "Natural Flavor"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Natural Flavoring (Allergen Source Unspecified) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Artificial Flavoring (Allergen Source Unspecified)",
+    "aliases": [
+      "Artificial Flavor"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Artificial Flavoring (Allergen Source Unspecified) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Color Additive (Unspecified Source)",
+    "aliases": [
+      "Food Coloring"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Color Additive (Unspecified Source) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Preservative Blend (Sulphite/Benzoate)",
+    "aliases": [
+      "Mixed Preservatives"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Preservative Blend (Sulphite/Benzoate) is a functional food additive that may derive from or contain common allergens depending on formulation."
+  },
+  {
+    "ingredient": "Tofu Skin",
+    "aliases": [
+      "Yuba"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Tofu Skin is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Soy Curls",
+    "aliases": [
+      "Dried Soy Curls"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Curls is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Soy Grits",
+    "aliases": [
+      "Toasted Soy Grits"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Grits is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Okara",
+    "aliases": [
+      "Soy Pulp"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Okara is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Natto Extract",
+    "aliases": [
+      "Fermented Soy Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Natto Extract is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Soy Isoflavones",
+    "aliases": [
+      "Soy Isoflavone Extract"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Isoflavones is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Soy Fiber",
+    "aliases": [
+      "Soy Bran"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Soy Fiber is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Whey Isolate Supplement",
+    "aliases": [
+      "Sports Whey Supplement"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Whey Isolate Supplement is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Casein Supplement",
+    "aliases": [
+      "Micellar Casein Supplement"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Casein Supplement is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Egg White Powder Supplement",
+    "aliases": [
+      "Egg Protein Supplement"
+    ],
+    "allergen": true,
+    "risk_level": "Medium",
+    "description": "Egg White Powder Supplement is a processed soy or dairy/egg protein product and is unsafe for people with the corresponding allergy."
+  },
+  {
+    "ingredient": "Chestnut Flour",
+    "aliases": [
+      "Ground Chestnut"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Chestnut Flour contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Almond Paste",
+    "aliases": [
+      "Almond Marzipan Paste"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Almond Paste contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Cashew Cheese",
+    "aliases": [
+      "Vegan Cashew Cheese"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cashew Cheese contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Walnut Pesto",
+    "aliases": [
+      "Walnut Basil Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Walnut Pesto contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Pistachio Ice Cream",
+    "aliases": [
+      "Pistachio Gelato"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pistachio Ice Cream contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Hazelnut Liqueur",
+    "aliases": [
+      "Frangelico Style Liqueur"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Hazelnut Liqueur contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Peanut Sauce",
+    "aliases": [
+      "Satay Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Peanut Sauce contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Almond Croissant",
+    "aliases": [
+      "Almond Pastry"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Almond Croissant contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Cashew Curry",
+    "aliases": [
+      "Cashew Based Curry Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cashew Curry contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Walnut Bread",
+    "aliases": [
+      "Walnut Loaf"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Walnut Bread contains tree nut or peanut derivatives and is unsafe for people with the corresponding nut allergy."
+  },
+  {
+    "ingredient": "Clam Chowder",
+    "aliases": [
+      "Clam Soup"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Clam Chowder is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Shrimp Tempura",
+    "aliases": [
+      "Fried Shrimp"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Shrimp Tempura is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Crab Rangoon",
+    "aliases": [
+      "Crab Cream Cheese Wonton"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Crab Rangoon is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Paella (Shellfish Based)",
+    "aliases": [
+      "Seafood Paella"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Paella (Shellfish Based) is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Bouillabaisse",
+    "aliases": [
+      "Fish and Shellfish Stew"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Bouillabaisse is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Ceviche",
+    "aliases": [
+      "Raw Fish/Shellfish Dish"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Ceviche is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Sushi (Fish/Shellfish Based)",
+    "aliases": [
+      "Nigiri Sushi"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Sushi (Fish/Shellfish Based) is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Poke Bowl (Fish Based)",
+    "aliases": [
+      "Ahi Poke"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Poke Bowl (Fish Based) is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Fish Curry",
+    "aliases": [
+      "Fish Masala"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Fish Curry is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Prawn Cocktail",
+    "aliases": [
+      "Shrimp Cocktail"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Prawn Cocktail is a seafood-based composite dish and is unsafe for people with fish, shellfish, or mollusc allergy."
+  },
+  {
+    "ingredient": "Butter Cookie",
+    "aliases": [
+      "Shortbread"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Butter Cookie is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Cheese Sauce",
+    "aliases": [
+      "Nacho Cheese Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cheese Sauce is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Alfredo Sauce",
+    "aliases": [
+      "Cream Based Pasta Sauce"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Alfredo Sauce is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Pesto (Cheese Based)",
+    "aliases": [
+      "Basil Pesto"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Pesto (Cheese Based) is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Tzatziki",
+    "aliases": [
+      "Yogurt Cucumber Dip"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Tzatziki is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Paneer Tikka",
+    "aliases": [
+      "Grilled Paneer"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Paneer Tikka is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Cheese Fondue",
+    "aliases": [
+      "Melted Cheese Dip"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cheese Fondue is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Cream Soup Base",
+    "aliases": [
+      "Cream of Mushroom Base"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Cream Soup Base is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Milkshake",
+    "aliases": [
+      "Dairy Milkshake"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Milkshake is a dairy-based composite food and is unsafe for people with milk allergy."
+  },
+  {
+    "ingredient": "Rice Pudding (Milk Based)",
+    "aliases": [
+      "Kheer"
+    ],
+    "allergen": true,
+    "risk_level": "High",
+    "description": "Rice Pudding (Milk Based) is a dairy-based composite food and is unsafe for people with milk allergy."
+  }
+]

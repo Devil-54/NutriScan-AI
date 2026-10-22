@@ -1,0 +1,65 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+**/keys/*.pem
+**/*.pem
+*.key
+*.p12
+*.pfx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+**/.pytest-tmp/
+**/.test-tmp/
+.mypy_cache/
+.ruff_cache/
+coverage.xml
+htmlcov/
+
+# Flutter / Dart generated and build output
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+
+# Runtime data, logs, local database files, uploads, OCR models
+**/*.log
+**/storage/
+**/uploads/
+*.db
+*.sqlite*
+*.dump
+*.sql.gz
+pytest-temp/
+pytest-check-temp/
+**/.run_logs/
+nutriscan_full_backup/backend/openapi-local.json
+nutriscan_full_backup/backend/temp_repro.py
+nutriscan_full_backup/backend/temp_ocr_*.py
+nutriscan_full_backup/backend/tmp_integration_test.py
+nutriscan_full_backup/frontend/app-runtime.png
+
+# Large third-party dataset exports (fetch separately; see docs/DATASETS.md)
+nutriscan_full_backup/backend/dataset/*.csv.gz
+nutriscan_full_backup/backend/dataset/FoodData_Central_branded_food_csv_*/
+nutriscan_full_backup/backend/dataset/FoodData_Central_Supporting_Data_csv_*/
+
+# IDE / OS
+.idea/
+.vscode/*
+**/.vscode/
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+Desktop.ini

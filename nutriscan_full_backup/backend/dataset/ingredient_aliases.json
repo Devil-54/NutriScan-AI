@@ -1,0 +1,6271 @@
+[
+  {
+    "standard_name": "Sugar",
+    "aliases": [
+      "Sucrose",
+      "Brown Sugar",
+      "Cane Sugar",
+      "Liquid Glucose",
+      "Glucose Syrup",
+      "Invert Sugar",
+      "Raw Sugar"
+    ]
+  },
+  {
+    "standard_name": "Glucose",
+    "aliases": [
+      "Dextrose",
+      "Corn Sugar",
+      "D-Glucose",
+      "Grape Sugar"
+    ]
+  },
+  {
+    "standard_name": "Fructose",
+    "aliases": [
+      "Fruit Sugar",
+      "D-Fructose",
+      "Levulose"
+    ]
+  },
+  {
+    "standard_name": "Maltose",
+    "aliases": [
+      "Malt Sugar"
+    ]
+  },
+  {
+    "standard_name": "Lactose",
+    "aliases": [
+      "Milk Sugar"
+    ]
+  },
+  {
+    "standard_name": "Honey",
+    "aliases": [
+      "Raw Honey",
+      "Pure Honey",
+      "Natural Honey"
+    ]
+  },
+  {
+    "standard_name": "Agave Syrup",
+    "aliases": [
+      "Agave Nectar"
+    ]
+  },
+  {
+    "standard_name": "Molasses",
+    "aliases": [
+      "Blackstrap Molasses",
+      "Treacle"
+    ]
+  },
+  {
+    "standard_name": "Corn Syrup",
+    "aliases": [
+      "Glucose Corn Syrup"
+    ]
+  },
+  {
+    "standard_name": "High Fructose Corn Syrup",
+    "aliases": [
+      "HFCS",
+      "Isoglucose"
+    ]
+  },
+  {
+    "standard_name": "Malt Syrup",
+    "aliases": [
+      "Barley Malt Syrup"
+    ]
+  },
+  {
+    "standard_name": "Rice Syrup",
+    "aliases": [
+      "Brown Rice Syrup"
+    ]
+  },
+  {
+    "standard_name": "Golden Syrup",
+    "aliases": [
+      "Light Treacle"
+    ]
+  },
+  {
+    "standard_name": "Maple Syrup",
+    "aliases": [
+      "Pure Maple Syrup"
+    ]
+  },
+  {
+    "standard_name": "Jaggery",
+    "aliases": [
+      "Gur",
+      "Panela"
+    ]
+  },
+  {
+    "standard_name": "Muscovado Sugar",
+    "aliases": [
+      "Muscovado"
+    ]
+  },
+  {
+    "standard_name": "Turbinado Sugar",
+    "aliases": [
+      "Raw Cane Sugar"
+    ]
+  },
+  {
+    "standard_name": "Demerara Sugar",
+    "aliases": [
+      "Demerara"
+    ]
+  },
+  {
+    "standard_name": "Caster Sugar",
+    "aliases": [
+      "Superfine Sugar"
+    ]
+  },
+  {
+    "standard_name": "Icing Sugar",
+    "aliases": [
+      "Powdered Sugar",
+      "Confectioners Sugar"
+    ]
+  },
+  {
+    "standard_name": "Coconut Sugar",
+    "aliases": [
+      "Coconut Palm Sugar"
+    ]
+  },
+  {
+    "standard_name": "Palm Sugar",
+    "aliases": [
+      "Date Palm Sugar"
+    ]
+  },
+  {
+    "standard_name": "Date Sugar",
+    "aliases": [
+      "Ground Dried Dates"
+    ]
+  },
+  {
+    "standard_name": "Date Syrup",
+    "aliases": [
+      "Date Molasses"
+    ]
+  },
+  {
+    "standard_name": "Trehalose",
+    "aliases": [
+      "Mycose"
+    ]
+  },
+  {
+    "standard_name": "Tagatose",
+    "aliases": [
+      "D-Tagatose"
+    ]
+  },
+  {
+    "standard_name": "Allulose",
+    "aliases": [
+      "D-Psicose"
+    ]
+  },
+  {
+    "standard_name": "Isoglucose",
+    "aliases": [
+      "Fructose Glucose Syrup"
+    ]
+  },
+  {
+    "standard_name": "Cane Juice",
+    "aliases": [
+      "Evaporated Cane Juice"
+    ]
+  },
+  {
+    "standard_name": "Refiners Syrup",
+    "aliases": [
+      "Sugar Cane Syrup"
+    ]
+  },
+  {
+    "standard_name": "Sorbitol",
+    "aliases": [
+      "E420",
+      "Glucitol"
+    ]
+  },
+  {
+    "standard_name": "Mannitol",
+    "aliases": [
+      "E421"
+    ]
+  },
+  {
+    "standard_name": "Xylitol",
+    "aliases": [
+      "E967",
+      "Birch Sugar"
+    ]
+  },
+  {
+    "standard_name": "Erythritol",
+    "aliases": [
+      "E968"
+    ]
+  },
+  {
+    "standard_name": "Maltitol",
+    "aliases": [
+      "E965",
+      "Maltitol Syrup"
+    ]
+  },
+  {
+    "standard_name": "Isomalt",
+    "aliases": [
+      "E953"
+    ]
+  },
+  {
+    "standard_name": "Lactitol",
+    "aliases": [
+      "E966"
+    ]
+  },
+  {
+    "standard_name": "Aspartame",
+    "aliases": [
+      "E951",
+      "NutraSweet",
+      "Equal"
+    ]
+  },
+  {
+    "standard_name": "Saccharin",
+    "aliases": [
+      "E954",
+      "Sweet'N Low"
+    ]
+  },
+  {
+    "standard_name": "Sucralose",
+    "aliases": [
+      "E955",
+      "Splenda"
+    ]
+  },
+  {
+    "standard_name": "Acesulfame Potassium",
+    "aliases": [
+      "Acesulfame K",
+      "E950",
+      "Ace K"
+    ]
+  },
+  {
+    "standard_name": "Cyclamate",
+    "aliases": [
+      "E952",
+      "Sodium Cyclamate"
+    ]
+  },
+  {
+    "standard_name": "Neotame",
+    "aliases": [
+      "E961"
+    ]
+  },
+  {
+    "standard_name": "Advantame",
+    "aliases": [
+      "E969"
+    ]
+  },
+  {
+    "standard_name": "Thaumatin",
+    "aliases": [
+      "E957",
+      "Talin"
+    ]
+  },
+  {
+    "standard_name": "Neohesperidin Dihydrochalcone",
+    "aliases": [
+      "E959",
+      "NHDC"
+    ]
+  },
+  {
+    "standard_name": "Steviol Glycosides",
+    "aliases": [
+      "E960",
+      "Stevia",
+      "Rebaudioside A",
+      "Truvia",
+      "PureVia"
+    ]
+  },
+  {
+    "standard_name": "Monk Fruit Extract",
+    "aliases": [
+      "Luo Han Guo",
+      "Mogroside V"
+    ]
+  },
+  {
+    "standard_name": "Vegetable Oil",
+    "aliases": [
+      "Mixed Vegetable Oil",
+      "Refined Vegetable Oil"
+    ]
+  },
+  {
+    "standard_name": "Palm Oil",
+    "aliases": [
+      "Crude Palm Oil",
+      "Refined Palm Oil"
+    ]
+  },
+  {
+    "standard_name": "Palm Kernel Oil",
+    "aliases": [
+      "PKO"
+    ]
+  },
+  {
+    "standard_name": "Palm Olein",
+    "aliases": [
+      "Palm Olein Oil"
+    ]
+  },
+  {
+    "standard_name": "Palm Stearin",
+    "aliases": [
+      "Palm Stearin Oil"
+    ]
+  },
+  {
+    "standard_name": "Sunflower Oil",
+    "aliases": [
+      "Sunflower Seed Oil",
+      "High Oleic Sunflower Oil"
+    ]
+  },
+  {
+    "standard_name": "Soybean Oil",
+    "aliases": [
+      "Soy Oil",
+      "Refined Soy Oil"
+    ]
+  },
+  {
+    "standard_name": "Canola Oil",
+    "aliases": [
+      "Rapeseed Oil",
+      "Low Erucic Acid Rapeseed Oil"
+    ]
+  },
+  {
+    "standard_name": "Olive Oil",
+    "aliases": [
+      "Extra Virgin Olive Oil",
+      "Pure Olive Oil"
+    ]
+  },
+  {
+    "standard_name": "Coconut Oil",
+    "aliases": [
+      "Copra Oil",
+      "Virgin Coconut Oil"
+    ]
+  },
+  {
+    "standard_name": "Corn Oil",
+    "aliases": [
+      "Maize Oil"
+    ]
+  },
+  {
+    "standard_name": "Cottonseed Oil",
+    "aliases": [
+      "Cotton Seed Oil"
+    ]
+  },
+  {
+    "standard_name": "Peanut Oil",
+    "aliases": [
+      "Groundnut Oil",
+      "Arachis Oil"
+    ]
+  },
+  {
+    "standard_name": "Sesame Oil",
+    "aliases": [
+      "Gingelly Oil",
+      "Til Oil"
+    ]
+  },
+  {
+    "standard_name": "Rice Bran Oil",
+    "aliases": [
+      "Rice Oil"
+    ]
+  },
+  {
+    "standard_name": "Safflower Oil",
+    "aliases": [
+      "Safflower Seed Oil"
+    ]
+  },
+  {
+    "standard_name": "Grapeseed Oil",
+    "aliases": [
+      "Grape Seed Oil"
+    ]
+  },
+  {
+    "standard_name": "Avocado Oil",
+    "aliases": [
+      "Persea Oil"
+    ]
+  },
+  {
+    "standard_name": "Flaxseed Oil",
+    "aliases": [
+      "Linseed Oil"
+    ]
+  },
+  {
+    "standard_name": "Hemp Seed Oil",
+    "aliases": [
+      "Hemp Oil"
+    ]
+  },
+  {
+    "standard_name": "Mustard Oil",
+    "aliases": [
+      "Sarson Ka Tel"
+    ]
+  },
+  {
+    "standard_name": "Walnut Oil",
+    "aliases": [
+      "Walnut Kernel Oil"
+    ]
+  },
+  {
+    "standard_name": "Almond Oil",
+    "aliases": [
+      "Sweet Almond Oil"
+    ]
+  },
+  {
+    "standard_name": "Hazelnut Oil",
+    "aliases": [
+      "Filbert Oil"
+    ]
+  },
+  {
+    "standard_name": "Macadamia Oil",
+    "aliases": [
+      "Macadamia Nut Oil"
+    ]
+  },
+  {
+    "standard_name": "Hydrogenated Vegetable Oil",
+    "aliases": [
+      "HVO",
+      "Vegetable Shortening"
+    ]
+  },
+  {
+    "standard_name": "Interesterified Fat",
+    "aliases": [
+      "Interesterified Vegetable Oil"
+    ]
+  },
+  {
+    "standard_name": "Shortening",
+    "aliases": [
+      "Bakery Shortening"
+    ]
+  },
+  {
+    "standard_name": "Ghee",
+    "aliases": [
+      "Clarified Butter Fat"
+    ]
+  },
+  {
+    "standard_name": "Margarine",
+    "aliases": [
+      "Vegetable Margarine",
+      "Table Spread"
+    ]
+  },
+  {
+    "standard_name": "Lard",
+    "aliases": [
+      "Pork Fat",
+      "Rendered Pork Fat"
+    ]
+  },
+  {
+    "standard_name": "Tallow",
+    "aliases": [
+      "Beef Fat",
+      "Rendered Beef Fat"
+    ]
+  },
+  {
+    "standard_name": "Cocoa Butter Substitute",
+    "aliases": [
+      "CBS Fat"
+    ]
+  },
+  {
+    "standard_name": "Milk",
+    "aliases": [
+      "Whole Milk",
+      "Skimmed Milk",
+      "Milk Powder",
+      "Full Cream Milk"
+    ]
+  },
+  {
+    "standard_name": "Skim Milk Powder",
+    "aliases": [
+      "Nonfat Dry Milk",
+      "SMP"
+    ]
+  },
+  {
+    "standard_name": "Whole Milk Powder",
+    "aliases": [
+      "WMP",
+      "Full Cream Milk Powder"
+    ]
+  },
+  {
+    "standard_name": "Condensed Milk",
+    "aliases": [
+      "Sweetened Condensed Milk"
+    ]
+  },
+  {
+    "standard_name": "Evaporated Milk",
+    "aliases": [
+      "Unsweetened Evaporated Milk"
+    ]
+  },
+  {
+    "standard_name": "Buttermilk",
+    "aliases": [
+      "Cultured Buttermilk"
+    ]
+  },
+  {
+    "standard_name": "Cream",
+    "aliases": [
+      "Fresh Cream",
+      "Heavy Cream",
+      "Whipping Cream"
+    ]
+  },
+  {
+    "standard_name": "Sour Cream",
+    "aliases": [
+      "Cultured Sour Cream"
+    ]
+  },
+  {
+    "standard_name": "Butter",
+    "aliases": [
+      "Salted Butter",
+      "Unsalted Butter",
+      "Butter Fat",
+      "Butter Oil"
+    ]
+  },
+  {
+    "standard_name": "Ghee (Dairy)",
+    "aliases": [
+      "Desi Ghee"
+    ]
+  },
+  {
+    "standard_name": "Cheese",
+    "aliases": [
+      "Processed Cheese",
+      "Cheese Product"
+    ]
+  },
+  {
+    "standard_name": "Cheddar Cheese",
+    "aliases": [
+      "Cheddar"
+    ]
+  },
+  {
+    "standard_name": "Mozzarella Cheese",
+    "aliases": [
+      "Mozzarella"
+    ]
+  },
+  {
+    "standard_name": "Parmesan Cheese",
+    "aliases": [
+      "Parmesan",
+      "Parmigiano Reggiano"
+    ]
+  },
+  {
+    "standard_name": "Cream Cheese",
+    "aliases": [
+      "Soft Cheese Spread"
+    ]
+  },
+  {
+    "standard_name": "Cottage Cheese",
+    "aliases": [
+      "Farmer Cheese"
+    ]
+  },
+  {
+    "standard_name": "Ricotta Cheese",
+    "aliases": [
+      "Ricotta"
+    ]
+  },
+  {
+    "standard_name": "Feta Cheese",
+    "aliases": [
+      "Feta"
+    ]
+  },
+  {
+    "standard_name": "Blue Cheese",
+    "aliases": [
+      "Roquefort",
+      "Gorgonzola"
+    ]
+  },
+  {
+    "standard_name": "Paneer",
+    "aliases": [
+      "Indian Cottage Cheese"
+    ]
+  },
+  {
+    "standard_name": "Yogurt",
+    "aliases": [
+      "Yoghurt",
+      "Curd",
+      "Dahi"
+    ]
+  },
+  {
+    "standard_name": "Greek Yogurt",
+    "aliases": [
+      "Strained Yogurt"
+    ]
+  },
+  {
+    "standard_name": "Kefir",
+    "aliases": [
+      "Milk Kefir"
+    ]
+  },
+  {
+    "standard_name": "Whey",
+    "aliases": [
+      "Whey Powder",
+      "Sweet Whey"
+    ]
+  },
+  {
+    "standard_name": "Whey Protein",
+    "aliases": [
+      "Whey Protein Concentrate",
+      "Whey Protein Isolate"
+    ]
+  },
+  {
+    "standard_name": "Casein",
+    "aliases": [
+      "Milk Protein Casein"
+    ]
+  },
+  {
+    "standard_name": "Caseinate",
+    "aliases": [
+      "Sodium Caseinate",
+      "Calcium Caseinate"
+    ]
+  },
+  {
+    "standard_name": "Milk Protein Concentrate",
+    "aliases": [
+      "MPC"
+    ]
+  },
+  {
+    "standard_name": "Lactalbumin",
+    "aliases": [
+      "Milk Albumin"
+    ]
+  },
+  {
+    "standard_name": "Custard",
+    "aliases": [
+      "Milk Custard"
+    ]
+  },
+  {
+    "standard_name": "Khoa",
+    "aliases": [
+      "Milk Solids"
+    ]
+  },
+  {
+    "standard_name": "Egg",
+    "aliases": [
+      "Whole Egg",
+      "Egg Product"
+    ]
+  },
+  {
+    "standard_name": "Egg White",
+    "aliases": [
+      "Albumen",
+      "Egg Albumin"
+    ]
+  },
+  {
+    "standard_name": "Egg Yolk",
+    "aliases": [
+      "Dried Egg Yolk"
+    ]
+  },
+  {
+    "standard_name": "Egg Powder",
+    "aliases": [
+      "Dried Whole Egg"
+    ]
+  },
+  {
+    "standard_name": "Egg Lecithin",
+    "aliases": [
+      "Egg Yolk Lecithin"
+    ]
+  },
+  {
+    "standard_name": "Egg Wash",
+    "aliases": [
+      "Egg Glaze"
+    ]
+  },
+  {
+    "standard_name": "Meringue Powder",
+    "aliases": [
+      "Dried Egg White Powder"
+    ]
+  },
+  {
+    "standard_name": "Chocolate",
+    "aliases": [
+      "Cacao Product"
+    ]
+  },
+  {
+    "standard_name": "Cocoa",
+    "aliases": [
+      "Cacao"
+    ]
+  },
+  {
+    "standard_name": "Cocoa Powder",
+    "aliases": [
+      "Unsweetened Cocoa Powder"
+    ]
+  },
+  {
+    "standard_name": "Cocoa Butter",
+    "aliases": [
+      "Theobroma Oil"
+    ]
+  },
+  {
+    "standard_name": "Cocoa Mass",
+    "aliases": [
+      "Cocoa Liquor",
+      "Chocolate Liquor"
+    ]
+  },
+  {
+    "standard_name": "Cocoa Nibs",
+    "aliases": [
+      "Cacao Nibs"
+    ]
+  },
+  {
+    "standard_name": "Dark Chocolate",
+    "aliases": [
+      "Bittersweet Chocolate",
+      "Semi Sweet Chocolate"
+    ]
+  },
+  {
+    "standard_name": "Milk Chocolate",
+    "aliases": [
+      "Sweet Milk Chocolate"
+    ]
+  },
+  {
+    "standard_name": "White Chocolate",
+    "aliases": [
+      "Cocoa Butter Chocolate"
+    ]
+  },
+  {
+    "standard_name": "Compound Chocolate",
+    "aliases": [
+      "Chocolate Coating"
+    ]
+  },
+  {
+    "standard_name": "Gianduja",
+    "aliases": [
+      "Hazelnut Chocolate Paste"
+    ]
+  },
+  {
+    "standard_name": "Vanilla",
+    "aliases": [
+      "Vanilla Extract",
+      "Vanilla Bean"
+    ]
+  },
+  {
+    "standard_name": "Vanillin",
+    "aliases": [
+      "Synthetic Vanilla Flavor"
+    ]
+  },
+  {
+    "standard_name": "Ethyl Vanillin",
+    "aliases": [
+      "Bourbon Vanillin"
+    ]
+  },
+  {
+    "standard_name": "Natural Flavor",
+    "aliases": [
+      "Natural Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Artificial Flavor",
+    "aliases": [
+      "Artificial Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Flavor Enhancer",
+    "aliases": [
+      "Taste Enhancer"
+    ]
+  },
+  {
+    "standard_name": "Smoke Flavor",
+    "aliases": [
+      "Liquid Smoke"
+    ]
+  },
+  {
+    "standard_name": "Butter Flavor",
+    "aliases": [
+      "Diacetyl Butter Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Cheese Flavor",
+    "aliases": [
+      "Cheese Powder Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Fruit Flavor",
+    "aliases": [
+      "Fruit Flavoring Compound"
+    ]
+  },
+  {
+    "standard_name": "Mint Flavor",
+    "aliases": [
+      "Peppermint Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Citrus Flavor",
+    "aliases": [
+      "Citrus Oil Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Almond Flavor",
+    "aliases": [
+      "Almond Extract"
+    ]
+  },
+  {
+    "standard_name": "Malt Flavor",
+    "aliases": [
+      "Malt Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Caramel Flavor",
+    "aliases": [
+      "Caramel Flavoring"
+    ]
+  },
+  {
+    "standard_name": "Protein",
+    "aliases": [
+      "Protein Isolate",
+      "Protein Concentrate"
+    ]
+  },
+  {
+    "standard_name": "Whey Protein Isolate",
+    "aliases": [
+      "WPI"
+    ]
+  },
+  {
+    "standard_name": "Soy Protein Isolate",
+    "aliases": [
+      "SPI"
+    ]
+  },
+  {
+    "standard_name": "Pea Protein",
+    "aliases": [
+      "Pea Protein Isolate"
+    ]
+  },
+  {
+    "standard_name": "Rice Protein",
+    "aliases": [
+      "Rice Protein Isolate"
+    ]
+  },
+  {
+    "standard_name": "Hemp Protein",
+    "aliases": [
+      "Hemp Protein Powder"
+    ]
+  },
+  {
+    "standard_name": "Egg Protein",
+    "aliases": [
+      "Egg White Protein"
+    ]
+  },
+  {
+    "standard_name": "Collagen",
+    "aliases": [
+      "Collagen Peptides",
+      "Hydrolyzed Collagen"
+    ]
+  },
+  {
+    "standard_name": "Gelatin",
+    "aliases": [
+      "Bovine Gelatin",
+      "Porcine Gelatin"
+    ]
+  },
+  {
+    "standard_name": "Wheat Gluten",
+    "aliases": [
+      "Vital Wheat Gluten"
+    ]
+  },
+  {
+    "standard_name": "Mycoprotein",
+    "aliases": [
+      "Fungal Protein",
+      "Quorn"
+    ]
+  },
+  {
+    "standard_name": "Textured Vegetable Protein",
+    "aliases": [
+      "TVP",
+      "Textured Soy Protein"
+    ]
+  },
+  {
+    "standard_name": "Milk Protein",
+    "aliases": [
+      "Total Milk Protein"
+    ]
+  },
+  {
+    "standard_name": "Hydrolyzed Vegetable Protein",
+    "aliases": [
+      "HVP"
+    ]
+  },
+  {
+    "standard_name": "Hydrolyzed Wheat Protein",
+    "aliases": [
+      "HWP"
+    ]
+  },
+  {
+    "standard_name": "Dietary Fiber",
+    "aliases": [
+      "Fiber Blend"
+    ]
+  },
+  {
+    "standard_name": "Inulin",
+    "aliases": [
+      "Chicory Root Fiber"
+    ]
+  },
+  {
+    "standard_name": "Psyllium Husk",
+    "aliases": [
+      "Ispaghula Husk"
+    ]
+  },
+  {
+    "standard_name": "Cellulose",
+    "aliases": [
+      "Microcrystalline Cellulose",
+      "MCC"
+    ]
+  },
+  {
+    "standard_name": "Methylcellulose",
+    "aliases": [
+      "E461"
+    ]
+  },
+  {
+    "standard_name": "Pectin",
+    "aliases": [
+      "E440",
+      "Fruit Pectin"
+    ]
+  },
+  {
+    "standard_name": "Guar Gum",
+    "aliases": [
+      "E412",
+      "Guar Flour"
+    ]
+  },
+  {
+    "standard_name": "Xanthan Gum",
+    "aliases": [
+      "E415"
+    ]
+  },
+  {
+    "standard_name": "Beta-Glucan",
+    "aliases": [
+      "Oat Beta Glucan"
+    ]
+  },
+  {
+    "standard_name": "Oat Fiber",
+    "aliases": [
+      "Oat Bran Fiber"
+    ]
+  },
+  {
+    "standard_name": "Wheat Bran Fiber",
+    "aliases": [
+      "Wheat Bran"
+    ]
+  },
+  {
+    "standard_name": "Resistant Starch",
+    "aliases": [
+      "RS Starch"
+    ]
+  },
+  {
+    "standard_name": "Polydextrose",
+    "aliases": [
+      "E1200"
+    ]
+  },
+  {
+    "standard_name": "Bamboo Fiber",
+    "aliases": [
+      "Bamboo Cellulose"
+    ]
+  },
+  {
+    "standard_name": "Vitamin A",
+    "aliases": [
+      "Retinol",
+      "Retinyl Palmitate",
+      "Retinyl Acetate",
+      "Beta-Carotene"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B1",
+    "aliases": [
+      "Thiamine",
+      "Thiamine Mononitrate",
+      "Thiamine Hydrochloride"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B2",
+    "aliases": [
+      "Riboflavin",
+      "E101"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B3",
+    "aliases": [
+      "Niacin",
+      "Niacinamide",
+      "Nicotinamide",
+      "Nicotinic Acid"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B5",
+    "aliases": [
+      "Pantothenic Acid",
+      "Calcium Pantothenate"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B6",
+    "aliases": [
+      "Pyridoxine",
+      "Pyridoxine Hydrochloride"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B7",
+    "aliases": [
+      "Biotin",
+      "Vitamin H"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B9",
+    "aliases": [
+      "Folic Acid",
+      "Folate",
+      "Folacin"
+    ]
+  },
+  {
+    "standard_name": "Vitamin B12",
+    "aliases": [
+      "Cobalamin",
+      "Cyanocobalamin",
+      "Methylcobalamin"
+    ]
+  },
+  {
+    "standard_name": "Vitamin C",
+    "aliases": [
+      "Ascorbic Acid",
+      "Sodium Ascorbate",
+      "Calcium Ascorbate",
+      "E300"
+    ]
+  },
+  {
+    "standard_name": "Vitamin D",
+    "aliases": [
+      "Cholecalciferol",
+      "Vitamin D3",
+      "Ergocalciferol",
+      "Vitamin D2"
+    ]
+  },
+  {
+    "standard_name": "Vitamin E",
+    "aliases": [
+      "Tocopherol",
+      "Tocopheryl Acetate",
+      "Mixed Tocopherols"
+    ]
+  },
+  {
+    "standard_name": "Vitamin K",
+    "aliases": [
+      "Phylloquinone",
+      "Menadione",
+      "Menaquinone"
+    ]
+  },
+  {
+    "standard_name": "Choline",
+    "aliases": [
+      "Choline Bitartrate",
+      "Choline Chloride"
+    ]
+  },
+  {
+    "standard_name": "Calcium",
+    "aliases": [
+      "Calcium Carbonate",
+      "Calcium Citrate",
+      "Calcium Phosphate",
+      "Calcium Gluconate",
+      "Calcium Lactate"
+    ]
+  },
+  {
+    "standard_name": "Iron",
+    "aliases": [
+      "Ferrous Sulfate",
+      "Ferrous Fumarate",
+      "Ferrous Gluconate",
+      "Iron Pyrophosphate"
+    ]
+  },
+  {
+    "standard_name": "Zinc",
+    "aliases": [
+      "Zinc Oxide",
+      "Zinc Sulfate",
+      "Zinc Gluconate",
+      "Zinc Citrate"
+    ]
+  },
+  {
+    "standard_name": "Magnesium",
+    "aliases": [
+      "Magnesium Oxide",
+      "Magnesium Citrate",
+      "Magnesium Sulfate"
+    ]
+  },
+  {
+    "standard_name": "Potassium",
+    "aliases": [
+      "Potassium Chloride",
+      "Potassium Citrate"
+    ]
+  },
+  {
+    "standard_name": "Iodine",
+    "aliases": [
+      "Potassium Iodide",
+      "Sodium Iodide"
+    ]
+  },
+  {
+    "standard_name": "Selenium",
+    "aliases": [
+      "Sodium Selenite",
+      "Selenomethionine"
+    ]
+  },
+  {
+    "standard_name": "Copper",
+    "aliases": [
+      "Copper Gluconate",
+      "Copper Sulfate"
+    ]
+  },
+  {
+    "standard_name": "Manganese",
+    "aliases": [
+      "Manganese Sulfate",
+      "Manganese Gluconate"
+    ]
+  },
+  {
+    "standard_name": "Phosphorus",
+    "aliases": [
+      "Phosphoric Acid"
+    ]
+  },
+  {
+    "standard_name": "Chromium",
+    "aliases": [
+      "Chromium Picolinate"
+    ]
+  },
+  {
+    "standard_name": "Molybdenum",
+    "aliases": [
+      "Sodium Molybdate"
+    ]
+  },
+  {
+    "standard_name": "Fluoride",
+    "aliases": [
+      "Sodium Fluoride"
+    ]
+  },
+  {
+    "standard_name": "Salt",
+    "aliases": [
+      "Sodium Chloride",
+      "Table Salt",
+      "Sea Salt",
+      "Rock Salt",
+      "Iodized Salt",
+      "Kosher Salt",
+      "Himalayan Pink Salt"
+    ]
+  },
+  {
+    "standard_name": "Curcumin",
+    "aliases": [
+      "E100",
+      "Turmeric Color"
+    ]
+  },
+  {
+    "standard_name": "Riboflavin Color",
+    "aliases": [
+      "E101a",
+      "Vitamin B2 Color"
+    ]
+  },
+  {
+    "standard_name": "Tartrazine",
+    "aliases": [
+      "E102",
+      "Yellow 5",
+      "FD&C Yellow No. 5"
+    ]
+  },
+  {
+    "standard_name": "Quinoline Yellow",
+    "aliases": [
+      "E104"
+    ]
+  },
+  {
+    "standard_name": "Sunset Yellow",
+    "aliases": [
+      "E110",
+      "Yellow 6",
+      "FD&C Yellow No. 6"
+    ]
+  },
+  {
+    "standard_name": "Carmine",
+    "aliases": [
+      "E120",
+      "Cochineal Extract",
+      "Carminic Acid"
+    ]
+  },
+  {
+    "standard_name": "Carmoisine",
+    "aliases": [
+      "E122",
+      "Azorubine"
+    ]
+  },
+  {
+    "standard_name": "Amaranth Color",
+    "aliases": [
+      "E123"
+    ]
+  },
+  {
+    "standard_name": "Ponceau 4R",
+    "aliases": [
+      "E124",
+      "Cochineal Red A"
+    ]
+  },
+  {
+    "standard_name": "Erythrosine",
+    "aliases": [
+      "E127",
+      "Red 3",
+      "FD&C Red No. 3"
+    ]
+  },
+  {
+    "standard_name": "Allura Red",
+    "aliases": [
+      "E129",
+      "Red 40",
+      "FD&C Red No. 40"
+    ]
+  },
+  {
+    "standard_name": "Patent Blue V",
+    "aliases": [
+      "E131"
+    ]
+  },
+  {
+    "standard_name": "Indigotine",
+    "aliases": [
+      "E132",
+      "Indigo Carmine",
+      "Blue 2"
+    ]
+  },
+  {
+    "standard_name": "Brilliant Blue FCF",
+    "aliases": [
+      "E133",
+      "Blue 1",
+      "FD&C Blue No. 1"
+    ]
+  },
+  {
+    "standard_name": "Chlorophyll",
+    "aliases": [
+      "E140",
+      "Chlorophyllin"
+    ]
+  },
+  {
+    "standard_name": "Copper Chlorophyllin",
+    "aliases": [
+      "E141"
+    ]
+  },
+  {
+    "standard_name": "Green S",
+    "aliases": [
+      "E142"
+    ]
+  },
+  {
+    "standard_name": "Caramel Color",
+    "aliases": [
+      "E150a",
+      "E150b",
+      "E150c",
+      "E150d"
+    ]
+  },
+  {
+    "standard_name": "Brilliant Black BN",
+    "aliases": [
+      "E151"
+    ]
+  },
+  {
+    "standard_name": "Carbon Black",
+    "aliases": [
+      "E153",
+      "Vegetable Carbon"
+    ]
+  },
+  {
+    "standard_name": "Beta-Carotene Color",
+    "aliases": [
+      "E160a"
+    ]
+  },
+  {
+    "standard_name": "Annatto",
+    "aliases": [
+      "E160b",
+      "Bixin",
+      "Norbixin"
+    ]
+  },
+  {
+    "standard_name": "Paprika Extract",
+    "aliases": [
+      "E160c",
+      "Oleoresin Paprika"
+    ]
+  },
+  {
+    "standard_name": "Lutein",
+    "aliases": [
+      "E161b",
+      "Xanthophyll"
+    ]
+  },
+  {
+    "standard_name": "Beetroot Red",
+    "aliases": [
+      "E162",
+      "Betanin"
+    ]
+  },
+  {
+    "standard_name": "Anthocyanins",
+    "aliases": [
+      "E163",
+      "Grape Skin Extract"
+    ]
+  },
+  {
+    "standard_name": "Calcium Carbonate Color",
+    "aliases": [
+      "E170"
+    ]
+  },
+  {
+    "standard_name": "Titanium Dioxide",
+    "aliases": [
+      "E171"
+    ]
+  },
+  {
+    "standard_name": "Iron Oxides",
+    "aliases": [
+      "E172",
+      "Iron Oxide Black",
+      "Iron Oxide Red"
+    ]
+  },
+  {
+    "standard_name": "Aluminium Color",
+    "aliases": [
+      "E173"
+    ]
+  },
+  {
+    "standard_name": "Silver Color",
+    "aliases": [
+      "E174"
+    ]
+  },
+  {
+    "standard_name": "Gold Color",
+    "aliases": [
+      "E175"
+    ]
+  },
+  {
+    "standard_name": "Litholrubine BK",
+    "aliases": [
+      "E180"
+    ]
+  },
+  {
+    "standard_name": "Sorbic Acid",
+    "aliases": [
+      "E200"
+    ]
+  },
+  {
+    "standard_name": "Sodium Sorbate",
+    "aliases": [
+      "E201"
+    ]
+  },
+  {
+    "standard_name": "Potassium Sorbate",
+    "aliases": [
+      "E202"
+    ]
+  },
+  {
+    "standard_name": "Calcium Sorbate",
+    "aliases": [
+      "E203"
+    ]
+  },
+  {
+    "standard_name": "Benzoic Acid",
+    "aliases": [
+      "E210"
+    ]
+  },
+  {
+    "standard_name": "Sodium Benzoate",
+    "aliases": [
+      "E211"
+    ]
+  },
+  {
+    "standard_name": "Potassium Benzoate",
+    "aliases": [
+      "E212"
+    ]
+  },
+  {
+    "standard_name": "Calcium Benzoate",
+    "aliases": [
+      "E213"
+    ]
+  },
+  {
+    "standard_name": "Ethyl Parahydroxybenzoate",
+    "aliases": [
+      "E214"
+    ]
+  },
+  {
+    "standard_name": "Sulphur Dioxide",
+    "aliases": [
+      "E220",
+      "Sulfur Dioxide"
+    ]
+  },
+  {
+    "standard_name": "Sodium Sulphite",
+    "aliases": [
+      "E221"
+    ]
+  },
+  {
+    "standard_name": "Sodium Bisulphite",
+    "aliases": [
+      "E222"
+    ]
+  },
+  {
+    "standard_name": "Sodium Metabisulphite",
+    "aliases": [
+      "E223"
+    ]
+  },
+  {
+    "standard_name": "Potassium Metabisulphite",
+    "aliases": [
+      "E224"
+    ]
+  },
+  {
+    "standard_name": "Potassium Sulphite",
+    "aliases": [
+      "E225"
+    ]
+  },
+  {
+    "standard_name": "Calcium Sulphite",
+    "aliases": [
+      "E226"
+    ]
+  },
+  {
+    "standard_name": "Calcium Bisulphite",
+    "aliases": [
+      "E227"
+    ]
+  },
+  {
+    "standard_name": "Potassium Bisulphite",
+    "aliases": [
+      "E228"
+    ]
+  },
+  {
+    "standard_name": "Biphenyl",
+    "aliases": [
+      "E230"
+    ]
+  },
+  {
+    "standard_name": "Orthophenyl Phenol",
+    "aliases": [
+      "E231"
+    ]
+  },
+  {
+    "standard_name": "Thiabendazole",
+    "aliases": [
+      "E233"
+    ]
+  },
+  {
+    "standard_name": "Nisin",
+    "aliases": [
+      "E234"
+    ]
+  },
+  {
+    "standard_name": "Natamycin",
+    "aliases": [
+      "E235"
+    ]
+  },
+  {
+    "standard_name": "Formic Acid",
+    "aliases": [
+      "E236"
+    ]
+  },
+  {
+    "standard_name": "Hexamethylene Tetramine",
+    "aliases": [
+      "E239"
+    ]
+  },
+  {
+    "standard_name": "Potassium Nitrite",
+    "aliases": [
+      "E249"
+    ]
+  },
+  {
+    "standard_name": "Sodium Nitrite",
+    "aliases": [
+      "E250"
+    ]
+  },
+  {
+    "standard_name": "Sodium Nitrate",
+    "aliases": [
+      "E251"
+    ]
+  },
+  {
+    "standard_name": "Potassium Nitrate",
+    "aliases": [
+      "E252",
+      "Saltpeter"
+    ]
+  },
+  {
+    "standard_name": "Acetic Acid",
+    "aliases": [
+      "E260",
+      "Vinegar Acid"
+    ]
+  },
+  {
+    "standard_name": "Potassium Acetate",
+    "aliases": [
+      "E261"
+    ]
+  },
+  {
+    "standard_name": "Sodium Acetate",
+    "aliases": [
+      "E262"
+    ]
+  },
+  {
+    "standard_name": "Calcium Acetate",
+    "aliases": [
+      "E263"
+    ]
+  },
+  {
+    "standard_name": "Lactic Acid",
+    "aliases": [
+      "E270"
+    ]
+  },
+  {
+    "standard_name": "Propionic Acid",
+    "aliases": [
+      "E280"
+    ]
+  },
+  {
+    "standard_name": "Sodium Propionate",
+    "aliases": [
+      "E281"
+    ]
+  },
+  {
+    "standard_name": "Calcium Propionate",
+    "aliases": [
+      "E282"
+    ]
+  },
+  {
+    "standard_name": "Potassium Propionate",
+    "aliases": [
+      "E283"
+    ]
+  },
+  {
+    "standard_name": "Boric Acid",
+    "aliases": [
+      "E284"
+    ]
+  },
+  {
+    "standard_name": "Sodium Carbonate Preservative",
+    "aliases": [
+      "E285"
+    ]
+  },
+  {
+    "standard_name": "Ascorbic Acid",
+    "aliases": [
+      "E300",
+      "Vitamin C Antioxidant"
+    ]
+  },
+  {
+    "standard_name": "Sodium Ascorbate Antioxidant",
+    "aliases": [
+      "E301"
+    ]
+  },
+  {
+    "standard_name": "Calcium Ascorbate Antioxidant",
+    "aliases": [
+      "E302"
+    ]
+  },
+  {
+    "standard_name": "Ascorbyl Palmitate",
+    "aliases": [
+      "E304"
+    ]
+  },
+  {
+    "standard_name": "Tocopherol Antioxidant",
+    "aliases": [
+      "E306"
+    ]
+  },
+  {
+    "standard_name": "Alpha-Tocopherol",
+    "aliases": [
+      "E307"
+    ]
+  },
+  {
+    "standard_name": "Gamma-Tocopherol",
+    "aliases": [
+      "E308"
+    ]
+  },
+  {
+    "standard_name": "Delta-Tocopherol",
+    "aliases": [
+      "E309"
+    ]
+  },
+  {
+    "standard_name": "Propyl Gallate",
+    "aliases": [
+      "E310"
+    ]
+  },
+  {
+    "standard_name": "Octyl Gallate",
+    "aliases": [
+      "E311"
+    ]
+  },
+  {
+    "standard_name": "Dodecyl Gallate",
+    "aliases": [
+      "E312"
+    ]
+  },
+  {
+    "standard_name": "Tertiary Butylhydroquinone",
+    "aliases": [
+      "E319",
+      "TBHQ"
+    ]
+  },
+  {
+    "standard_name": "Butylated Hydroxyanisole",
+    "aliases": [
+      "E320",
+      "BHA"
+    ]
+  },
+  {
+    "standard_name": "Butylated Hydroxytoluene",
+    "aliases": [
+      "E321",
+      "BHT"
+    ]
+  },
+  {
+    "standard_name": "Lecithin",
+    "aliases": [
+      "E322",
+      "Soy Lecithin",
+      "Sunflower Lecithin"
+    ]
+  },
+  {
+    "standard_name": "Ammonium Phosphatides",
+    "aliases": [
+      "E442"
+    ]
+  },
+  {
+    "standard_name": "Sodium Lactate",
+    "aliases": [
+      "E325"
+    ]
+  },
+  {
+    "standard_name": "Potassium Lactate",
+    "aliases": [
+      "E326"
+    ]
+  },
+  {
+    "standard_name": "Calcium Lactate",
+    "aliases": [
+      "E327"
+    ]
+  },
+  {
+    "standard_name": "Citric Acid",
+    "aliases": [
+      "E330"
+    ]
+  },
+  {
+    "standard_name": "Sodium Citrate",
+    "aliases": [
+      "E331"
+    ]
+  },
+  {
+    "standard_name": "Potassium Citrate",
+    "aliases": [
+      "E332"
+    ]
+  },
+  {
+    "standard_name": "Calcium Citrate",
+    "aliases": [
+      "E333"
+    ]
+  },
+  {
+    "standard_name": "Tartaric Acid",
+    "aliases": [
+      "E334"
+    ]
+  },
+  {
+    "standard_name": "Sodium Tartrate",
+    "aliases": [
+      "E335"
+    ]
+  },
+  {
+    "standard_name": "Potassium Tartrate",
+    "aliases": [
+      "E336",
+      "Cream of Tartar"
+    ]
+  },
+  {
+    "standard_name": "Sodium Potassium Tartrate",
+    "aliases": [
+      "E337"
+    ]
+  },
+  {
+    "standard_name": "Phosphoric Acid",
+    "aliases": [
+      "E338"
+    ]
+  },
+  {
+    "standard_name": "Sodium Phosphate",
+    "aliases": [
+      "E339"
+    ]
+  },
+  {
+    "standard_name": "Potassium Phosphate",
+    "aliases": [
+      "E340"
+    ]
+  },
+  {
+    "standard_name": "Calcium Phosphate",
+    "aliases": [
+      "E341"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Phosphate",
+    "aliases": [
+      "E343"
+    ]
+  },
+  {
+    "standard_name": "Alginic Acid",
+    "aliases": [
+      "E400"
+    ]
+  },
+  {
+    "standard_name": "Sodium Alginate",
+    "aliases": [
+      "E401"
+    ]
+  },
+  {
+    "standard_name": "Potassium Alginate",
+    "aliases": [
+      "E402"
+    ]
+  },
+  {
+    "standard_name": "Ammonium Alginate",
+    "aliases": [
+      "E403"
+    ]
+  },
+  {
+    "standard_name": "Calcium Alginate",
+    "aliases": [
+      "E404"
+    ]
+  },
+  {
+    "standard_name": "Agar",
+    "aliases": [
+      "E406",
+      "Agar Agar"
+    ]
+  },
+  {
+    "standard_name": "Carrageenan",
+    "aliases": [
+      "E407",
+      "Irish Moss Extract"
+    ]
+  },
+  {
+    "standard_name": "Processed Eucheuma Seaweed",
+    "aliases": [
+      "E407a"
+    ]
+  },
+  {
+    "standard_name": "Locust Bean Gum",
+    "aliases": [
+      "E410",
+      "Carob Gum"
+    ]
+  },
+  {
+    "standard_name": "Oat Gum",
+    "aliases": [
+      "E411"
+    ]
+  },
+  {
+    "standard_name": "Guar Gum Stabilizer",
+    "aliases": [
+      "E412"
+    ]
+  },
+  {
+    "standard_name": "Tragacanth Gum",
+    "aliases": [
+      "E413"
+    ]
+  },
+  {
+    "standard_name": "Gum Arabic",
+    "aliases": [
+      "E414",
+      "Acacia Gum"
+    ]
+  },
+  {
+    "standard_name": "Xanthan Gum Stabilizer",
+    "aliases": [
+      "E415"
+    ]
+  },
+  {
+    "standard_name": "Karaya Gum",
+    "aliases": [
+      "E416"
+    ]
+  },
+  {
+    "standard_name": "Tara Gum",
+    "aliases": [
+      "E417"
+    ]
+  },
+  {
+    "standard_name": "Gellan Gum",
+    "aliases": [
+      "E418"
+    ]
+  },
+  {
+    "standard_name": "Sorbitol Stabilizer",
+    "aliases": [
+      "E420"
+    ]
+  },
+  {
+    "standard_name": "Mannitol Stabilizer",
+    "aliases": [
+      "E421"
+    ]
+  },
+  {
+    "standard_name": "Glycerol",
+    "aliases": [
+      "E422",
+      "Glycerin",
+      "Glycerine"
+    ]
+  },
+  {
+    "standard_name": "Pectin Stabilizer",
+    "aliases": [
+      "E440"
+    ]
+  },
+  {
+    "standard_name": "Gelatin Stabilizer",
+    "aliases": [
+      "E441"
+    ]
+  },
+  {
+    "standard_name": "Glycerol Esters",
+    "aliases": [
+      "E445"
+    ]
+  },
+  {
+    "standard_name": "Diphosphates",
+    "aliases": [
+      "E450"
+    ]
+  },
+  {
+    "standard_name": "Triphosphates",
+    "aliases": [
+      "E451"
+    ]
+  },
+  {
+    "standard_name": "Polyphosphates",
+    "aliases": [
+      "E452"
+    ]
+  },
+  {
+    "standard_name": "Cellulose Stabilizer",
+    "aliases": [
+      "E460"
+    ]
+  },
+  {
+    "standard_name": "Methyl Cellulose",
+    "aliases": [
+      "E461"
+    ]
+  },
+  {
+    "standard_name": "Ethyl Cellulose",
+    "aliases": [
+      "E462"
+    ]
+  },
+  {
+    "standard_name": "Hydroxypropyl Cellulose",
+    "aliases": [
+      "E463"
+    ]
+  },
+  {
+    "standard_name": "Hydroxypropyl Methylcellulose",
+    "aliases": [
+      "E464",
+      "HPMC"
+    ]
+  },
+  {
+    "standard_name": "Methyl Ethyl Cellulose",
+    "aliases": [
+      "E465"
+    ]
+  },
+  {
+    "standard_name": "Carboxymethyl Cellulose",
+    "aliases": [
+      "E466",
+      "CMC"
+    ]
+  },
+  {
+    "standard_name": "Sodium Carboxymethyl Cellulose",
+    "aliases": [
+      "E468"
+    ]
+  },
+  {
+    "standard_name": "Fatty Acid Salts",
+    "aliases": [
+      "E470"
+    ]
+  },
+  {
+    "standard_name": "Mono and Diglycerides",
+    "aliases": [
+      "E471"
+    ]
+  },
+  {
+    "standard_name": "Esters of Mono and Diglycerides",
+    "aliases": [
+      "E472"
+    ]
+  },
+  {
+    "standard_name": "Sucrose Esters of Fatty Acids",
+    "aliases": [
+      "E473"
+    ]
+  },
+  {
+    "standard_name": "Sucroglycerides",
+    "aliases": [
+      "E474"
+    ]
+  },
+  {
+    "standard_name": "Polyglycerol Esters",
+    "aliases": [
+      "E475"
+    ]
+  },
+  {
+    "standard_name": "Polyglycerol Polyricinoleate",
+    "aliases": [
+      "E476",
+      "PGPR"
+    ]
+  },
+  {
+    "standard_name": "Propylene Glycol Esters",
+    "aliases": [
+      "E477"
+    ]
+  },
+  {
+    "standard_name": "Sodium Stearoyl Lactylate",
+    "aliases": [
+      "E481",
+      "SSL"
+    ]
+  },
+  {
+    "standard_name": "Calcium Stearoyl Lactylate",
+    "aliases": [
+      "E482",
+      "CSL"
+    ]
+  },
+  {
+    "standard_name": "Stearyl Tartrate",
+    "aliases": [
+      "E483"
+    ]
+  },
+  {
+    "standard_name": "Sorbitan Monostearate",
+    "aliases": [
+      "E491"
+    ]
+  },
+  {
+    "standard_name": "Sorbitan Tristearate",
+    "aliases": [
+      "E492"
+    ]
+  },
+  {
+    "standard_name": "Sorbitan Monolaurate",
+    "aliases": [
+      "E493"
+    ]
+  },
+  {
+    "standard_name": "Sorbitan Monooleate",
+    "aliases": [
+      "E494"
+    ]
+  },
+  {
+    "standard_name": "Sorbitan Monopalmitate",
+    "aliases": [
+      "E495"
+    ]
+  },
+  {
+    "standard_name": "Sodium Carbonate",
+    "aliases": [
+      "E500",
+      "Soda Ash"
+    ]
+  },
+  {
+    "standard_name": "Sodium Bicarbonate",
+    "aliases": [
+      "E500ii",
+      "Baking Soda"
+    ]
+  },
+  {
+    "standard_name": "Potassium Carbonate",
+    "aliases": [
+      "E501"
+    ]
+  },
+  {
+    "standard_name": "Ammonium Carbonate",
+    "aliases": [
+      "E503",
+      "Baker's Ammonia"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Carbonate",
+    "aliases": [
+      "E504"
+    ]
+  },
+  {
+    "standard_name": "Hydrochloric Acid",
+    "aliases": [
+      "E507"
+    ]
+  },
+  {
+    "standard_name": "Potassium Chloride",
+    "aliases": [
+      "E508"
+    ]
+  },
+  {
+    "standard_name": "Calcium Chloride",
+    "aliases": [
+      "E509"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Chloride",
+    "aliases": [
+      "E511"
+    ]
+  },
+  {
+    "standard_name": "Stannous Chloride",
+    "aliases": [
+      "E512"
+    ]
+  },
+  {
+    "standard_name": "Sulfuric Acid",
+    "aliases": [
+      "E513"
+    ]
+  },
+  {
+    "standard_name": "Sodium Sulfate",
+    "aliases": [
+      "E514"
+    ]
+  },
+  {
+    "standard_name": "Potassium Sulfate",
+    "aliases": [
+      "E515"
+    ]
+  },
+  {
+    "standard_name": "Calcium Sulfate",
+    "aliases": [
+      "E516"
+    ]
+  },
+  {
+    "standard_name": "Ammonium Sulfate",
+    "aliases": [
+      "E517"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Sulfate",
+    "aliases": [
+      "E518",
+      "Epsom Salt"
+    ]
+  },
+  {
+    "standard_name": "Aluminium Sulfate",
+    "aliases": [
+      "E520"
+    ]
+  },
+  {
+    "standard_name": "Sodium Hydroxide",
+    "aliases": [
+      "E524",
+      "Lye"
+    ]
+  },
+  {
+    "standard_name": "Potassium Hydroxide",
+    "aliases": [
+      "E525"
+    ]
+  },
+  {
+    "standard_name": "Calcium Hydroxide",
+    "aliases": [
+      "E526",
+      "Slaked Lime"
+    ]
+  },
+  {
+    "standard_name": "Ammonium Hydroxide",
+    "aliases": [
+      "E527"
+    ]
+  },
+  {
+    "standard_name": "Calcium Oxide",
+    "aliases": [
+      "E529",
+      "Quicklime"
+    ]
+  },
+  {
+    "standard_name": "Silicon Dioxide",
+    "aliases": [
+      "E551",
+      "Silica"
+    ]
+  },
+  {
+    "standard_name": "Calcium Silicate",
+    "aliases": [
+      "E552"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Silicate",
+    "aliases": [
+      "E553a",
+      "Talc"
+    ]
+  },
+  {
+    "standard_name": "Sodium Aluminosilicate",
+    "aliases": [
+      "E554"
+    ]
+  },
+  {
+    "standard_name": "Potassium Aluminium Silicate",
+    "aliases": [
+      "E555"
+    ]
+  },
+  {
+    "standard_name": "Bentonite",
+    "aliases": [
+      "E558"
+    ]
+  },
+  {
+    "standard_name": "Aluminium Silicate",
+    "aliases": [
+      "E559",
+      "Kaolin"
+    ]
+  },
+  {
+    "standard_name": "Glutamic Acid",
+    "aliases": [
+      "E620"
+    ]
+  },
+  {
+    "standard_name": "Monosodium Glutamate",
+    "aliases": [
+      "E621",
+      "MSG",
+      "Ajinomoto"
+    ]
+  },
+  {
+    "standard_name": "Monopotassium Glutamate",
+    "aliases": [
+      "E622"
+    ]
+  },
+  {
+    "standard_name": "Calcium Diglutamate",
+    "aliases": [
+      "E623"
+    ]
+  },
+  {
+    "standard_name": "Monoammonium Glutamate",
+    "aliases": [
+      "E624"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Diglutamate",
+    "aliases": [
+      "E625"
+    ]
+  },
+  {
+    "standard_name": "Guanylic Acid",
+    "aliases": [
+      "E626"
+    ]
+  },
+  {
+    "standard_name": "Disodium Guanylate",
+    "aliases": [
+      "E627",
+      "GMP"
+    ]
+  },
+  {
+    "standard_name": "Dipotassium Guanylate",
+    "aliases": [
+      "E628"
+    ]
+  },
+  {
+    "standard_name": "Calcium Guanylate",
+    "aliases": [
+      "E629"
+    ]
+  },
+  {
+    "standard_name": "Inosinic Acid",
+    "aliases": [
+      "E630"
+    ]
+  },
+  {
+    "standard_name": "Disodium Inosinate",
+    "aliases": [
+      "E631",
+      "IMP"
+    ]
+  },
+  {
+    "standard_name": "Dipotassium Inosinate",
+    "aliases": [
+      "E632"
+    ]
+  },
+  {
+    "standard_name": "Calcium Inosinate",
+    "aliases": [
+      "E633"
+    ]
+  },
+  {
+    "standard_name": "Calcium 5-Ribonucleotides",
+    "aliases": [
+      "E634"
+    ]
+  },
+  {
+    "standard_name": "Disodium 5-Ribonucleotides",
+    "aliases": [
+      "E635"
+    ]
+  },
+  {
+    "standard_name": "Maltol",
+    "aliases": [
+      "E636"
+    ]
+  },
+  {
+    "standard_name": "Ethyl Maltol",
+    "aliases": [
+      "E637"
+    ]
+  },
+  {
+    "standard_name": "Dimethyl Polysiloxane",
+    "aliases": [
+      "E900",
+      "Simethicone"
+    ]
+  },
+  {
+    "standard_name": "Beeswax",
+    "aliases": [
+      "E901",
+      "White Wax"
+    ]
+  },
+  {
+    "standard_name": "Candelilla Wax",
+    "aliases": [
+      "E902"
+    ]
+  },
+  {
+    "standard_name": "Carnauba Wax",
+    "aliases": [
+      "E903"
+    ]
+  },
+  {
+    "standard_name": "Shellac",
+    "aliases": [
+      "E904"
+    ]
+  },
+  {
+    "standard_name": "Mineral Oil Food Grade",
+    "aliases": [
+      "E905"
+    ]
+  },
+  {
+    "standard_name": "Chicle Gum",
+    "aliases": [
+      "E908"
+    ]
+  },
+  {
+    "standard_name": "L-Cysteine",
+    "aliases": [
+      "E920"
+    ]
+  },
+  {
+    "standard_name": "Carbamide",
+    "aliases": [
+      "E927b",
+      "Urea"
+    ]
+  },
+  {
+    "standard_name": "Argon",
+    "aliases": [
+      "E938"
+    ]
+  },
+  {
+    "standard_name": "Helium",
+    "aliases": [
+      "E939"
+    ]
+  },
+  {
+    "standard_name": "Nitrogen",
+    "aliases": [
+      "E941"
+    ]
+  },
+  {
+    "standard_name": "Nitrous Oxide",
+    "aliases": [
+      "E942"
+    ]
+  },
+  {
+    "standard_name": "Oxygen",
+    "aliases": [
+      "E948"
+    ]
+  },
+  {
+    "standard_name": "Hydrogen",
+    "aliases": [
+      "E949"
+    ]
+  },
+  {
+    "standard_name": "Quillaia Extract",
+    "aliases": [
+      "E999"
+    ]
+  },
+  {
+    "standard_name": "Invertase",
+    "aliases": [
+      "E1103"
+    ]
+  },
+  {
+    "standard_name": "Lysozyme Enzyme",
+    "aliases": [
+      "E1105"
+    ]
+  },
+  {
+    "standard_name": "Polydextrose Additive",
+    "aliases": [
+      "E1200"
+    ]
+  },
+  {
+    "standard_name": "Polyvinylpyrrolidone",
+    "aliases": [
+      "E1201",
+      "PVP"
+    ]
+  },
+  {
+    "standard_name": "Dextrin",
+    "aliases": [
+      "E1400"
+    ]
+  },
+  {
+    "standard_name": "Acid Treated Starch",
+    "aliases": [
+      "E1401"
+    ]
+  },
+  {
+    "standard_name": "Alkaline Treated Starch",
+    "aliases": [
+      "E1402"
+    ]
+  },
+  {
+    "standard_name": "Bleached Starch",
+    "aliases": [
+      "E1403"
+    ]
+  },
+  {
+    "standard_name": "Oxidized Starch",
+    "aliases": [
+      "E1404"
+    ]
+  },
+  {
+    "standard_name": "Monostarch Phosphate",
+    "aliases": [
+      "E1410"
+    ]
+  },
+  {
+    "standard_name": "Distarch Phosphate",
+    "aliases": [
+      "E1412"
+    ]
+  },
+  {
+    "standard_name": "Phosphated Distarch Phosphate",
+    "aliases": [
+      "E1413"
+    ]
+  },
+  {
+    "standard_name": "Acetylated Distarch Phosphate",
+    "aliases": [
+      "E1414"
+    ]
+  },
+  {
+    "standard_name": "Acetylated Starch",
+    "aliases": [
+      "E1420"
+    ]
+  },
+  {
+    "standard_name": "Acetylated Distarch Adipate",
+    "aliases": [
+      "E1422"
+    ]
+  },
+  {
+    "standard_name": "Hydroxypropyl Starch",
+    "aliases": [
+      "E1440"
+    ]
+  },
+  {
+    "standard_name": "Hydroxypropyl Distarch Phosphate",
+    "aliases": [
+      "E1442"
+    ]
+  },
+  {
+    "standard_name": "Starch Sodium Octenyl Succinate",
+    "aliases": [
+      "E1450"
+    ]
+  },
+  {
+    "standard_name": "Triethyl Citrate",
+    "aliases": [
+      "E1505"
+    ]
+  },
+  {
+    "standard_name": "Glyceryl Triacetate",
+    "aliases": [
+      "E1518",
+      "Triacetin"
+    ]
+  },
+  {
+    "standard_name": "Propylene Glycol",
+    "aliases": [
+      "E1520",
+      "Propane-1,2-Diol"
+    ]
+  },
+  {
+    "standard_name": "Wheat Flour",
+    "aliases": [
+      "All Purpose Flour",
+      "Refined Flour",
+      "Maida"
+    ]
+  },
+  {
+    "standard_name": "Whole Wheat Flour",
+    "aliases": [
+      "Atta",
+      "Graham Flour"
+    ]
+  },
+  {
+    "standard_name": "Wheat Starch",
+    "aliases": [
+      "Modified Wheat Starch"
+    ]
+  },
+  {
+    "standard_name": "Wheat Bran",
+    "aliases": [
+      "Bran"
+    ]
+  },
+  {
+    "standard_name": "Wheat Germ",
+    "aliases": [
+      "Germ of Wheat"
+    ]
+  },
+  {
+    "standard_name": "Semolina",
+    "aliases": [
+      "Sooji",
+      "Rava"
+    ]
+  },
+  {
+    "standard_name": "Durum Wheat",
+    "aliases": [
+      "Durum Flour"
+    ]
+  },
+  {
+    "standard_name": "Rye Flour",
+    "aliases": [
+      "Rye Meal"
+    ]
+  },
+  {
+    "standard_name": "Barley",
+    "aliases": [
+      "Pearl Barley",
+      "Barley Grain"
+    ]
+  },
+  {
+    "standard_name": "Barley Malt",
+    "aliases": [
+      "Malted Barley"
+    ]
+  },
+  {
+    "standard_name": "Malt Extract",
+    "aliases": [
+      "Malt Syrup Extract"
+    ]
+  },
+  {
+    "standard_name": "Oats",
+    "aliases": [
+      "Rolled Oats",
+      "Oatmeal",
+      "Oat Flour"
+    ]
+  },
+  {
+    "standard_name": "Corn Starch",
+    "aliases": [
+      "Cornflour",
+      "Maize Starch"
+    ]
+  },
+  {
+    "standard_name": "Corn Flour",
+    "aliases": [
+      "Maize Flour"
+    ]
+  },
+  {
+    "standard_name": "Cornmeal",
+    "aliases": [
+      "Maize Meal",
+      "Polenta"
+    ]
+  },
+  {
+    "standard_name": "Rice",
+    "aliases": [
+      "White Rice",
+      "Brown Rice"
+    ]
+  },
+  {
+    "standard_name": "Rice Flour",
+    "aliases": [
+      "Ground Rice"
+    ]
+  },
+  {
+    "standard_name": "Rice Bran",
+    "aliases": [
+      "Bran of Rice"
+    ]
+  },
+  {
+    "standard_name": "Millet",
+    "aliases": [
+      "Pearl Millet",
+      "Bajra"
+    ]
+  },
+  {
+    "standard_name": "Sorghum",
+    "aliases": [
+      "Jowar",
+      "Milo"
+    ]
+  },
+  {
+    "standard_name": "Buckwheat",
+    "aliases": [
+      "Kasha",
+      "Buckwheat Flour"
+    ]
+  },
+  {
+    "standard_name": "Quinoa",
+    "aliases": [
+      "Quinoa Flour"
+    ]
+  },
+  {
+    "standard_name": "Amaranth",
+    "aliases": [
+      "Amaranth Grain",
+      "Rajgira"
+    ]
+  },
+  {
+    "standard_name": "Teff",
+    "aliases": [
+      "Teff Flour"
+    ]
+  },
+  {
+    "standard_name": "Spelt",
+    "aliases": [
+      "Spelt Flour"
+    ]
+  },
+  {
+    "standard_name": "Kamut",
+    "aliases": [
+      "Khorasan Wheat"
+    ]
+  },
+  {
+    "standard_name": "Triticale",
+    "aliases": [
+      "Triticale Flour"
+    ]
+  },
+  {
+    "standard_name": "Bulgur",
+    "aliases": [
+      "Cracked Wheat"
+    ]
+  },
+  {
+    "standard_name": "Couscous",
+    "aliases": [
+      "Wheat Couscous"
+    ]
+  },
+  {
+    "standard_name": "Tapioca Starch",
+    "aliases": [
+      "Tapioca Flour",
+      "Cassava Starch"
+    ]
+  },
+  {
+    "standard_name": "Potato Starch",
+    "aliases": [
+      "Potato Flour"
+    ]
+  },
+  {
+    "standard_name": "Arrowroot Starch",
+    "aliases": [
+      "Arrowroot Flour"
+    ]
+  },
+  {
+    "standard_name": "Chickpea Flour",
+    "aliases": [
+      "Besan",
+      "Gram Flour"
+    ]
+  },
+  {
+    "standard_name": "Soy Flour",
+    "aliases": [
+      "Defatted Soy Flour"
+    ]
+  },
+  {
+    "standard_name": "Almond Flour",
+    "aliases": [
+      "Ground Almonds"
+    ]
+  },
+  {
+    "standard_name": "Coconut Flour",
+    "aliases": [
+      "Ground Coconut Flour"
+    ]
+  },
+  {
+    "standard_name": "Chickpea",
+    "aliases": [
+      "Garbanzo Bean",
+      "Chana"
+    ]
+  },
+  {
+    "standard_name": "Lentil",
+    "aliases": [
+      "Dal",
+      "Split Lentil"
+    ]
+  },
+  {
+    "standard_name": "Red Lentil",
+    "aliases": [
+      "Masoor Dal"
+    ]
+  },
+  {
+    "standard_name": "Green Pea",
+    "aliases": [
+      "Garden Pea",
+      "Matar"
+    ]
+  },
+  {
+    "standard_name": "Split Pea",
+    "aliases": [
+      "Yellow Split Pea"
+    ]
+  },
+  {
+    "standard_name": "Kidney Bean",
+    "aliases": [
+      "Rajma"
+    ]
+  },
+  {
+    "standard_name": "Black Bean",
+    "aliases": [
+      "Turtle Bean"
+    ]
+  },
+  {
+    "standard_name": "Pinto Bean",
+    "aliases": [
+      "Pinto Beans"
+    ]
+  },
+  {
+    "standard_name": "Navy Bean",
+    "aliases": [
+      "Haricot Bean"
+    ]
+  },
+  {
+    "standard_name": "Lima Bean",
+    "aliases": [
+      "Butter Bean"
+    ]
+  },
+  {
+    "standard_name": "Mung Bean",
+    "aliases": [
+      "Green Gram",
+      "Moong"
+    ]
+  },
+  {
+    "standard_name": "Black Gram",
+    "aliases": [
+      "Urad Dal"
+    ]
+  },
+  {
+    "standard_name": "Black-Eyed Pea",
+    "aliases": [
+      "Cowpea",
+      "Lobia"
+    ]
+  },
+  {
+    "standard_name": "Adzuki Bean",
+    "aliases": [
+      "Red Bean"
+    ]
+  },
+  {
+    "standard_name": "Fava Bean",
+    "aliases": [
+      "Broad Bean"
+    ]
+  },
+  {
+    "standard_name": "Soybean",
+    "aliases": [
+      "Soya Bean"
+    ]
+  },
+  {
+    "standard_name": "Peanut",
+    "aliases": [
+      "Groundnut"
+    ]
+  },
+  {
+    "standard_name": "Lupin Bean",
+    "aliases": [
+      "Lupini Bean"
+    ]
+  },
+  {
+    "standard_name": "Almond",
+    "aliases": [
+      "Sweet Almond",
+      "Badam"
+    ]
+  },
+  {
+    "standard_name": "Cashew",
+    "aliases": [
+      "Cashew Nut",
+      "Kaju"
+    ]
+  },
+  {
+    "standard_name": "Walnut",
+    "aliases": [
+      "English Walnut",
+      "Akhrot"
+    ]
+  },
+  {
+    "standard_name": "Hazelnut",
+    "aliases": [
+      "Filbert"
+    ]
+  },
+  {
+    "standard_name": "Pistachio",
+    "aliases": [
+      "Pista"
+    ]
+  },
+  {
+    "standard_name": "Pecan",
+    "aliases": [
+      "Pecan Nut"
+    ]
+  },
+  {
+    "standard_name": "Brazil Nut",
+    "aliases": [
+      "Para Nut"
+    ]
+  },
+  {
+    "standard_name": "Macadamia Nut",
+    "aliases": [
+      "Macadamia"
+    ]
+  },
+  {
+    "standard_name": "Pine Nut",
+    "aliases": [
+      "Pignoli",
+      "Chilgoza"
+    ]
+  },
+  {
+    "standard_name": "Chestnut",
+    "aliases": [
+      "Sweet Chestnut"
+    ]
+  },
+  {
+    "standard_name": "Sesame Seed",
+    "aliases": [
+      "Til",
+      "Benne Seed"
+    ]
+  },
+  {
+    "standard_name": "Sunflower Seed",
+    "aliases": [
+      "Sunflower Kernel"
+    ]
+  },
+  {
+    "standard_name": "Pumpkin Seed",
+    "aliases": [
+      "Pepita"
+    ]
+  },
+  {
+    "standard_name": "Flaxseed",
+    "aliases": [
+      "Linseed",
+      "Alsi"
+    ]
+  },
+  {
+    "standard_name": "Chia Seed",
+    "aliases": [
+      "Chia"
+    ]
+  },
+  {
+    "standard_name": "Hemp Seed",
+    "aliases": [
+      "Hemp Hearts"
+    ]
+  },
+  {
+    "standard_name": "Poppy Seed",
+    "aliases": [
+      "Khus Khus"
+    ]
+  },
+  {
+    "standard_name": "Nigella Seed",
+    "aliases": [
+      "Black Cumin",
+      "Kalonji"
+    ]
+  },
+  {
+    "standard_name": "Watermelon Seed",
+    "aliases": [
+      "Roasted Watermelon Kernel"
+    ]
+  },
+  {
+    "standard_name": "Tigernut",
+    "aliases": [
+      "Chufa"
+    ]
+  },
+  {
+    "standard_name": "Tomato",
+    "aliases": [
+      "Tomato Puree",
+      "Tomato Paste"
+    ]
+  },
+  {
+    "standard_name": "Potato",
+    "aliases": [
+      "Aloo"
+    ]
+  },
+  {
+    "standard_name": "Onion",
+    "aliases": [
+      "Onion Powder",
+      "Pyaz"
+    ]
+  },
+  {
+    "standard_name": "Garlic",
+    "aliases": [
+      "Garlic Powder",
+      "Lehsun"
+    ]
+  },
+  {
+    "standard_name": "Carrot",
+    "aliases": [
+      "Gajar"
+    ]
+  },
+  {
+    "standard_name": "Cabbage",
+    "aliases": [
+      "Patta Gobi"
+    ]
+  },
+  {
+    "standard_name": "Cauliflower",
+    "aliases": [
+      "Gobi"
+    ]
+  },
+  {
+    "standard_name": "Broccoli",
+    "aliases": [
+      "Broccoli Florets"
+    ]
+  },
+  {
+    "standard_name": "Spinach",
+    "aliases": [
+      "Palak"
+    ]
+  },
+  {
+    "standard_name": "Beetroot",
+    "aliases": [
+      "Beet",
+      "Chukandar"
+    ]
+  },
+  {
+    "standard_name": "Radish",
+    "aliases": [
+      "Mooli"
+    ]
+  },
+  {
+    "standard_name": "Cucumber",
+    "aliases": [
+      "Kheera"
+    ]
+  },
+  {
+    "standard_name": "Zucchini",
+    "aliases": [
+      "Courgette"
+    ]
+  },
+  {
+    "standard_name": "Pumpkin",
+    "aliases": [
+      "Kaddu"
+    ]
+  },
+  {
+    "standard_name": "Bell Pepper",
+    "aliases": [
+      "Capsicum",
+      "Shimla Mirch"
+    ]
+  },
+  {
+    "standard_name": "Chili Pepper",
+    "aliases": [
+      "Red Chili",
+      "Green Chili"
+    ]
+  },
+  {
+    "standard_name": "Eggplant",
+    "aliases": [
+      "Aubergine",
+      "Baingan"
+    ]
+  },
+  {
+    "standard_name": "Asparagus",
+    "aliases": [
+      "Asparagus Spear"
+    ]
+  },
+  {
+    "standard_name": "Celery",
+    "aliases": [
+      "Celery Stalk"
+    ]
+  },
+  {
+    "standard_name": "Leek",
+    "aliases": [
+      "Leek Stalk"
+    ]
+  },
+  {
+    "standard_name": "Green Beans",
+    "aliases": [
+      "String Beans"
+    ]
+  },
+  {
+    "standard_name": "Okra",
+    "aliases": [
+      "Bhindi",
+      "Lady Finger"
+    ]
+  },
+  {
+    "standard_name": "Mushroom",
+    "aliases": [
+      "Button Mushroom"
+    ]
+  },
+  {
+    "standard_name": "Sweet Potato",
+    "aliases": [
+      "Shakarkandi"
+    ]
+  },
+  {
+    "standard_name": "Ginger",
+    "aliases": [
+      "Adrak",
+      "Ginger Root"
+    ]
+  },
+  {
+    "standard_name": "Turmeric Root",
+    "aliases": [
+      "Haldi"
+    ]
+  },
+  {
+    "standard_name": "Apple",
+    "aliases": [
+      "Apple Puree"
+    ]
+  },
+  {
+    "standard_name": "Banana",
+    "aliases": [
+      "Banana Puree"
+    ]
+  },
+  {
+    "standard_name": "Orange",
+    "aliases": [
+      "Orange Juice Concentrate"
+    ]
+  },
+  {
+    "standard_name": "Lemon",
+    "aliases": [
+      "Lemon Juice"
+    ]
+  },
+  {
+    "standard_name": "Lime",
+    "aliases": [
+      "Lime Juice"
+    ]
+  },
+  {
+    "standard_name": "Grape",
+    "aliases": [
+      "Grape Extract"
+    ]
+  },
+  {
+    "standard_name": "Strawberry",
+    "aliases": [
+      "Strawberry Puree"
+    ]
+  },
+  {
+    "standard_name": "Blueberry",
+    "aliases": [
+      "Blueberry Extract"
+    ]
+  },
+  {
+    "standard_name": "Raspberry",
+    "aliases": [
+      "Raspberry Puree"
+    ]
+  },
+  {
+    "standard_name": "Blackberry",
+    "aliases": [
+      "Blackberry Extract"
+    ]
+  },
+  {
+    "standard_name": "Cherry",
+    "aliases": [
+      "Cherry Extract"
+    ]
+  },
+  {
+    "standard_name": "Peach",
+    "aliases": [
+      "Peach Puree"
+    ]
+  },
+  {
+    "standard_name": "Plum",
+    "aliases": [
+      "Dried Plum",
+      "Prune"
+    ]
+  },
+  {
+    "standard_name": "Apricot",
+    "aliases": [
+      "Dried Apricot"
+    ]
+  },
+  {
+    "standard_name": "Pear",
+    "aliases": [
+      "Pear Puree"
+    ]
+  },
+  {
+    "standard_name": "Pineapple",
+    "aliases": [
+      "Pineapple Juice Concentrate"
+    ]
+  },
+  {
+    "standard_name": "Mango",
+    "aliases": [
+      "Mango Pulp"
+    ]
+  },
+  {
+    "standard_name": "Papaya",
+    "aliases": [
+      "Papaya Pulp"
+    ]
+  },
+  {
+    "standard_name": "Watermelon",
+    "aliases": [
+      "Watermelon Extract"
+    ]
+  },
+  {
+    "standard_name": "Melon",
+    "aliases": [
+      "Cantaloupe",
+      "Muskmelon"
+    ]
+  },
+  {
+    "standard_name": "Kiwi",
+    "aliases": [
+      "Kiwifruit"
+    ]
+  },
+  {
+    "standard_name": "Pomegranate",
+    "aliases": [
+      "Anar"
+    ]
+  },
+  {
+    "standard_name": "Fig",
+    "aliases": [
+      "Anjeer",
+      "Dried Fig"
+    ]
+  },
+  {
+    "standard_name": "Date",
+    "aliases": [
+      "Khajoor",
+      "Dried Date"
+    ]
+  },
+  {
+    "standard_name": "Raisin",
+    "aliases": [
+      "Dried Grape",
+      "Kishmish"
+    ]
+  },
+  {
+    "standard_name": "Cranberry",
+    "aliases": [
+      "Dried Cranberry"
+    ]
+  },
+  {
+    "standard_name": "Passionfruit",
+    "aliases": [
+      "Passion Fruit Pulp"
+    ]
+  },
+  {
+    "standard_name": "Guava",
+    "aliases": [
+      "Amrud"
+    ]
+  },
+  {
+    "standard_name": "Coconut",
+    "aliases": [
+      "Coconut Meat",
+      "Nariyal"
+    ]
+  },
+  {
+    "standard_name": "Black Pepper",
+    "aliases": [
+      "Kali Mirch",
+      "Ground Black Pepper"
+    ]
+  },
+  {
+    "standard_name": "Cinnamon",
+    "aliases": [
+      "Dalchini",
+      "Cinnamon Powder"
+    ]
+  },
+  {
+    "standard_name": "Cardamom",
+    "aliases": [
+      "Elaichi"
+    ]
+  },
+  {
+    "standard_name": "Nutmeg",
+    "aliases": [
+      "Jaiphal"
+    ]
+  },
+  {
+    "standard_name": "Clove",
+    "aliases": [
+      "Laung"
+    ]
+  },
+  {
+    "standard_name": "Cumin",
+    "aliases": [
+      "Jeera",
+      "Ground Cumin"
+    ]
+  },
+  {
+    "standard_name": "Coriander",
+    "aliases": [
+      "Dhania",
+      "Coriander Seed"
+    ]
+  },
+  {
+    "standard_name": "Fennel",
+    "aliases": [
+      "Saunf",
+      "Fennel Seed"
+    ]
+  },
+  {
+    "standard_name": "Fenugreek",
+    "aliases": [
+      "Methi",
+      "Fenugreek Seed"
+    ]
+  },
+  {
+    "standard_name": "Mustard Seed",
+    "aliases": [
+      "Rai",
+      "Sarson"
+    ]
+  },
+  {
+    "standard_name": "Turmeric",
+    "aliases": [
+      "Haldi Powder"
+    ]
+  },
+  {
+    "standard_name": "Saffron",
+    "aliases": [
+      "Kesar"
+    ]
+  },
+  {
+    "standard_name": "Star Anise",
+    "aliases": [
+      "Chakra Phool"
+    ]
+  },
+  {
+    "standard_name": "Bay Leaf",
+    "aliases": [
+      "Tej Patta"
+    ]
+  },
+  {
+    "standard_name": "Basil",
+    "aliases": [
+      "Tulsi",
+      "Dried Basil"
+    ]
+  },
+  {
+    "standard_name": "Oregano",
+    "aliases": [
+      "Dried Oregano"
+    ]
+  },
+  {
+    "standard_name": "Thyme",
+    "aliases": [
+      "Dried Thyme"
+    ]
+  },
+  {
+    "standard_name": "Rosemary",
+    "aliases": [
+      "Dried Rosemary"
+    ]
+  },
+  {
+    "standard_name": "Sage",
+    "aliases": [
+      "Dried Sage"
+    ]
+  },
+  {
+    "standard_name": "Paprika",
+    "aliases": [
+      "Paprika Powder"
+    ]
+  },
+  {
+    "standard_name": "Asafoetida",
+    "aliases": [
+      "Hing"
+    ]
+  },
+  {
+    "standard_name": "Mace",
+    "aliases": [
+      "Javitri"
+    ]
+  },
+  {
+    "standard_name": "Carom Seed",
+    "aliases": [
+      "Ajwain"
+    ]
+  },
+  {
+    "standard_name": "Dill",
+    "aliases": [
+      "Dill Weed",
+      "Sowa"
+    ]
+  },
+  {
+    "standard_name": "Tarragon",
+    "aliases": [
+      "Dried Tarragon"
+    ]
+  },
+  {
+    "standard_name": "Marjoram",
+    "aliases": [
+      "Dried Marjoram"
+    ]
+  },
+  {
+    "standard_name": "Chives",
+    "aliases": [
+      "Dried Chives"
+    ]
+  },
+  {
+    "standard_name": "Vanilla Pod",
+    "aliases": [
+      "Vanilla Bean Pod"
+    ]
+  },
+  {
+    "standard_name": "Chicken",
+    "aliases": [
+      "Chicken Meat"
+    ]
+  },
+  {
+    "standard_name": "Beef",
+    "aliases": [
+      "Beef Meat"
+    ]
+  },
+  {
+    "standard_name": "Pork",
+    "aliases": [
+      "Pork Meat"
+    ]
+  },
+  {
+    "standard_name": "Lamb",
+    "aliases": [
+      "Mutton"
+    ]
+  },
+  {
+    "standard_name": "Turkey",
+    "aliases": [
+      "Turkey Meat"
+    ]
+  },
+  {
+    "standard_name": "Duck",
+    "aliases": [
+      "Duck Meat"
+    ]
+  },
+  {
+    "standard_name": "Bacon",
+    "aliases": [
+      "Cured Pork Belly"
+    ]
+  },
+  {
+    "standard_name": "Ham",
+    "aliases": [
+      "Cured Pork Leg"
+    ]
+  },
+  {
+    "standard_name": "Sausage",
+    "aliases": [
+      "Sausage Meat"
+    ]
+  },
+  {
+    "standard_name": "Salami",
+    "aliases": [
+      "Cured Salami"
+    ]
+  },
+  {
+    "standard_name": "Pepperoni",
+    "aliases": [
+      "Spiced Salami"
+    ]
+  },
+  {
+    "standard_name": "Chicken Broth",
+    "aliases": [
+      "Chicken Stock"
+    ]
+  },
+  {
+    "standard_name": "Beef Broth",
+    "aliases": [
+      "Beef Stock"
+    ]
+  },
+  {
+    "standard_name": "Bone Broth",
+    "aliases": [
+      "Bone Stock"
+    ]
+  },
+  {
+    "standard_name": "Fish",
+    "aliases": [
+      "Fish Fillet"
+    ]
+  },
+  {
+    "standard_name": "Tuna",
+    "aliases": [
+      "Canned Tuna"
+    ]
+  },
+  {
+    "standard_name": "Salmon",
+    "aliases": [
+      "Smoked Salmon"
+    ]
+  },
+  {
+    "standard_name": "Cod",
+    "aliases": [
+      "Cod Fillet"
+    ]
+  },
+  {
+    "standard_name": "Anchovy",
+    "aliases": [
+      "Anchovy Paste"
+    ]
+  },
+  {
+    "standard_name": "Shrimp",
+    "aliases": [
+      "Prawn"
+    ]
+  },
+  {
+    "standard_name": "Crab",
+    "aliases": [
+      "Crab Meat"
+    ]
+  },
+  {
+    "standard_name": "Lobster",
+    "aliases": [
+      "Lobster Meat"
+    ]
+  },
+  {
+    "standard_name": "Squid",
+    "aliases": [
+      "Calamari"
+    ]
+  },
+  {
+    "standard_name": "Octopus",
+    "aliases": [
+      "Octopus Meat"
+    ]
+  },
+  {
+    "standard_name": "Oyster",
+    "aliases": [
+      "Oyster Meat"
+    ]
+  },
+  {
+    "standard_name": "Mussel",
+    "aliases": [
+      "Mussel Meat"
+    ]
+  },
+  {
+    "standard_name": "Clam",
+    "aliases": [
+      "Clam Meat"
+    ]
+  },
+  {
+    "standard_name": "Scallop",
+    "aliases": [
+      "Scallop Meat"
+    ]
+  },
+  {
+    "standard_name": "Fish Sauce",
+    "aliases": [
+      "Nam Pla"
+    ]
+  },
+  {
+    "standard_name": "Fish Oil",
+    "aliases": [
+      "Omega-3 Fish Oil"
+    ]
+  },
+  {
+    "standard_name": "Surimi",
+    "aliases": [
+      "Imitation Crab"
+    ]
+  },
+  {
+    "standard_name": "Ketchup",
+    "aliases": [
+      "Tomato Ketchup"
+    ]
+  },
+  {
+    "standard_name": "Mustard Sauce",
+    "aliases": [
+      "Prepared Mustard"
+    ]
+  },
+  {
+    "standard_name": "Mayonnaise",
+    "aliases": [
+      "Mayo"
+    ]
+  },
+  {
+    "standard_name": "Soy Sauce",
+    "aliases": [
+      "Shoyu",
+      "Tamari"
+    ]
+  },
+  {
+    "standard_name": "Fish Sauce Condiment",
+    "aliases": [
+      "Nuoc Mam"
+    ]
+  },
+  {
+    "standard_name": "Oyster Sauce",
+    "aliases": [
+      "Oyster Extract Sauce"
+    ]
+  },
+  {
+    "standard_name": "Worcestershire Sauce",
+    "aliases": [
+      "Worcester Sauce"
+    ]
+  },
+  {
+    "standard_name": "Hot Sauce",
+    "aliases": [
+      "Chili Sauce"
+    ]
+  },
+  {
+    "standard_name": "Barbecue Sauce",
+    "aliases": [
+      "BBQ Sauce"
+    ]
+  },
+  {
+    "standard_name": "Salad Dressing",
+    "aliases": [
+      "Vinaigrette"
+    ]
+  },
+  {
+    "standard_name": "Vinegar",
+    "aliases": [
+      "Distilled Vinegar"
+    ]
+  },
+  {
+    "standard_name": "Apple Cider Vinegar",
+    "aliases": [
+      "Cider Vinegar"
+    ]
+  },
+  {
+    "standard_name": "Balsamic Vinegar",
+    "aliases": [
+      "Aged Balsamic"
+    ]
+  },
+  {
+    "standard_name": "Rice Vinegar",
+    "aliases": [
+      "Rice Wine Vinegar"
+    ]
+  },
+  {
+    "standard_name": "Tomato Paste",
+    "aliases": [
+      "Concentrated Tomato Paste"
+    ]
+  },
+  {
+    "standard_name": "Tomato Puree Condiment",
+    "aliases": [
+      "Passata"
+    ]
+  },
+  {
+    "standard_name": "Pesto",
+    "aliases": [
+      "Basil Pesto Sauce"
+    ]
+  },
+  {
+    "standard_name": "Hoisin Sauce",
+    "aliases": [
+      "Chinese Hoisin"
+    ]
+  },
+  {
+    "standard_name": "Teriyaki Sauce",
+    "aliases": [
+      "Teriyaki Glaze"
+    ]
+  },
+  {
+    "standard_name": "Sriracha",
+    "aliases": [
+      "Sriracha Hot Sauce"
+    ]
+  },
+  {
+    "standard_name": "Baking Soda",
+    "aliases": [
+      "Sodium Bicarbonate Leavening",
+      "Bicarbonate of Soda"
+    ]
+  },
+  {
+    "standard_name": "Baking Powder",
+    "aliases": [
+      "Double Acting Baking Powder"
+    ]
+  },
+  {
+    "standard_name": "Yeast",
+    "aliases": [
+      "Baker's Yeast",
+      "Active Dry Yeast"
+    ]
+  },
+  {
+    "standard_name": "Nutritional Yeast",
+    "aliases": [
+      "Yeast Flakes"
+    ]
+  },
+  {
+    "standard_name": "Cream of Tartar",
+    "aliases": [
+      "Potassium Bitartrate"
+    ]
+  },
+  {
+    "standard_name": "Cornstarch Baking",
+    "aliases": [
+      "Corn Starch Thickener"
+    ]
+  },
+  {
+    "standard_name": "Gelatin Baking",
+    "aliases": [
+      "Unflavored Gelatin"
+    ]
+  },
+  {
+    "standard_name": "Agar Agar Baking",
+    "aliases": [
+      "Vegetable Gelatin"
+    ]
+  },
+  {
+    "standard_name": "Vital Wheat Gluten Baking",
+    "aliases": [
+      "Gluten Flour"
+    ]
+  },
+  {
+    "standard_name": "Xanthan Gum Baking",
+    "aliases": [
+      "Baking Xanthan"
+    ]
+  },
+  {
+    "standard_name": "Coffee",
+    "aliases": [
+      "Ground Coffee",
+      "Coffee Bean"
+    ]
+  },
+  {
+    "standard_name": "Instant Coffee",
+    "aliases": [
+      "Soluble Coffee"
+    ]
+  },
+  {
+    "standard_name": "Tea",
+    "aliases": [
+      "Black Tea",
+      "Green Tea"
+    ]
+  },
+  {
+    "standard_name": "Malt Extract Beverage",
+    "aliases": [
+      "Malted Milk Extract"
+    ]
+  },
+  {
+    "standard_name": "Caffeine",
+    "aliases": [
+      "Guarana Extract Caffeine"
+    ]
+  },
+  {
+    "standard_name": "Cocoa Beverage Mix",
+    "aliases": [
+      "Drinking Chocolate"
+    ]
+  },
+  {
+    "standard_name": "Carbonated Water",
+    "aliases": [
+      "Soda Water",
+      "Sparkling Water"
+    ]
+  },
+  {
+    "standard_name": "Fruit Juice Concentrate",
+    "aliases": [
+      "Concentrated Fruit Juice"
+    ]
+  },
+  {
+    "standard_name": "Malted Milk",
+    "aliases": [
+      "Malted Milk Powder"
+    ]
+  },
+  {
+    "standard_name": "Almond Milk",
+    "aliases": [
+      "Almond Beverage"
+    ]
+  },
+  {
+    "standard_name": "Soy Milk",
+    "aliases": [
+      "Soya Milk"
+    ]
+  },
+  {
+    "standard_name": "Oat Milk",
+    "aliases": [
+      "Oat Beverage"
+    ]
+  },
+  {
+    "standard_name": "Coconut Milk",
+    "aliases": [
+      "Canned Coconut Milk"
+    ]
+  },
+  {
+    "standard_name": "Rice Milk",
+    "aliases": [
+      "Rice Beverage"
+    ]
+  },
+  {
+    "standard_name": "Cashew Milk",
+    "aliases": [
+      "Cashew Beverage"
+    ]
+  },
+  {
+    "standard_name": "Vegan Cheese",
+    "aliases": [
+      "Plant Based Cheese"
+    ]
+  },
+  {
+    "standard_name": "Vegan Butter",
+    "aliases": [
+      "Plant Based Butter"
+    ]
+  },
+  {
+    "standard_name": "Taurine",
+    "aliases": [
+      "2-Aminoethanesulfonic Acid"
+    ]
+  },
+  {
+    "standard_name": "L-Arginine",
+    "aliases": [
+      "Arginine"
+    ]
+  },
+  {
+    "standard_name": "L-Lysine",
+    "aliases": [
+      "Lysine"
+    ]
+  },
+  {
+    "standard_name": "L-Glutamine",
+    "aliases": [
+      "Glutamine"
+    ]
+  },
+  {
+    "standard_name": "L-Leucine",
+    "aliases": [
+      "Leucine"
+    ]
+  },
+  {
+    "standard_name": "Rennet",
+    "aliases": [
+      "Chymosin",
+      "Animal Rennet"
+    ]
+  },
+  {
+    "standard_name": "Amylase",
+    "aliases": [
+      "Alpha Amylase Enzyme"
+    ]
+  },
+  {
+    "standard_name": "Protease",
+    "aliases": [
+      "Proteolytic Enzyme"
+    ]
+  },
+  {
+    "standard_name": "Lipase",
+    "aliases": [
+      "Lipolytic Enzyme"
+    ]
+  },
+  {
+    "standard_name": "Pectinase",
+    "aliases": [
+      "Pectin Enzyme"
+    ]
+  },
+  {
+    "standard_name": "Papain",
+    "aliases": [
+      "Papaya Enzyme"
+    ]
+  },
+  {
+    "standard_name": "Bromelain",
+    "aliases": [
+      "Pineapple Enzyme"
+    ]
+  },
+  {
+    "standard_name": "Malic Acid",
+    "aliases": [
+      "E296",
+      "DL-Malic Acid"
+    ]
+  },
+  {
+    "standard_name": "Fumaric Acid",
+    "aliases": [
+      "E297"
+    ]
+  },
+  {
+    "standard_name": "Succinic Acid",
+    "aliases": [
+      "Amber Acid"
+    ]
+  },
+  {
+    "standard_name": "Adipic Acid",
+    "aliases": [
+      "E355"
+    ]
+  },
+  {
+    "standard_name": "Gluconic Acid",
+    "aliases": [
+      "E574"
+    ]
+  },
+  {
+    "standard_name": "Glucono Delta-Lactone",
+    "aliases": [
+      "E575",
+      "GDL"
+    ]
+  },
+  {
+    "standard_name": "Sodium Gluconate",
+    "aliases": [
+      "E576"
+    ]
+  },
+  {
+    "standard_name": "Potassium Gluconate",
+    "aliases": [
+      "E577"
+    ]
+  },
+  {
+    "standard_name": "Calcium Gluconate Acid Regulator",
+    "aliases": [
+      "E578"
+    ]
+  },
+  {
+    "standard_name": "Ferrous Gluconate Color",
+    "aliases": [
+      "E579"
+    ]
+  },
+  {
+    "standard_name": "Fumaric Acid Salt",
+    "aliases": [
+      "Sodium Fumarate"
+    ]
+  },
+  {
+    "standard_name": "Ascorbic Acid Isomer",
+    "aliases": [
+      "Erythorbic Acid",
+      "E315"
+    ]
+  },
+  {
+    "standard_name": "Sodium Erythorbate",
+    "aliases": [
+      "E316"
+    ]
+  },
+  {
+    "standard_name": "Citric Acid Anhydrous",
+    "aliases": [
+      "Anhydrous Citric Acid"
+    ]
+  },
+  {
+    "standard_name": "Garam Masala",
+    "aliases": [
+      "Indian Spice Blend"
+    ]
+  },
+  {
+    "standard_name": "Curry Powder",
+    "aliases": [
+      "Curry Spice Mix"
+    ]
+  },
+  {
+    "standard_name": "Five Spice Powder",
+    "aliases": [
+      "Chinese Five Spice"
+    ]
+  },
+  {
+    "standard_name": "Herbes de Provence",
+    "aliases": [
+      "Provencal Herb Mix"
+    ]
+  },
+  {
+    "standard_name": "Cajun Seasoning",
+    "aliases": [
+      "Cajun Spice Mix"
+    ]
+  },
+  {
+    "standard_name": "Italian Seasoning",
+    "aliases": [
+      "Italian Herb Mix"
+    ]
+  },
+  {
+    "standard_name": "Chili Powder Blend",
+    "aliases": [
+      "Mexican Chili Powder"
+    ]
+  },
+  {
+    "standard_name": "Taco Seasoning",
+    "aliases": [
+      "Taco Spice Mix"
+    ]
+  },
+  {
+    "standard_name": "Ras el Hanout",
+    "aliases": [
+      "Moroccan Spice Blend"
+    ]
+  },
+  {
+    "standard_name": "Old Bay Seasoning",
+    "aliases": [
+      "Seafood Seasoning"
+    ]
+  },
+  {
+    "standard_name": "Poultry Seasoning",
+    "aliases": [
+      "Chicken Seasoning Mix"
+    ]
+  },
+  {
+    "standard_name": "Pumpkin Pie Spice",
+    "aliases": [
+      "Pumpkin Spice Mix"
+    ]
+  },
+  {
+    "standard_name": "Berbere",
+    "aliases": [
+      "Ethiopian Spice Blend"
+    ]
+  },
+  {
+    "standard_name": "Za'atar Blend",
+    "aliases": [
+      "Zaatar Spice Mix"
+    ]
+  },
+  {
+    "standard_name": "Adobo Seasoning",
+    "aliases": [
+      "Adobo Spice Mix"
+    ]
+  },
+  {
+    "standard_name": "Jerk Seasoning",
+    "aliases": [
+      "Jamaican Jerk Spice"
+    ]
+  },
+  {
+    "standard_name": "Relish",
+    "aliases": [
+      "Pickle Relish"
+    ]
+  },
+  {
+    "standard_name": "Chutney",
+    "aliases": [
+      "Indian Chutney"
+    ]
+  },
+  {
+    "standard_name": "Salsa",
+    "aliases": [
+      "Tomato Salsa"
+    ]
+  },
+  {
+    "standard_name": "Tapenade",
+    "aliases": [
+      "Olive Tapenade"
+    ]
+  },
+  {
+    "standard_name": "Harissa",
+    "aliases": [
+      "North African Chili Paste"
+    ]
+  },
+  {
+    "standard_name": "Chimichurri",
+    "aliases": [
+      "Argentinian Herb Sauce"
+    ]
+  },
+  {
+    "standard_name": "Aioli",
+    "aliases": [
+      "Garlic Mayonnaise"
+    ]
+  },
+  {
+    "standard_name": "Tartar Sauce",
+    "aliases": [
+      "Tartare Sauce"
+    ]
+  },
+  {
+    "standard_name": "Ranch Dressing",
+    "aliases": [
+      "Buttermilk Ranch Dressing"
+    ]
+  },
+  {
+    "standard_name": "Caesar Dressing",
+    "aliases": [
+      "Caesar Salad Dressing"
+    ]
+  },
+  {
+    "standard_name": "Thousand Island Dressing",
+    "aliases": [
+      "Russian Dressing"
+    ]
+  },
+  {
+    "standard_name": "Hollandaise Sauce",
+    "aliases": [
+      "Egg Yolk Butter Sauce"
+    ]
+  },
+  {
+    "standard_name": "Bechamel Sauce",
+    "aliases": [
+      "White Sauce"
+    ]
+  },
+  {
+    "standard_name": "Gravy",
+    "aliases": [
+      "Meat Gravy"
+    ]
+  },
+  {
+    "standard_name": "Marinara Sauce",
+    "aliases": [
+      "Tomato Marinara"
+    ]
+  },
+  {
+    "standard_name": "Alfredo Sauce",
+    "aliases": [
+      "Cream Pasta Sauce"
+    ]
+  },
+  {
+    "standard_name": "Piri Piri Sauce",
+    "aliases": [
+      "Peri Peri Sauce"
+    ]
+  },
+  {
+    "standard_name": "Ponzu Sauce",
+    "aliases": [
+      "Citrus Soy Sauce"
+    ]
+  },
+  {
+    "standard_name": "Fish Paste Condiment",
+    "aliases": [
+      "Belacan"
+    ]
+  },
+  {
+    "standard_name": "Miso Paste",
+    "aliases": [
+      "Fermented Soybean Paste"
+    ]
+  },
+  {
+    "standard_name": "Kimchi",
+    "aliases": [
+      "Korean Fermented Cabbage"
+    ]
+  },
+  {
+    "standard_name": "Sauerkraut",
+    "aliases": [
+      "Fermented Cabbage"
+    ]
+  },
+  {
+    "standard_name": "Tempeh",
+    "aliases": [
+      "Fermented Soybean Cake"
+    ]
+  },
+  {
+    "standard_name": "Natto",
+    "aliases": [
+      "Fermented Soybeans"
+    ]
+  },
+  {
+    "standard_name": "Kombucha",
+    "aliases": [
+      "Fermented Tea Drink"
+    ]
+  },
+  {
+    "standard_name": "Kefir Grains",
+    "aliases": [
+      "Milk Kefir Culture"
+    ]
+  },
+  {
+    "standard_name": "Sourdough Starter",
+    "aliases": [
+      "Wild Yeast Starter"
+    ]
+  },
+  {
+    "standard_name": "Vinegar Mother",
+    "aliases": [
+      "Mother of Vinegar"
+    ]
+  },
+  {
+    "standard_name": "Yogurt Culture",
+    "aliases": [
+      "Live Active Culture"
+    ]
+  },
+  {
+    "standard_name": "Cheese Culture",
+    "aliases": [
+      "Lactic Acid Bacteria Culture"
+    ]
+  },
+  {
+    "standard_name": "Bread",
+    "aliases": [
+      "Wheat Bread",
+      "White Bread"
+    ]
+  },
+  {
+    "standard_name": "Whole Grain Bread",
+    "aliases": [
+      "Whole Wheat Bread"
+    ]
+  },
+  {
+    "standard_name": "Sourdough Bread",
+    "aliases": [
+      "Naturally Leavened Bread"
+    ]
+  },
+  {
+    "standard_name": "Bagel",
+    "aliases": [
+      "Wheat Bagel"
+    ]
+  },
+  {
+    "standard_name": "Pretzel",
+    "aliases": [
+      "Wheat Pretzel"
+    ]
+  },
+  {
+    "standard_name": "Croissant",
+    "aliases": [
+      "Butter Croissant"
+    ]
+  },
+  {
+    "standard_name": "Pita Bread",
+    "aliases": [
+      "Flatbread"
+    ]
+  },
+  {
+    "standard_name": "Naan",
+    "aliases": [
+      "Indian Flatbread"
+    ]
+  },
+  {
+    "standard_name": "Tortilla",
+    "aliases": [
+      "Wheat Tortilla"
+    ]
+  },
+  {
+    "standard_name": "Pasta",
+    "aliases": [
+      "Wheat Pasta"
+    ]
+  },
+  {
+    "standard_name": "Egg Noodles",
+    "aliases": [
+      "Egg Pasta"
+    ]
+  },
+  {
+    "standard_name": "Rice Noodles",
+    "aliases": [
+      "Rice Vermicelli"
+    ]
+  },
+  {
+    "standard_name": "Udon Noodles",
+    "aliases": [
+      "Japanese Wheat Noodles"
+    ]
+  },
+  {
+    "standard_name": "Soba Noodles",
+    "aliases": [
+      "Buckwheat Noodles"
+    ]
+  },
+  {
+    "standard_name": "Macaroni",
+    "aliases": [
+      "Elbow Pasta"
+    ]
+  },
+  {
+    "standard_name": "Spaghetti",
+    "aliases": [
+      "Long Pasta"
+    ]
+  },
+  {
+    "standard_name": "Lasagna Sheets",
+    "aliases": [
+      "Lasagna Pasta"
+    ]
+  },
+  {
+    "standard_name": "Ravioli",
+    "aliases": [
+      "Stuffed Pasta"
+    ]
+  },
+  {
+    "standard_name": "Gnocchi",
+    "aliases": [
+      "Potato Dumpling"
+    ]
+  },
+  {
+    "standard_name": "Couscous Bakery",
+    "aliases": [
+      "Steamed Semolina"
+    ]
+  },
+  {
+    "standard_name": "Ice Cream",
+    "aliases": [
+      "Dairy Ice Cream"
+    ]
+  },
+  {
+    "standard_name": "Sorbet",
+    "aliases": [
+      "Fruit Sorbet"
+    ]
+  },
+  {
+    "standard_name": "Gelato",
+    "aliases": [
+      "Italian Ice Cream"
+    ]
+  },
+  {
+    "standard_name": "Pudding",
+    "aliases": [
+      "Milk Pudding"
+    ]
+  },
+  {
+    "standard_name": "Jelly",
+    "aliases": [
+      "Fruit Jelly"
+    ]
+  },
+  {
+    "standard_name": "Gummy Candy",
+    "aliases": [
+      "Gelatin Candy"
+    ]
+  },
+  {
+    "standard_name": "Marshmallow",
+    "aliases": [
+      "Gelatin Marshmallow"
+    ]
+  },
+  {
+    "standard_name": "Caramel",
+    "aliases": [
+      "Caramel Candy"
+    ]
+  },
+  {
+    "standard_name": "Toffee",
+    "aliases": [
+      "Butter Toffee"
+    ]
+  },
+  {
+    "standard_name": "Fudge",
+    "aliases": [
+      "Chocolate Fudge"
+    ]
+  },
+  {
+    "standard_name": "Nougat",
+    "aliases": [
+      "Nut Nougat"
+    ]
+  },
+  {
+    "standard_name": "Praline",
+    "aliases": [
+      "Nut Praline"
+    ]
+  },
+  {
+    "standard_name": "Granola",
+    "aliases": [
+      "Oat Granola"
+    ]
+  },
+  {
+    "standard_name": "Granola Bar",
+    "aliases": [
+      "Muesli Bar"
+    ]
+  },
+  {
+    "standard_name": "Trail Mix",
+    "aliases": [
+      "Nut and Dried Fruit Mix"
+    ]
+  },
+  {
+    "standard_name": "Popcorn",
+    "aliases": [
+      "Popped Corn"
+    ]
+  },
+  {
+    "standard_name": "Potato Chips",
+    "aliases": [
+      "Crisps"
+    ]
+  },
+  {
+    "standard_name": "Tortilla Chips",
+    "aliases": [
+      "Corn Chips"
+    ]
+  },
+  {
+    "standard_name": "Crackers",
+    "aliases": [
+      "Savory Biscuits"
+    ]
+  },
+  {
+    "standard_name": "Pretzel Snack",
+    "aliases": [
+      "Snack Pretzel"
+    ]
+  },
+  {
+    "standard_name": "Basmati Rice",
+    "aliases": [
+      "Aromatic Long Grain Rice"
+    ]
+  },
+  {
+    "standard_name": "Jasmine Rice",
+    "aliases": [
+      "Thai Fragrant Rice"
+    ]
+  },
+  {
+    "standard_name": "Wild Rice",
+    "aliases": [
+      "Water Oat"
+    ]
+  },
+  {
+    "standard_name": "Black Rice",
+    "aliases": [
+      "Forbidden Rice"
+    ]
+  },
+  {
+    "standard_name": "Red Rice",
+    "aliases": [
+      "Red Cargo Rice"
+    ]
+  },
+  {
+    "standard_name": "Sticky Rice",
+    "aliases": [
+      "Glutinous Rice"
+    ]
+  },
+  {
+    "standard_name": "Arborio Rice",
+    "aliases": [
+      "Risotto Rice"
+    ]
+  },
+  {
+    "standard_name": "Parboiled Rice",
+    "aliases": [
+      "Converted Rice"
+    ]
+  },
+  {
+    "standard_name": "Job's Tears",
+    "aliases": [
+      "Adlay",
+      "Chinese Pearl Barley"
+    ]
+  },
+  {
+    "standard_name": "Freekeh",
+    "aliases": [
+      "Roasted Green Wheat"
+    ]
+  },
+  {
+    "standard_name": "Pili Nut",
+    "aliases": [
+      "Pili"
+    ]
+  },
+  {
+    "standard_name": "Ginkgo Nut",
+    "aliases": [
+      "Gingko Seed"
+    ]
+  },
+  {
+    "standard_name": "Beechnut",
+    "aliases": [
+      "Beech Nut"
+    ]
+  },
+  {
+    "standard_name": "Candlenut",
+    "aliases": [
+      "Kukui Nut"
+    ]
+  },
+  {
+    "standard_name": "Kola Nut",
+    "aliases": [
+      "Colanut"
+    ]
+  },
+  {
+    "standard_name": "Sacha Inchi Seed",
+    "aliases": [
+      "Inca Peanut"
+    ]
+  },
+  {
+    "standard_name": "Safflower Seed",
+    "aliases": [
+      "Safflower Kernel"
+    ]
+  },
+  {
+    "standard_name": "Caraway Seed",
+    "aliases": [
+      "Shahi Jeera"
+    ]
+  },
+  {
+    "standard_name": "Anise Seed",
+    "aliases": [
+      "Aniseed"
+    ]
+  },
+  {
+    "standard_name": "Celery Seed",
+    "aliases": [
+      "Celery Seed Extract"
+    ]
+  },
+  {
+    "standard_name": "Tea Seed Oil",
+    "aliases": [
+      "Camellia Oil"
+    ]
+  },
+  {
+    "standard_name": "Perilla Oil",
+    "aliases": [
+      "Perilla Seed Oil"
+    ]
+  },
+  {
+    "standard_name": "Argan Oil",
+    "aliases": [
+      "Moroccan Argan Oil"
+    ]
+  },
+  {
+    "standard_name": "Pumpkin Seed Oil",
+    "aliases": [
+      "Pepita Oil"
+    ]
+  },
+  {
+    "standard_name": "Duck Fat",
+    "aliases": [
+      "Rendered Duck Fat"
+    ]
+  },
+  {
+    "standard_name": "Chicken Fat",
+    "aliases": [
+      "Schmaltz"
+    ]
+  },
+  {
+    "standard_name": "Fish Oil Supplement",
+    "aliases": [
+      "Omega-3 Supplement Oil"
+    ]
+  },
+  {
+    "standard_name": "Krill Oil",
+    "aliases": [
+      "Antarctic Krill Oil"
+    ]
+  },
+  {
+    "standard_name": "MCT Oil",
+    "aliases": [
+      "Medium Chain Triglyceride Oil"
+    ]
+  },
+  {
+    "standard_name": "Wheat Germ Oil",
+    "aliases": [
+      "Germ of Wheat Oil"
+    ]
+  },
+  {
+    "standard_name": "Artichoke",
+    "aliases": [
+      "Globe Artichoke"
+    ]
+  },
+  {
+    "standard_name": "Fennel Bulb",
+    "aliases": [
+      "Sweet Fennel"
+    ]
+  },
+  {
+    "standard_name": "Parsnip",
+    "aliases": [
+      "White Carrot"
+    ]
+  },
+  {
+    "standard_name": "Turnip",
+    "aliases": [
+      "Shalgam"
+    ]
+  },
+  {
+    "standard_name": "Rutabaga",
+    "aliases": [
+      "Swede"
+    ]
+  },
+  {
+    "standard_name": "Kohlrabi",
+    "aliases": [
+      "German Turnip"
+    ]
+  },
+  {
+    "standard_name": "Bok Choy",
+    "aliases": [
+      "Chinese Cabbage"
+    ]
+  },
+  {
+    "standard_name": "Kale",
+    "aliases": [
+      "Curly Kale"
+    ]
+  },
+  {
+    "standard_name": "Swiss Chard",
+    "aliases": [
+      "Chard"
+    ]
+  },
+  {
+    "standard_name": "Endive",
+    "aliases": [
+      "Belgian Endive"
+    ]
+  },
+  {
+    "standard_name": "Arugula",
+    "aliases": [
+      "Rocket"
+    ]
+  },
+  {
+    "standard_name": "Watercress",
+    "aliases": [
+      "Cress"
+    ]
+  },
+  {
+    "standard_name": "Jicama",
+    "aliases": [
+      "Mexican Yam Bean"
+    ]
+  },
+  {
+    "standard_name": "Yam",
+    "aliases": [
+      "True Yam"
+    ]
+  },
+  {
+    "standard_name": "Taro",
+    "aliases": [
+      "Colocasia Root"
+    ]
+  },
+  {
+    "standard_name": "Cassava",
+    "aliases": [
+      "Manioc",
+      "Yuca"
+    ]
+  },
+  {
+    "standard_name": "Persimmon",
+    "aliases": [
+      "Sharon Fruit"
+    ]
+  },
+  {
+    "standard_name": "Star Fruit",
+    "aliases": [
+      "Carambola"
+    ]
+  },
+  {
+    "standard_name": "Dragon Fruit",
+    "aliases": [
+      "Pitaya"
+    ]
+  },
+  {
+    "standard_name": "Lychee",
+    "aliases": [
+      "Litchi"
+    ]
+  },
+  {
+    "standard_name": "Rambutan",
+    "aliases": [
+      "Hairy Lychee"
+    ]
+  },
+  {
+    "standard_name": "Custard Apple",
+    "aliases": [
+      "Sitaphal"
+    ]
+  },
+  {
+    "standard_name": "Jackfruit",
+    "aliases": [
+      "Kathal"
+    ]
+  },
+  {
+    "standard_name": "Tamarind",
+    "aliases": [
+      "Imli"
+    ]
+  },
+  {
+    "standard_name": "Gooseberry",
+    "aliases": [
+      "Amla"
+    ]
+  },
+  {
+    "standard_name": "Buttermilk Powder",
+    "aliases": [
+      "Dried Buttermilk"
+    ]
+  },
+  {
+    "standard_name": "Milk Fat Fraction",
+    "aliases": [
+      "Anhydrous Milkfat"
+    ]
+  },
+  {
+    "standard_name": "Rennet Casein Cheese",
+    "aliases": [
+      "Cheese Casein"
+    ]
+  },
+  {
+    "standard_name": "Quark Cheese",
+    "aliases": [
+      "German Soft Cheese"
+    ]
+  },
+  {
+    "standard_name": "Mascarpone Cheese",
+    "aliases": [
+      "Italian Cream Cheese"
+    ]
+  },
+  {
+    "standard_name": "Halloumi Cheese",
+    "aliases": [
+      "Grilling Cheese"
+    ]
+  },
+  {
+    "standard_name": "Provolone Cheese",
+    "aliases": [
+      "Provolone"
+    ]
+  },
+  {
+    "standard_name": "Gouda Cheese",
+    "aliases": [
+      "Gouda"
+    ]
+  },
+  {
+    "standard_name": "Swiss Cheese",
+    "aliases": [
+      "Emmental Cheese"
+    ]
+  },
+  {
+    "standard_name": "Brie Cheese",
+    "aliases": [
+      "Soft Ripened Cheese"
+    ]
+  },
+  {
+    "standard_name": "Camembert Cheese",
+    "aliases": [
+      "French Soft Cheese"
+    ]
+  },
+  {
+    "standard_name": "Duck Egg",
+    "aliases": [
+      "Duck Egg Whole"
+    ]
+  },
+  {
+    "standard_name": "Quail Egg",
+    "aliases": [
+      "Quail Egg Whole"
+    ]
+  },
+  {
+    "standard_name": "Egg Replacer",
+    "aliases": [
+      "Vegan Egg Substitute"
+    ]
+  },
+  {
+    "standard_name": "Venison",
+    "aliases": [
+      "Deer Meat"
+    ]
+  },
+  {
+    "standard_name": "Goat Meat",
+    "aliases": [
+      "Chevon"
+    ]
+  },
+  {
+    "standard_name": "Rabbit Meat",
+    "aliases": [
+      "Lapin"
+    ]
+  },
+  {
+    "standard_name": "Quail Meat",
+    "aliases": [
+      "Quail"
+    ]
+  },
+  {
+    "standard_name": "Pheasant",
+    "aliases": [
+      "Pheasant Meat"
+    ]
+  },
+  {
+    "standard_name": "Bison Meat",
+    "aliases": [
+      "Buffalo Meat"
+    ]
+  },
+  {
+    "standard_name": "Veal",
+    "aliases": [
+      "Calf Meat"
+    ]
+  },
+  {
+    "standard_name": "Offal",
+    "aliases": [
+      "Organ Meat"
+    ]
+  },
+  {
+    "standard_name": "Liver",
+    "aliases": [
+      "Beef Liver",
+      "Chicken Liver"
+    ]
+  },
+  {
+    "standard_name": "Tofu Skin",
+    "aliases": [
+      "Yuba"
+    ]
+  },
+  {
+    "standard_name": "Seitan",
+    "aliases": [
+      "Wheat Meat"
+    ]
+  },
+  {
+    "standard_name": "Tempeh Protein",
+    "aliases": [
+      "Fermented Soy Protein"
+    ]
+  },
+  {
+    "standard_name": "Sodium Metabisulfite Wine",
+    "aliases": [
+      "Wine Preservative"
+    ]
+  },
+  {
+    "standard_name": "Calcium Propionate Bread",
+    "aliases": [
+      "Bread Preservative"
+    ]
+  },
+  {
+    "standard_name": "Potassium Metabisulfite Wine",
+    "aliases": [
+      "Campden Tablet"
+    ]
+  },
+  {
+    "standard_name": "Locust Bean Gum Extended",
+    "aliases": [
+      "Carob Bean Gum"
+    ]
+  },
+  {
+    "standard_name": "Konjac Gum",
+    "aliases": [
+      "Glucomannan"
+    ]
+  },
+  {
+    "standard_name": "Psyllium Seed Husk",
+    "aliases": [
+      "Ispaghula"
+    ]
+  },
+  {
+    "standard_name": "Chia Seed Gel",
+    "aliases": [
+      "Hydrated Chia"
+    ]
+  },
+  {
+    "standard_name": "Guar Gum Powder",
+    "aliases": [
+      "Cluster Bean Gum"
+    ]
+  },
+  {
+    "standard_name": "Gum Tragacanth Powder",
+    "aliases": [
+      "Tragacanth"
+    ]
+  },
+  {
+    "standard_name": "Modified Food Starch",
+    "aliases": [
+      "Modified Starch"
+    ]
+  },
+  {
+    "standard_name": "Pregelatinized Starch",
+    "aliases": [
+      "Instant Starch"
+    ]
+  },
+  {
+    "standard_name": "Waxy Maize Starch",
+    "aliases": [
+      "Waxy Corn Starch"
+    ]
+  },
+  {
+    "standard_name": "Beer",
+    "aliases": [
+      "Malt Beer"
+    ]
+  },
+  {
+    "standard_name": "Wine",
+    "aliases": [
+      "Grape Wine"
+    ]
+  },
+  {
+    "standard_name": "Wine Vinegar",
+    "aliases": [
+      "Red Wine Vinegar"
+    ]
+  },
+  {
+    "standard_name": "Malt Vinegar",
+    "aliases": [
+      "Barley Malt Vinegar"
+    ]
+  },
+  {
+    "standard_name": "Ethanol",
+    "aliases": [
+      "Grain Alcohol",
+      "Ethyl Alcohol"
+    ]
+  },
+  {
+    "standard_name": "Hops",
+    "aliases": [
+      "Beer Hops"
+    ]
+  },
+  {
+    "standard_name": "Brewers Yeast",
+    "aliases": [
+      "Beer Yeast"
+    ]
+  },
+  {
+    "standard_name": "Distillers Grain",
+    "aliases": [
+      "Spent Grain"
+    ]
+  },
+  {
+    "standard_name": "Nutritional Supplement Blend",
+    "aliases": [
+      "Vitamin Mineral Premix"
+    ]
+  },
+  {
+    "standard_name": "Protein Powder Blend",
+    "aliases": [
+      "Meal Replacement Powder"
+    ]
+  },
+  {
+    "standard_name": "Energy Bar Mix",
+    "aliases": [
+      "Protein Bar Blend"
+    ]
+  },
+  {
+    "standard_name": "Sports Drink Mix",
+    "aliases": [
+      "Electrolyte Drink Powder"
+    ]
+  },
+  {
+    "standard_name": "Infant Formula Base",
+    "aliases": [
+      "Baby Formula Powder"
+    ]
+  },
+  {
+    "standard_name": "Coffee Whitener",
+    "aliases": [
+      "Non-Dairy Creamer"
+    ]
+  },
+  {
+    "standard_name": "Instant Soup Mix",
+    "aliases": [
+      "Dehydrated Soup Base"
+    ]
+  },
+  {
+    "standard_name": "Bouillon Cube",
+    "aliases": [
+      "Stock Cube"
+    ]
+  },
+  {
+    "standard_name": "Gravy Mix",
+    "aliases": [
+      "Instant Gravy Powder"
+    ]
+  },
+  {
+    "standard_name": "Pudding Mix",
+    "aliases": [
+      "Instant Pudding Powder"
+    ]
+  },
+  {
+    "standard_name": "Cake Mix",
+    "aliases": [
+      "Instant Cake Powder"
+    ]
+  },
+  {
+    "standard_name": "Pancake Mix",
+    "aliases": [
+      "Instant Pancake Powder"
+    ]
+  },
+  {
+    "standard_name": "Waffle Mix",
+    "aliases": [
+      "Instant Waffle Powder"
+    ]
+  },
+  {
+    "standard_name": "Muffin Mix",
+    "aliases": [
+      "Instant Muffin Powder"
+    ]
+  },
+  {
+    "standard_name": "Cookie Dough Mix",
+    "aliases": [
+      "Instant Cookie Mix"
+    ]
+  },
+  {
+    "standard_name": "Frosting",
+    "aliases": [
+      "Cake Icing"
+    ]
+  },
+  {
+    "standard_name": "Whipped Topping",
+    "aliases": [
+      "Non-Dairy Whipped Cream"
+    ]
+  },
+  {
+    "standard_name": "Sprinkles",
+    "aliases": [
+      "Confectionery Sprinkles"
+    ]
+  },
+  {
+    "standard_name": "Food Glaze",
+    "aliases": [
+      "Confectioner's Glaze"
+    ]
+  },
+  {
+    "standard_name": "Icing Glaze",
+    "aliases": [
+      "Sugar Glaze"
+    ]
+  },
+  {
+    "standard_name": "Sodium Chloride Compound",
+    "aliases": [
+      "NaCl"
+    ]
+  },
+  {
+    "standard_name": "Calcium Carbonate Compound",
+    "aliases": [
+      "CaCO3"
+    ]
+  },
+  {
+    "standard_name": "Potassium Chloride Compound",
+    "aliases": [
+      "KCl"
+    ]
+  },
+  {
+    "standard_name": "Magnesium Oxide Compound",
+    "aliases": [
+      "MgO"
+    ]
+  },
+  {
+    "standard_name": "Sodium Bicarbonate Compound",
+    "aliases": [
+      "NaHCO3"
+    ]
+  },
+  {
+    "standard_name": "Acetic Acid Compound",
+    "aliases": [
+      "CH3COOH"
+    ]
+  },
+  {
+    "standard_name": "Citric Acid Compound",
+    "aliases": [
+      "C6H8O7"
+    ]
+  },
+  {
+    "standard_name": "Ascorbic Acid Compound",
+    "aliases": [
+      "C6H8O6"
+    ]
+  },
+  {
+    "standard_name": "Glucose Compound",
+    "aliases": [
+      "C6H12O6"
+    ]
+  },
+  {
+    "standard_name": "Sucrose Compound",
+    "aliases": [
+      "C12H22O11"
+    ]
+  },
+  {
+    "standard_name": "Ethanol Compound",
+    "aliases": [
+      "C2H5OH"
+    ]
+  },
+  {
+    "standard_name": "Glycerol Compound",
+    "aliases": [
+      "C3H8O3"
+    ]
+  },
+  {
+    "standard_name": "Lactic Acid Compound",
+    "aliases": [
+      "C3H6O3"
+    ]
+  },
+  {
+    "standard_name": "Tartaric Acid Compound",
+    "aliases": [
+      "C4H6O6"
+    ]
+  },
+  {
+    "standard_name": "Malic Acid Compound",
+    "aliases": [
+      "C4H6O5"
+    ]
+  },
+  {
+    "standard_name": "Menthol",
+    "aliases": [
+      "Peppermint Crystal"
+    ]
+  },
+  {
+    "standard_name": "Limonene",
+    "aliases": [
+      "Citrus Terpene"
+    ]
+  },
+  {
+    "standard_name": "Linalool",
+    "aliases": [
+      "Floral Aroma Compound"
+    ]
+  },
+  {
+    "standard_name": "Eugenol",
+    "aliases": [
+      "Clove Oil Compound"
+    ]
+  },
+  {
+    "standard_name": "Cinnamaldehyde",
+    "aliases": [
+      "Cinnamon Aroma Compound"
+    ]
+  },
+  {
+    "standard_name": "Benzaldehyde",
+    "aliases": [
+      "Artificial Almond Flavor"
+    ]
+  },
+  {
+    "standard_name": "Diacetyl",
+    "aliases": [
+      "Butter Aroma Compound"
+    ]
+  },
+  {
+    "standard_name": "Furaneol",
+    "aliases": [
+      "Strawberry Aroma Compound"
+    ]
+  },
+  {
+    "standard_name": "Ethyl Butyrate",
+    "aliases": [
+      "Fruity Ester Flavor"
+    ]
+  },
+  {
+    "standard_name": "Amyl Acetate",
+    "aliases": [
+      "Banana Ester Flavor"
+    ]
+  },
+  {
+    "standard_name": "Green Lentil",
+    "aliases": [
+      "French Lentil"
+    ]
+  },
+  {
+    "standard_name": "Yellow Lentil",
+    "aliases": [
+      "Toor Dal",
+      "Pigeon Pea"
+    ]
+  },
+  {
+    "standard_name": "Horse Gram",
+    "aliases": [
+      "Kulthi"
+    ]
+  },
+  {
+    "standard_name": "Winged Bean",
+    "aliases": [
+      "Goa Bean"
+    ]
+  },
+  {
+    "standard_name": "Moth Bean",
+    "aliases": [
+      "Matki"
+    ]
+  },
+  {
+    "standard_name": "Guar Bean",
+    "aliases": [
+      "Cluster Bean"
+    ]
+  },
+  {
+    "standard_name": "Amaranth Seed",
+    "aliases": [
+      "Rajgira Seed"
+    ]
+  },
+  {
+    "standard_name": "Wild Rice Blend",
+    "aliases": [
+      "Rice and Wild Rice Mix"
+    ]
+  },
+  {
+    "standard_name": "Spelt Berries",
+    "aliases": [
+      "Whole Spelt Grain"
+    ]
+  },
+  {
+    "standard_name": "Farro",
+    "aliases": [
+      "Emmer Wheat"
+    ]
+  },
+  {
+    "standard_name": "Shallot",
+    "aliases": [
+      "Small Onion"
+    ]
+  },
+  {
+    "standard_name": "Scallion",
+    "aliases": [
+      "Green Onion",
+      "Spring Onion"
+    ]
+  },
+  {
+    "standard_name": "Horseradish",
+    "aliases": [
+      "Prepared Horseradish"
+    ]
+  },
+  {
+    "standard_name": "Wasabi",
+    "aliases": [
+      "Japanese Horseradish"
+    ]
+  },
+  {
+    "standard_name": "Lemongrass",
+    "aliases": [
+      "Citronella Grass"
+    ]
+  },
+  {
+    "standard_name": "Galangal",
+    "aliases": [
+      "Thai Ginger"
+    ]
+  },
+  {
+    "standard_name": "Curry Leaf",
+    "aliases": [
+      "Kadi Patta"
+    ]
+  },
+  {
+    "standard_name": "Lotus Root",
+    "aliases": [
+      "Kamal Kakdi"
+    ]
+  },
+  {
+    "standard_name": "Bamboo Shoot",
+    "aliases": [
+      "Bamboo Sprout"
+    ]
+  },
+  {
+    "standard_name": "Water Chestnut",
+    "aliases": [
+      "Singhara"
+    ]
+  },
+  {
+    "standard_name": "Snow Pea",
+    "aliases": [
+      "Mangetout"
+    ]
+  },
+  {
+    "standard_name": "Bitter Gourd",
+    "aliases": [
+      "Karela"
+    ]
+  },
+  {
+    "standard_name": "Bottle Gourd",
+    "aliases": [
+      "Lauki"
+    ]
+  },
+  {
+    "standard_name": "Ridge Gourd",
+    "aliases": [
+      "Turai"
+    ]
+  },
+  {
+    "standard_name": "Drumstick",
+    "aliases": [
+      "Moringa Pod"
+    ]
+  },
+  {
+    "standard_name": "Barley Malt Extract",
+    "aliases": [
+      "Malted Barley Extract"
+    ]
+  },
+  {
+    "standard_name": "Brown Rice Syrup Sweetener",
+    "aliases": [
+      "Rice Malt Syrup"
+    ]
+  },
+  {
+    "standard_name": "Sorghum Syrup",
+    "aliases": [
+      "Sorghum Molasses"
+    ]
+  },
+  {
+    "standard_name": "Yacon Syrup",
+    "aliases": [
+      "Yacon Root Syrup"
+    ]
+  },
+  {
+    "standard_name": "Birch Syrup",
+    "aliases": [
+      "Birch Tree Syrup"
+    ]
+  },
+  {
+    "standard_name": "Carob Syrup",
+    "aliases": [
+      "Carob Molasses"
+    ]
+  },
+  {
+    "standard_name": "Fig Syrup",
+    "aliases": [
+      "Fig Molasses"
+    ]
+  },
+  {
+    "standard_name": "Pomegranate Molasses",
+    "aliases": [
+      "Concentrated Pomegranate Syrup"
+    ]
+  },
+  {
+    "standard_name": "Sea Buckthorn",
+    "aliases": [
+      "Sea Buckthorn Berry"
+    ]
+  },
+  {
+    "standard_name": "Elderberry",
+    "aliases": [
+      "Sambucus Berry"
+    ]
+  },
+  {
+    "standard_name": "Acai Berry",
+    "aliases": [
+      "Acai Fruit"
+    ]
+  },
+  {
+    "standard_name": "Goji Berry",
+    "aliases": [
+      "Wolfberry"
+    ]
+  },
+  {
+    "standard_name": "Mulberry",
+    "aliases": [
+      "Shahtoot"
+    ]
+  },
+  {
+    "standard_name": "Currant",
+    "aliases": [
+      "Dried Currant"
+    ]
+  },
+  {
+    "standard_name": "Kumquat",
+    "aliases": [
+      "Cumquat"
+    ]
+  },
+  {
+    "standard_name": "Quince",
+    "aliases": [
+      "Quince Fruit"
+    ]
+  },
+  {
+    "standard_name": "Ugli Fruit",
+    "aliases": [
+      "Tangelo"
+    ]
+  },
+  {
+    "standard_name": "Durian",
+    "aliases": [
+      "King of Fruits"
+    ]
+  },
+  {
+    "standard_name": "Mangosteen",
+    "aliases": [
+      "Purple Mangosteen"
+    ]
+  },
+  {
+    "standard_name": "Longan",
+    "aliases": [
+      "Dragon Eye Fruit"
+    ]
+  },
+  {
+    "standard_name": "Soursop",
+    "aliases": [
+      "Graviola"
+    ]
+  },
+  {
+    "standard_name": "Breadfruit",
+    "aliases": [
+      "Jackfruit Relative"
+    ]
+  },
+  {
+    "standard_name": "Plantain",
+    "aliases": [
+      "Cooking Banana"
+    ]
+  },
+  {
+    "standard_name": "Cassava Flour",
+    "aliases": [
+      "Manioc Flour"
+    ]
+  },
+  {
+    "standard_name": "Sago",
+    "aliases": [
+      "Sabudana"
+    ]
+  },
+  {
+    "standard_name": "Chestnut Puree",
+    "aliases": [
+      "Sweet Chestnut Puree"
+    ]
+  },
+  {
+    "standard_name": "Hazelnut Praline Paste",
+    "aliases": [
+      "Praline Hazelnut Paste"
+    ]
+  },
+  {
+    "standard_name": "Almond Praline Paste",
+    "aliases": [
+      "Praline Almond Paste"
+    ]
+  },
+  {
+    "standard_name": "Peanut Praline",
+    "aliases": [
+      "Peanut Brittle"
+    ]
+  },
+  {
+    "standard_name": "Sesame Brittle",
+    "aliases": [
+      "Sesame Candy"
+    ]
+  },
+  {
+    "standard_name": "Halva",
+    "aliases": [
+      "Sesame Halva"
+    ]
+  },
+  {
+    "standard_name": "Marzipan",
+    "aliases": [
+      "Almond Marzipan"
+    ]
+  },
+  {
+    "standard_name": "Fondant",
+    "aliases": [
+      "Sugar Fondant"
+    ]
+  },
+  {
+    "standard_name": "Royal Icing",
+    "aliases": [
+      "Egg White Icing"
+    ]
+  },
+  {
+    "standard_name": "Buttercream",
+    "aliases": [
+      "Butter Frosting"
+    ]
+  },
+  {
+    "standard_name": "Ganache",
+    "aliases": [
+      "Chocolate Ganache"
+    ]
+  },
+  {
+    "standard_name": "Custard Powder",
+    "aliases": [
+      "Instant Custard Mix"
+    ]
+  },
+  {
+    "standard_name": "Blancmange",
+    "aliases": [
+      "Milk Starch Dessert"
+    ]
+  },
+  {
+    "standard_name": "Panna Cotta Mix",
+    "aliases": [
+      "Cream Dessert Mix"
+    ]
+  },
+  {
+    "standard_name": "Tiramisu Mix",
+    "aliases": [
+      "Coffee Dessert Mix"
+    ]
+  },
+  {
+    "standard_name": "Cheesecake Filling",
+    "aliases": [
+      "Cream Cheese Filling"
+    ]
+  }
+]

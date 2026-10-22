@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "nutriscan-backend"
+version = "0.1.0"
+description = "NutriScan - AI-Powered Personalized Food Safety & Ingredient Analysis System (Backend Foundation)"
+authors = ["NutriScan Team"]
+readme = "README.md"
+packages = [{ include = "app" }]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.0"
+uvicorn = { extras = ["standard"], version = "^0.32.0" }
+sqlalchemy = "^2.0.36"
+asyncpg = "^0.30.0"
+alembic = "^1.13.3"
+pydantic = "^2.9.2"
+pydantic-settings = "^2.5.2"
+python-jose = { extras = ["cryptography"], version = "^3.3.0" }
+bcrypt = "^4.2.0"
+python-multipart = "^0.0.12"
+python-dotenv = "^1.0.1"
+loguru = "^0.7.2"
+slowapi = "^0.1.9"
+email-validator = "^2.2.0"
+pillow = "^11.0.0"
+numpy = "^1.26.4"
+opencv-python = "^4.10.0.84"
+paddlepaddle = "^2.6.2"
+paddleocr = "^2.9.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+pytest-asyncio = "^0.24.0"
+httpx = "^0.27.2"
+aiosqlite = "^0.20.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
